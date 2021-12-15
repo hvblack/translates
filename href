@@ -17,6 +17,7 @@ import os
 import sys
 import pytz
 #sys.path.insert(0, os.path.abspath(os.path.dirname(__file__)))
+os.chdir('/home/mint/')
 #import testair1
 #import testair2
     
@@ -32,11 +33,11 @@ default_args = {
     'email_on_failure': True,
     'email_on_retry': False,
     'retries': 1,
-    'retry_delay': timedelta(minutes=5)
+    'retry_delay': timedelta(minutes=2)
 }
 
 with DAG('frcst_day2',
-         start_date=datetime(2021, 12, 10, 14, 30, 0),
+         start_date=datetime(2021, 12, 15, 14, 34, 0),
          schedule_interval=timedelta(minutes=10),
          default_args=default_args,
          description='Тестовая дичь',
