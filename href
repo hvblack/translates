@@ -5,3 +5,53 @@ https://coderlessons.com/tutorials/bazy-dannykh/sqlalchemy/sqlalchemy-kratkoe-ru
 https://habr.co
 
 https://lectureswww.readthedocs.io/6.www.sync/2.codding/9.databases/2.sqlalchemy/3.orm.html
+
+###################################################################################################################################################
+######################################################### Импортируем модули ######################################################################
+###################################################################################################################################################
+from airflow import DAG
+from airflow.operators.bash import BashOperator
+from airflow.utils.task_group import TaskGroup
+from datetime import datetime, timedelta
+import os
+import sys
+import pytz
+#sys.path.insert(0, os.path.abspath(os.path.dirname(__file__)))
+#import testair1
+#import testair2
+    
+###################################################################################################################################################
+######################################################### Создаем DAG #############################################################################
+###################################################################################################################################################
+yesterday = datetime.now(pytz.timezone("Asia/Vladivostok")).date() - timedelta(days=1)
+yesterday = datetime.strftime(yesterday, '%Y-%m-%d')
+
+default_args = {
+    'owner': 'Khramenkov.VV@dns-shop.ru',
+    'email': ['Khramenkov.VV@dns-shop.ru'],
+    'email_on_failure': True,
+    'email_on_retry': False,
+    'retries': 1,
+    'retry_delay': timedelta(minutes=5)
+}
+
+with DAG('frcst_day2',
+         start_date=datetime(2021, 12, 10, 14, 30, 0),
+         schedule_interval=timedelta(minutes=10),
+         default_args=default_args,
+         description='Тестовая дичь',
+         tags=['frcst', 'kafka']) as dag:
+
+    testair1 = BashOperator(
+        task_id='task_testair1',
+        bash_command='testair1.py',
+        dag=dag
+    )
+
+    testair2 = BashOperator(
+        task_id='task_testair2',
+        bash_command='testair2.py',
+        dag=dag
+    )
+    
+    testair1 >> testair2
