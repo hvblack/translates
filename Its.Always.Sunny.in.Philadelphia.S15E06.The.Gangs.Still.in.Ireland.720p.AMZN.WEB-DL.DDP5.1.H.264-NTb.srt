@@ -928,1114 +928,978 @@ It's a ruin.
 We can't sleep here.
 
 178
-00:09:59,171 --> 00:10:03,333
+00:09:59,171 --> 00:10:03,233
 Wh... Dee, I'm sure
 there's, like, a furnished area
 with, like, bedrooms and shit
-somewhere. 
+somewhere.
 
 179
-00:10:03,333 --> 00:10:04,168
+00:10:03,233 --> 00:10:06,574
 I mean, what, do you,
-
-180
-00:10:04,212 --> 00:10:05,343
 what, do you want
 to walk into a castle...
-
-181
-00:10:05,387 --> 00:10:06,997
 and have it feel like a Hyatt?
 
-182
-00:10:07,041 --> 00:10:08,651
+180
+00:10:06,574 --> 00:10:07,990
 I mean, where's the charm
 in that?
 
-183
-00:10:08,695 --> 00:10:11,262
+181
+00:10:08,072 --> 00:10:10,993
 Whoa.
 This place has a dark past.
 
-184
-00:10:11,306 --> 00:10:13,787
+182
+00:10:10,993 --> 00:10:13,294
 Murder, betrayal, beheadings.
 
-185
-00:10:13,830 --> 00:10:16,006
+183
+00:10:13,294 --> 00:10:17,890
 Well, you know,
 it's a castle, Dee.
-
-186
-00:10:16,050 --> 00:10:18,182
 You know, people were going
 crazy in castles all the time.
 
-187
-00:10:18,226 --> 00:10:20,054
+184
+00:10:17,890 --> 00:10:21,881
 And beheading people--
 well, that-that was just
-
-188
-00:10:20,097 --> 00:10:22,534
 their way of solving problems
 back then, you know.
 
-189
-00:10:22,578 --> 00:10:24,188
+185
+00:10:21,881 --> 00:10:24,756
 That's tenth century
 charm for you.
 
-190
-00:10:24,232 --> 00:10:25,537
+186
+00:10:25,465 --> 00:10:28,279
 - Yeah.
-
-191
-00:10:25,581 --> 00:10:27,931
 Yeah, this was in 2008.
 
-192
-00:10:27,975 --> 00:10:30,238
+187
+00:10:28,279 --> 00:10:32,604
 Two... What?
 - Yeah. A mother
-
-193
-00:10:30,281 --> 00:10:33,023
 went insane and beheaded
 all four children.
 
-194
-00:10:33,067 --> 00:10:35,896
+188
+00:10:32,604 --> 00:10:33,931
 - Just chopped their heads
 right off.
-- Well, that-that is...
 
-195
-00:10:35,939 --> 00:10:37,941
-- that's decidedly
+189
+00:10:33,931 --> 00:10:37,533
+- Well, that-that is... that's decidedly
 less charming, isn't it?
 - It's a little less charming.
 
-196
-00:10:37,985 --> 00:10:39,943
+190
+00:10:37,593 --> 00:10:39,425
 I'm not sleeping here, Dennis.
 It's very creepy.
 
-197
-00:10:39,987 --> 00:10:41,379
+191
+00:10:39,425 --> 00:10:43,072
 No, Dee. This is gonna be great.
 Trust me.
-
-198
-00:10:41,423 --> 00:10:42,598
 This is gon-this is gonna
 be awesome, okay?
-
-199
-00:10:42,642 --> 00:10:43,773
 Just...
 
-200
-00:10:43,817 --> 00:10:45,296
+192
+00:10:43,072 --> 00:10:46,267
 I don't care for
 all the sheep, though.
-
-201
-00:10:45,340 --> 00:10:46,471
 That's-that's my only thing.
 
-202
-00:10:46,515 --> 00:10:47,864
+193
+00:10:46,267 --> 00:10:48,882
 All... all what sheep?
+We haven't seen a sheep.
 
-203
-00:10:47,908 --> 00:10:50,388
-- We haven't seen a sheep.
-- The sheep, the sheep.
-
-204
-00:10:50,432 --> 00:10:51,999
+194
+00:10:48,882 --> 00:10:52,478
+-  The sheep, the sheep.
 I-I'm sure they've been
 passing through, and that's...
-
-205
-00:10:52,042 --> 00:10:53,391
-Thr... They've been passing
+- Thr... They've been passing
 through the... into the castle?
 
-206
-00:10:53,435 --> 00:10:55,393
-Well, why else would
+195
+00:10:52,478 --> 00:10:56,815
+- Well, why else would
 I be coughing and wheezing?
+- You have COVID.
 
-207
-00:10:55,437 --> 00:10:57,047
-You have COVID.
+196
+00:10:56,815 --> 00:11:01,550
+- To Charlie, my son.
+- To the dad I didn't know I had.
 
-208
-00:10:57,091 --> 00:10:58,875
-To Charlie, my son.
-
-209
-00:10:58,919 --> 00:11:01,661
-To the dad I didn't know I had.
-
-210
-00:11:04,141 --> 00:11:05,490
+197
+00:11:02,885 --> 00:11:08,108
 Well, I'm just sorry that
-
-211
-00:11:05,534 --> 00:11:07,710
 I didn't get a chance
 to see you growing up.
-
-212
-00:11:07,754 --> 00:11:08,885
 - Yeah.
 - Mm-hmm.
 
-213
-00:11:08,929 --> 00:11:10,452
+198
+00:11:08,108 --> 00:11:11,794
 And for what it's worth,
-
-214
-00:11:10,495 --> 00:11:12,149
 I did love your mother.
 
-215
-00:11:12,193 --> 00:11:13,281
+199
+00:11:11,794 --> 00:11:12,862
 So did I.
 
-216
-00:11:14,108 --> 00:11:15,196
+200
+00:11:12,929 --> 00:11:16,131
 We all did.
-
-217
-00:11:15,239 --> 00:11:16,414
 A wonderful woman.
 
-218
-00:11:16,458 --> 00:11:17,720
+201
+00:11:16,131 --> 00:11:17,138
 I banged her, too.
 
-219
-00:11:17,764 --> 00:11:19,983
-All right, well, Mom got around.
+202
+00:11:17,195 --> 00:11:20,864
+- All right, well, Mom got around.
+- Well, yeah.
 
-220
-00:11:20,027 --> 00:11:21,637
-Well, yeah.
-
-221
-00:11:21,681 --> 00:11:23,639
+203
+00:11:20,934 --> 00:11:24,715
 Hey, this is jammed in there.
-
-222
-00:11:23,683 --> 00:11:25,641
 What do you call it?
 What is that?
 
-223
-00:11:25,685 --> 00:11:26,947
+204
+00:11:24,715 --> 00:11:26,663
 A lingonberry seed or something?
 
-224
-00:11:26,990 --> 00:11:28,688
+205
+00:11:26,663 --> 00:11:28,856
 The important thing
 is you're here now.
-
-225
-00:11:28,731 --> 00:11:30,733
 - Yeah. Yeah.
+
+206
+00:11:28,856 --> 00:11:31,272
 - Yeah. And I don't want to waste
 any more time.
+- No, neither do I.
 
-226
-00:11:30,777 --> 00:11:32,430
-No, neither do I.
+207
+00:11:31,272 --> 00:11:34,467
 I mean, God, I've...
-
-227
-00:11:32,474 --> 00:11:34,606
 I've always had
 so many questions, you know?
 
-228
-00:11:34,650 --> 00:11:37,087
+208
+00:11:34,467 --> 00:11:37,707
 About who I am
 and where I come from.
 
-229
-00:11:37,131 --> 00:11:39,263
-- And my-my...
-
-230
-00:11:39,307 --> 00:11:42,266
+209
+00:11:38,916 --> 00:11:41,744
 My-my family heritage,
 and-and, uh...
 
-231
-00:11:42,310 --> 00:11:43,790
-- You know, it's good to have
+210
+00:11:41,744 --> 00:11:43,126
+You know, it's good to have
 some truth about...
 
-232
-00:11:43,833 --> 00:11:45,182
+211
+00:11:43,126 --> 00:11:45,991
 Will you stop?!
 You're just...
-
-233
-00:11:45,226 --> 00:11:46,618
 You're sucking
 and slurping away.
 
-234
-00:11:46,662 --> 00:11:48,098
+212
+00:11:45,991 --> 00:11:48,060
 I'm trying to have
 a conversation
+with my father.
 
-235
-00:11:48,142 --> 00:11:49,970
-- with my father.
-- It's jammed in there, Charlie.
-
-236
-00:11:50,013 --> 00:11:51,667
+213
+00:11:48,060 --> 00:11:50,834
+- It's jammed in there, Charlie. I can't get it out.
 - I don't care,
 go to the bathroom...
-- I can't get it out.
 
-237
-00:11:51,711 --> 00:11:53,364
+214
+00:11:50,834 --> 00:11:55,473
 - I'm gonna need a jackhammer.
 - You're using a screw.
-
-238
-00:11:53,408 --> 00:11:55,410
 You're embarrassing me
 in front of my dad here, man.
 
-239
-00:11:55,453 --> 00:11:56,933
+215
+00:11:55,473 --> 00:11:56,411
 Sorry about him.
 
-240
-00:11:56,977 --> 00:11:59,849
-Charlie, I'm just glad
+216
+00:11:56,411 --> 00:12:00,858
+- Charlie, I'm just glad
 that you're sitting here now.
+- Yeah.
 
-241
-00:11:59,893 --> 00:12:01,329
-Yeah.
-
-242
-00:12:08,771 --> 00:12:12,775
+217
+00:12:08,102 --> 00:12:13,522
 ♪ My boy has found me,
 and now I'm glad♪
 
-243
-00:12:16,823 --> 00:12:18,302
-Yeah, I get it.
-
-244
-00:12:18,346 --> 00:12:21,653
+218
+00:12:17,483 --> 00:12:22,475
 ♪ A dad I didn't know I had♪
 
-245
-00:12:23,786 --> 00:12:26,963
+219
+00:12:22,475 --> 00:12:27,154
 ♪ The first time round
 is a bitter pill♪
 
-246
-00:12:28,008 --> 00:12:31,402
+220
+00:12:27,154 --> 00:12:30,900
 ♪ But the second chance
 is better still♪
 
-247
-00:12:31,446 --> 00:12:35,145
+221
+00:12:30,900 --> 00:12:35,095
 ♪ And then we find
 new seeds to sow♪
 
-248
-00:12:35,189 --> 00:12:38,235
+222
+00:12:35,095 --> 00:12:38,915
 ♪ To grow our love
 we didn't know♪
 
-249
-00:12:40,281 --> 00:12:42,587
+223
+00:12:38,915 --> 00:12:41,911
 ♪ The Kelly lads,
 the Kelly boys♪
 
-250
-00:12:42,631 --> 00:12:44,894
+224
+00:12:41,911 --> 00:12:44,474
 ♪ We drink and laugh
 and make our noise♪
 
-251
-00:12:44,938 --> 00:12:47,592
+225
+00:12:44,564 --> 00:12:47,038
 ♪ We'll sync right up
 with all our songs♪
 
-252
-00:12:47,636 --> 00:12:50,291
+226
+00:12:47,038 --> 00:12:50,011
 ♪ So come ahead and join along♪
 
-253
-00:12:50,334 --> 00:12:52,510
+227
+00:12:50,011 --> 00:12:54,667
 ♪ Hooray! Hurrah!♪
-
-254
-00:12:52,554 --> 00:12:55,035
 ♪ A fiddle-dee-doo,
 a fiddle-da-da♪
 
-255
-00:12:55,078 --> 00:12:57,820
+228
+00:12:54,667 --> 00:12:57,100
 ♪ The Kelly lads,
 the Kelly boys♪
 
-256
-00:12:57,864 --> 00:12:59,909
+229
+00:12:57,100 --> 00:12:59,641
 ♪ They drink and laugh
 and make their noise♪
 
-257
-00:12:59,953 --> 00:13:04,479
+230
+00:12:59,641 --> 00:13:04,070
 ♪ We sync right up
 with all their songs♪
 
-258
-00:13:04,522 --> 00:13:07,830
+231
+00:13:04,070 --> 00:13:07,994
 ♪ So come ahead
 and join along.♪
 
-259
-00:13:10,659 --> 00:13:13,488
+232
+00:13:09,300 --> 00:13:13,196
 ♪ And I am Frank,
 and I factor in somehow.♪
 
-260
-00:13:13,531 --> 00:13:15,620
+233
+00:13:13,196 --> 00:13:14,953
 - Aw, I shouldn't have
 used a screw.
 - Jesus, Frank.
 
-261
-00:13:15,664 --> 00:13:18,145
+234
+00:13:14,953 --> 00:13:17,440
 - Aw, I'm gonna...
 - Go to the bathroom
 and clean it up.
 
-262
-00:13:18,188 --> 00:13:20,712
+235
+00:13:17,440 --> 00:13:20,612
 - Go, go. You're embarrassing me.
 - Where's the bathroom?
 
-263
-00:13:24,064 --> 00:13:27,415
+236
+00:13:23,291 --> 00:13:26,918
 Walking this path
 is a serious commitment.
 
-264
-00:13:27,458 --> 00:13:30,287
+237
+00:13:26,918 --> 00:13:30,059
 One that requires
 considerable training.
 
-265
-00:13:30,331 --> 00:13:33,682
+238
+00:13:30,059 --> 00:13:35,214
 Oh, Father, look, I-I've been
 S'ing and F'ing
-
-266
-00:13:33,725 --> 00:13:35,684
 my way through life
 for far too long.
 
-267
-00:13:35,727 --> 00:13:37,947
+239
+00:13:35,214 --> 00:13:38,604
 I think it's time that
 I started sucking down
-
-268
-00:13:37,991 --> 00:13:39,296
 the words of the Bible.
 
-269
-00:13:39,340 --> 00:13:41,342
+240
+00:13:38,604 --> 00:13:42,211
 And instead of looking for
 pieces of ass,
-
-270
-00:13:41,385 --> 00:13:42,734
 I'd just look for peace.
 
-271
-00:13:42,778 --> 00:13:44,954
+241
+00:13:42,211 --> 00:13:47,197
 Well, your language
 leaves a bit to be desired,
-
-272
-00:13:44,998 --> 00:13:47,957
 but your heart's
 in the right place.
 
-273
-00:13:48,001 --> 00:13:50,003
+242
+00:13:47,275 --> 00:13:49,161
 I think.
 
-274
-00:13:50,046 --> 00:13:54,224
+243
+00:13:49,161 --> 00:13:53,670
 So, to truly understand
 what this life is like,
 
-275
-00:13:54,268 --> 00:13:57,706
+244
+00:13:53,670 --> 00:13:57,456
 you need to spend some time
 with someone who's living it.
 
-276
-00:13:57,749 --> 00:14:01,405
+245
+00:13:57,456 --> 00:14:01,401
 Brother Thomas, I'd like you
 to meet someone.
 
-277
-00:14:03,320 --> 00:14:08,891
+246
+00:14:01,956 --> 00:14:08,293
 ♪ And I can't fight
 this feeling anymore♪
 
-278
-00:14:08,935 --> 00:14:10,762
+247
+00:14:08,293 --> 00:14:14,273
 ♪ I've forgotten what I♪
-
-279
-00:14:10,806 --> 00:14:15,071
 ♪ Started fighting for♪
 
-280
-00:14:15,115 --> 00:14:19,815
+248
+00:14:14,273 --> 00:14:19,022
 ♪ It's time to bring this ship
 into the shore♪
 
-281
-00:14:19,859 --> 00:14:22,513
+249
+00:14:19,022 --> 00:14:26,266
 ♪ And throw away the oars♪
-
-282
-00:14:22,557 --> 00:14:24,994
 ♪ Forever♪
 
-283
-00:14:27,388 --> 00:14:29,694
+250
+00:14:26,402 --> 00:14:32,532
 ♪ 'Cause I can't
 fight this feeling♪
-
-284
-00:14:29,738 --> 00:14:33,481
 ♪ Anymore♪
 
-285
-00:14:33,524 --> 00:14:36,136
+251
+00:14:32,532 --> 00:14:33,900
 -♪ I've forgotten.♪
+
+252
+00:14:33,900 --> 00:14:36,521
 - Not him. Give me somebody else.
 
-286
-00:14:37,746 --> 00:14:40,662
+253
+00:14:36,521 --> 00:14:40,158
 - I'm sorry?
 - Father...
 
-287
-00:14:40,705 --> 00:14:43,404
+254
+00:14:40,158 --> 00:14:44,332
 I-I'm gonna be alone
 in the seminary
-
-288
-00:14:43,447 --> 00:14:44,709
 with him, in the rectory?
 
-289
-00:14:44,753 --> 00:14:46,755
+255
+00:14:44,332 --> 00:14:48,377
 I mean, these are very
 triggering words.
-
-290
-00:14:46,798 --> 00:14:48,844
 I will S and F him
 into oblivion.
 
-291
-00:14:48,888 --> 00:14:51,542
+256
+00:14:48,377 --> 00:14:50,863
 I mean, he looks like
 Paul Bunyan.
 
-292
-00:14:51,586 --> 00:14:54,284
+257
+00:14:50,949 --> 00:14:54,102
 I need more of, like, a...
 Elmer Fudd. You got any Fudds?
 
-293
-00:14:54,328 --> 00:14:56,417
+258
+00:14:54,102 --> 00:14:55,625
 Let me take a look.
 
-294
-00:14:56,460 --> 00:14:58,114
+259
+00:14:55,625 --> 00:14:57,963
 Oh, yeah. What about this guy?
 What's his story?
 
-295
-00:14:58,158 --> 00:14:59,637
-Gus?
-
-296
-00:14:59,681 --> 00:15:02,336
-Gus? Yeah, I ain't
+260
+00:14:57,963 --> 00:15:02,078
+- Gus?
+- Gus? Yeah, I ain't
 falling in love with Gus.
 
-297
-00:15:02,379 --> 00:15:04,338
-Gimme him.
+261
+00:15:02,078 --> 00:15:05,595
+- Gimme him.
+- Sure.
 
-298
-00:15:04,381 --> 00:15:05,861
-Sure.
-
-299
-00:15:12,955 --> 00:15:16,219
+262
+00:15:12,171 --> 00:15:15,349
 See, Dee?
 The bedroom's perfect.
 
-300
-00:15:19,396 --> 00:15:21,964
+263
+00:15:18,514 --> 00:15:21,154
 Dude, I think
 you need a ventilator.
 
-301
-00:15:22,008 --> 00:15:24,053
+264
+00:15:21,154 --> 00:15:24,352
 I just need
 a good night's sleep.
 
-302
-00:15:25,402 --> 00:15:26,708
+265
+00:15:24,352 --> 00:15:27,228
 Just go to bed.
 
-303
-00:15:33,889 --> 00:15:35,978
+266
+00:15:32,553 --> 00:15:38,127
 I agree with you, I just...
-
-304
-00:15:36,022 --> 00:15:37,675
 Well, I don't know
 what to do with her.
 
-305
-00:15:41,331 --> 00:15:44,987
+267
+00:15:40,544 --> 00:15:44,252
 - What?
 - What?
 
-306
-00:15:45,031 --> 00:15:47,511
+268
+00:15:44,252 --> 00:15:46,743
 Who you talking to?
 
-307
-00:15:47,555 --> 00:15:49,992
+269
+00:15:46,743 --> 00:15:50,433
 Nobody.
 You're hearing things Dee.
 
-308
-00:15:51,820 --> 00:15:54,736
+270
+00:15:50,698 --> 00:15:54,338
 I think what I'm hearing
 is fluid fill up your lungs.
 
-309
-00:15:54,779 --> 00:15:58,653
+271
+00:15:54,338 --> 00:15:57,856
 Dee, just go to bed.
 
-310
-00:15:58,696 --> 00:16:00,742
+272
+00:15:57,856 --> 00:15:59,894
 Okay.
 
-311
-00:16:07,662 --> 00:16:10,012
+273
+00:16:06,663 --> 00:16:09,530
 It has to be tonight?
 
-312
-00:16:10,056 --> 00:16:11,753
+274
+00:16:09,530 --> 00:16:12,377
 Okay, Dennis,
 I don't like that.
-
-313
-00:16:11,796 --> 00:16:13,276
 I don't like it.
 
-314
-00:16:13,320 --> 00:16:18,020
+275
+00:16:12,377 --> 00:16:17,536
 I'm not even talking to you.
 I'm talking to the castle.
 
-315
-00:16:18,064 --> 00:16:20,805
+276
+00:16:17,839 --> 00:16:20,830
 You're talking to the castle?
 
-316
-00:16:22,155 --> 00:16:24,244
-I-Is it talking back?
+277
+00:16:22,005 --> 00:16:26,853
+- I-Is it talking back?
+- Dee, just go to bed!
 
-317
-00:16:24,287 --> 00:16:26,594
-Dee, just go to bed!
+278
+00:16:34,643 --> 00:16:39,153
+- It's the hair, by the way.
+- Okay, n...
 
-318
-00:16:35,211 --> 00:16:38,258
-It's the hair, by the way.
-
-319
-00:16:38,301 --> 00:16:40,347
-Okay, n...
-
-320
-00:16:40,390 --> 00:16:43,045
+279
+00:16:39,222 --> 00:16:42,526
 right now, are you
 talking to me or the castle?
 
-321
-00:16:43,089 --> 00:16:45,265
+280
+00:16:42,526 --> 00:16:47,296
 You.
-
-322
-00:16:45,308 --> 00:16:48,224
 We were talking about
 beheadings earlier.
 
-323
-00:16:48,268 --> 00:16:52,620
+281
+00:16:47,296 --> 00:16:51,722
 - It's the hair.
 - What's the hair?
 
-324
-00:16:52,663 --> 00:16:55,405
+282
+00:16:51,722 --> 00:16:55,300
 Well, that's the trouble
 with heads, isn't it?
 
-325
-00:16:55,449 --> 00:16:58,017
+283
+00:16:55,300 --> 00:16:59,982
 The hair's not authentic.
-
-326
-00:16:58,060 --> 00:17:00,367
 It's... it's been tampered with.
 
-327
-00:17:00,410 --> 00:17:03,761
+284
+00:16:59,982 --> 00:17:04,127
 That's why there's no smell.
 It's a... it's a lie.
 
-328
-00:17:05,198 --> 00:17:07,461
+285
+00:17:04,127 --> 00:17:08,811
 The hair is on the head.
-
-329
-00:17:07,504 --> 00:17:10,290
 The hair is a lie,
-and therefore,
 
-330
-00:17:10,333 --> 00:17:13,771
+286
+00:17:08,811 --> 00:17:12,980
+and therefore,
 it's better to just
 remove the head altogether.
 
-331
-00:17:13,815 --> 00:17:16,035
+287
+00:17:12,980 --> 00:17:16,035
 Okay. Okay, Dennis,
 you're very, very sick,
 
-332
+288
 00:17:16,078 --> 00:17:18,211
 - and you need to go
 to the hospital.
 - Silence!
 
-333
+289
 00:17:23,651 --> 00:17:26,088
 Dee, I can't breathe.
 I need to go to the hospital.
 
-334
+290
 00:17:26,132 --> 00:17:27,872
 Yeah, no shit!
 
-335
+291
 00:17:27,916 --> 00:17:29,787
 Oh, my God.
 I'm gonna call us an ambulance
 
-336
+292
 00:17:29,831 --> 00:17:30,962
 - and get us out of here.
 - Yeah.
 
-337
+293
 00:17:31,006 --> 00:17:32,790
 No, no, my phone's dead.
 
-338
+294
 00:17:32,834 --> 00:17:34,966
 Oh, there's no electricity
 in this goddamn place.
 
-339
+295
 00:17:35,010 --> 00:17:36,446
 Then go get the car
 and drive me.
 
-340
+296
 00:17:36,490 --> 00:17:37,795
 The car's out of gas.
 
-341
+297
 00:17:37,839 --> 00:17:39,145
 Then ring the bell!
 
-342
+298
 00:17:39,188 --> 00:17:41,103
 What bell?
 
-343
+299
 00:17:41,147 --> 00:17:42,452
 Go to the old bell tower
 
-344
+300
 00:17:42,496 --> 00:17:45,455
 and ring the goddamn bell,
 you bitch!
 
-345
+301
 00:17:45,499 --> 00:17:48,806
 Oh, God, um...
 
-346
+302
 00:17:48,850 --> 00:17:53,594
 Goddamn it.
 Where's the stupid bell tower?
 
-347
+303
 00:17:53,637 --> 00:17:54,986
 No. No, no, no, no.
 
-348
+304
 00:17:55,030 --> 00:17:56,684
 - Oh, Jesus Christ.
 
-349
+305
 00:17:56,727 --> 00:17:58,512
 - Oh!
 
-350
+306
 00:17:58,555 --> 00:18:00,122
 - Oh... Oh!
 
-351
+307
 00:18:00,166 --> 00:18:03,647
 Oh, oh, oh...
 
-352
+308
 00:18:03,691 --> 00:18:06,824
 Aah! Get off me!
 Get off me!
 
-353
+309
 00:18:06,868 --> 00:18:08,913
 Okay...
 
-354
+310
 00:18:11,612 --> 00:18:14,615
 - Hello?
 
-355
+311
 00:18:14,658 --> 00:18:15,659
 Who is that?
 
-356
+312
 00:18:18,706 --> 00:18:22,666
 Your head is a lie.
 
-357
+313
 00:18:22,710 --> 00:18:25,582
 Dennis?
 What are you doing?
 
-358
+314
 00:18:25,626 --> 00:18:29,151
 You've tampered with it, and...
 
-359
+315
 00:18:29,195 --> 00:18:30,848
 we won't stand for it
 any longer.
 
-360
+316
 00:18:30,892 --> 00:18:35,157
 Oh, D... Dennis, this is just
 the COVID talking, okay?
 
-361
+317
 00:18:35,201 --> 00:18:36,463
 You're hallucinating.
 
-362
+318
 00:18:37,812 --> 00:18:39,857
 I don't have COVID.
 
-363
+319
 00:18:48,083 --> 00:18:49,780
 No, Dennis, please.
 
-364
+320
 00:18:49,824 --> 00:18:52,914
 Please, Dennis, it's me.
 Snap out of it.
 
-365
+321
 00:18:59,225 --> 00:19:00,965
 So, that's the house.
 
-366
+322
 00:19:01,009 --> 00:19:02,141
 - Wow.
 - Oh, this place
 
-367
+323
 00:19:02,184 --> 00:19:04,360
 - is charming as shit.
 - Yeah.
 
-368
+324
 00:19:04,404 --> 00:19:06,319
 - Dennis would be creaming
 in his pants if he saw this.
 - Yeah.
 
-369
+325
 00:19:06,362 --> 00:19:08,147
 Right, well, uh,
 language, Frank,
 
-370
+326
 00:19:08,190 --> 00:19:10,149
 - you know, 'cause
 we're guests, so, yeah.
 - Oh, yeah.
 
-371
+327
 00:19:10,192 --> 00:19:11,802
 It's a lovely home.
 
-372
+328
 00:19:11,846 --> 00:19:14,718
 Uh, are you sure okay
 with us staying the night?
 
-373
+329
 00:19:14,762 --> 00:19:16,720
 Oh, I insist.
 Yeah.
 
-374
+330
 00:19:16,764 --> 00:19:18,374
 I have a spare room
 is down the hall,
 
-375
+331
 00:19:18,418 --> 00:19:20,115
 and, uh, I set up a cot
 for you there.
 
-376
+332
 00:19:20,159 --> 00:19:22,422
 Oh, well, we'll take the cot.
 
-377
+333
 00:19:22,465 --> 00:19:24,946
 Y... You'll both
 sleep on the cot?
 
-378
+334
 00:19:24,989 --> 00:19:29,559
 Uh, I think I'd rather
 take the bedroom, Frank.
 
-379
+335
 00:19:29,603 --> 00:19:32,083
 Won't you get lonely in there?
 What if it gets cold?
 
-380
+336
 00:19:32,127 --> 00:19:33,259
 Oh, there are plenty
 of blankets.
 
-381
+337
 00:19:33,302 --> 00:19:34,564
 What if I poop the bed?
 
-382
+338
 00:19:34,608 --> 00:19:36,436
 Who's gonna be in there
 to laugh with me?
 
-383
+339
 00:19:36,479 --> 00:19:38,786
 - What? You might shit the bed?
 - No, no, no.
 
-384
+340
 00:19:38,829 --> 00:19:40,309
 If that's the case,
 I have other sheets.
 
-385
+341
 00:19:40,353 --> 00:19:42,224
 - No, no, no, he won't.
 - One time.
 
-386
+342
 00:19:42,268 --> 00:19:44,531
 - It was fun...
 - There was a one-time incident,
 
-387
+343
 00:19:44,574 --> 00:19:45,923
 - It was a fun thing.
 - and it was a joke,
 
-388
+344
 00:19:45,967 --> 00:19:47,229
 and it really
 wasn't that funny, so...
 
-389
+345
 00:19:47,273 --> 00:19:49,405
 - It wasn't?
 - Uh, no.
 
-390
+346
 00:19:49,449 --> 00:19:51,973
 - I thought you thought
 it was funny.
 - Nope.
 
-391
+347
 00:19:52,016 --> 00:19:53,931
 Well, uh, I'm heading off.
 
-392
+348
 00:19:53,975 --> 00:19:55,411
 Yeah. Sounds good.
 
-393
+349
 00:19:55,455 --> 00:19:57,805
 - Good night.
 - Yeah, yeah.
 
-394
+350
 00:19:57,848 --> 00:20:00,982
 Hey, um, good night...
 
-395
+351
 00:20:01,983 --> 00:20:03,593
 ...Dad.
 
-396
+352
 00:20:03,637 --> 00:20:06,509
 Oh.
 Good night, son.
 
-397
+353
 00:20:14,517 --> 00:20:17,607
 - Oh, seed! I got you.
 - Yeah?
 
-398
+354
 00:20:17,651 --> 00:20:19,609
 I found you, seed.
 Look at it.
 
-399
+355
 00:20:19,653 --> 00:20:22,264
 - I coughed it out.
 - Yeah. Gross. Yeah.
 
-400
+356
 00:20:22,308 --> 00:20:25,398
 Oh. I thought
 you'd be happy for me.
 
-401
+357
 00:20:25,441 --> 00:20:28,618
 Uh, sure, I guess.
 Sure.
 
-402
+358
 00:20:28,662 --> 00:20:31,795
 Oh.
 I should eat it again.
 
-403
+359
 00:20:31,839 --> 00:20:34,755
 Then it would be funny 'cause
 I didn't learn my lesson.
 
-404
+360
 00:20:34,798 --> 00:20:36,060
 No, that wouldn't be funny.
 
-405
+361
 00:20:36,104 --> 00:20:37,540
 It'd just be kind of dumb,
 you know.
 
-406
+362
 00:20:38,628 --> 00:20:40,108
 Oh.
 
-407
+363
 00:20:40,151 --> 00:20:42,937
 Um...
 
-408
+364
 00:20:42,980 --> 00:20:44,982
 I think-I think
 I'm gonna go to bed.
 
-409
+365
 00:20:45,026 --> 00:20:46,593
 - All right.
 - Yeah.
 
-410
+366
 00:20:46,636 --> 00:20:48,421
 - Uh...
 - So you're gonna
 stay in the room?
 
-411
+367
 00:20:48,464 --> 00:20:50,161
 - Yeah, I'm gonna go to bed
 in here and...
 - I-I'll stay...
 
-412
+368
 00:20:50,205 --> 00:20:51,946
 I'll stay on the...
 I'll stay on the... All right.
 
-413
+369
 00:20:51,989 --> 00:20:54,470
 Good night, Frank.
 
-414
+370
 00:20:54,514 --> 00:20:55,776
 Good night, Charlie.
 
-415
+371
 00:21:10,181 --> 00:21:11,661
 Good night, Charlie.
 
