@@ -56,3 +56,9 @@ with DAG('frcst_day2',
     )
     
     testair1 >> testair2
+
+
+
+# REST
+https://itvdn.com/ru/blog/article/rest-api-18
+https://tproger.ru/articles/osnovy-rest-teorija-i-praktika/
