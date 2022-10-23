@@ -193,11 +193,11 @@ our wedding vows.
 - Hiya.
 
 39
-00:02:44,293 --> 00:02:45,880
+00:02:44,293 --> 00:02:45,921
 Hello, Rebecca.
 
 40
-00:02:45,966 --> 00:02:49,564
+00:02:45,921 --> 00:02:49,564
 I have a small favor to ask
 regarding our impending wedding.
 
@@ -225,7 +225,7 @@ Isn't that usually
 your best friend?
 
 45
-00:03:05,117 --> 00:03:07,332
+00:03:05,113 --> 00:03:07,332
 You are my best friend.
 
 46
@@ -426,7 +426,7 @@ Really have some fun
 while I still can.
 
 85
-00:05:03,816 --> 00:05:06,384
+00:05:03,814 --> 00:05:06,384
 Do I hear the pitter-patter
 of cold feet?
 
@@ -456,7 +456,7 @@ Excuse me.
 The ball and chain.
 
 91
-00:05:25,872 --> 00:05:31,476
+00:05:25,872 --> 00:05:31,496
 Frasier, do you realize that is
 the fourth derogatory remark
 about marriage
@@ -550,12 +550,12 @@ your reassurance.
 I'll be awaiting your call.
 
 109
-00:06:30,036 --> 00:06:32,705
+00:06:30,036 --> 00:06:32,727
 Boy, this bachelor party
 should be keen.
 
 110
-00:06:32,777 --> 00:06:34,466
+00:06:32,727 --> 00:06:34,466
 "Keen"?
 
 111
@@ -728,7 +728,7 @@ sure fun to play with
 while you're trying.
 
 144
-00:08:40,950 --> 00:08:43,110
+00:08:40,950 --> 00:08:43,135
 If you guys could
 have one woman,
 
@@ -756,7 +756,7 @@ Ten weeks. Ten weeks.
 Jill Eikenberry.
 
 150
-00:08:58,186 --> 00:09:01,886
+00:08:58,186 --> 00:09:01,888
 <i>You know, L.A. Law?
 She's married to that short,
 dumpy guy on the show.</i>
@@ -918,7 +918,7 @@ Could be. Could be.
 I'd think about it, Doc.
 
 182
-00:10:43,153 --> 00:10:45,681
+00:10:43,072 --> 00:10:45,681
 Well, then let's just see
 how the night progresses.
 
@@ -1070,13 +1070,13 @@ I could write a book.
 I have written a book.
 
 212
-00:13:21,865 --> 00:13:25,494
+00:13:21,865 --> 00:13:25,594
 Come on, now, Fras.
 You're just having
 last-minute jitters.
 
 213
-00:13:25,494 --> 00:13:29,631
+00:13:25,594 --> 00:13:29,631
 Geez, I-I don't know.
 Maybe Lilith
 isn't the woman for me.
@@ -1213,11 +1213,11 @@ I don't have to call home
 to see if I can stay later.
 
 240
-00:14:50,135 --> 00:14:51,999
+00:14:50,135 --> 00:14:52,031
 Oh, that reminds me.
 
 241
-00:14:52,071 --> 00:14:54,406
+00:14:52,031 --> 00:14:54,406
 There, right there.
 
 242
@@ -1277,11 +1277,11 @@ no laws, period.
 I only asked for one reason.
 
 253
-00:15:24,629 --> 00:15:26,354
+00:15:24,629 --> 00:15:26,408
 My God.
 
 254
-00:15:26,389 --> 00:15:29,374
+00:15:26,408 --> 00:15:29,374
 - I'm, I'm actually
 beginning to have doubts.
 - No.
@@ -1421,7 +1421,7 @@ her down,
 
 280
 00:17:01,291 --> 00:17:03,679
- unless, of course,
+unless, of course,
 that's what she's into
 for the evening.
 
@@ -1504,7 +1504,7 @@ Maybe you ought
 to go see her right now.
 
 297
-00:18:03,796 --> 00:18:08,722
+00:18:03,796 --> 00:18:08,706
 I will, Sam.
 There's just one matter that
 has to be rectified first.
@@ -1650,12 +1650,12 @@ It's over, history,
 kaput. Good night.
 
 324
-00:19:57,074 --> 00:19:59,352
+00:19:57,074 --> 00:19:59,372
 - What?!
 - She's kind of juiced.
 
 325
-00:19:59,352 --> 00:20:03,806
+00:19:59,372 --> 00:20:03,806
 I can't be engaged
 to you, Frasier,
 because I'm marrying Randy here.
@@ -1847,19 +1847,19 @@ What'll we do now, huh?
 to tell my wife, too.
 
 362
-00:22:31,897 --> 00:22:35,005
+00:22:31,897 --> 00:22:35,002
 Yeah, I'm out of here, too.
 Me, too. Good night, Sam.
 Good night, Sam. Yeah.
 
 363
-00:22:35,072 --> 00:22:38,219
+00:22:35,002 --> 00:22:38,273
 Hey, that reminds me.
 I promised Vera
 I'd pick up some Chinese food.
 
 364
-00:22:38,254 --> 00:22:39,762
+00:22:38,273 --> 00:22:39,762
 Oh, that's nice of you, Norm.
 
 365
@@ -1943,34 +1943,31 @@ mayonnaise or Miracle Whip.
 Turned into a fistfight.
 
 381
-00:23:39,699 --> 00:23:43,026
+00:23:39,699 --> 00:23:44,121
 Ah, that's pathetic.
-
-382
-00:23:41,116 --> 00:23:44,121
-- Boy, you know, I'll never
+Boy, you know, I'll never
 trade in the single life.
 - Me, neither.
 
-383
+382
 00:23:44,121 --> 00:23:46,606
 Good night, Sam.
 Yeah, good night.
 
-384
+383
 00:23:52,828 --> 00:23:54,773
 Freedom.
 
-385
-00:23:56,098 --> 00:23:57,781
+384
+00:23:56,098 --> 00:23:57,799
 You want to go get
 a cup of coffee?
 
-386
-00:23:57,781 --> 00:24:00,016
+385
+00:23:57,799 --> 00:24:00,016
 Oh, you bet I do.
 
-387
+386
 00:24:01,584 --> 00:24:21,017
 translate
 
