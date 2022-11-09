@@ -930,1270 +930,1246 @@ She should have
 snuck out by now.
 
 189
-00:10:53,140 --> 00:10:53,773
+00:10:53,140 --> 00:10:55,950
 Oh, come on.
-
-190
-00:10:53,807 --> 00:10:55,808
 She'd be here
 if she'd gotten away.
 
-191
-00:10:55,842 --> 00:10:57,560
+190
+00:10:55,950 --> 00:10:57,360
 You gotta get her out of there.
 
-192
-00:10:57,594 --> 00:10:58,378
+191
+00:10:57,394 --> 00:11:00,730
 Hey, look.
-
-193
-00:10:58,412 --> 00:11:01,030
 You, uh, you think of it
 as an adventure.
 
-194
-00:11:01,065 --> 00:11:02,799
+192
+00:11:00,765 --> 00:11:02,749
 She's the damsel in distress
 
-195
-00:11:02,833 --> 00:11:05,702
+193
+00:11:02,783 --> 00:11:07,403
 and you are the knight
 in shiny white armor,
-
-196
-00:11:05,736 --> 00:11:07,403
 leaping upon your steed.
 
-197
-00:11:07,437 --> 00:11:10,323
+194
+00:11:07,437 --> 00:11:10,990
 And driving it into the ground
 up to its knees.
 
-198
-00:11:12,059 --> 00:11:15,461
+195
+00:11:11,759 --> 00:11:15,461
 No, no, no, no, and
 saving a damsel.
 
-199
-00:11:16,563 --> 00:11:19,165
+196
+00:11:16,763 --> 00:11:20,582
 I guess you're right,
 you're right.
-
-200
-00:11:19,199 --> 00:11:20,632
 I gotta go do this.
 
-201
-00:11:20,667 --> 00:11:22,368
+197
+00:11:20,617 --> 00:11:23,674
 Listen, uh, Cliffie,
-
-202
-00:11:22,402 --> 00:11:23,619
 if I'm not back in an hour,
 
-203
-00:11:23,654 --> 00:11:25,388
+198
+00:11:23,674 --> 00:11:25,338
 go ahead and finish my beer.
 
-204
-00:11:25,422 --> 00:11:26,589
+199
+00:11:25,372 --> 00:11:27,277
 This is your beer.
 
-205
+200
 00:11:28,875 --> 00:11:32,027
 Sammy, I hear you got
 a sure thing lined up, huh?
 
-206
-00:11:32,061 --> 00:11:34,630
+201
+00:11:32,061 --> 00:11:34,760
 Mm, no, I never like
 to use the term "sure thing."
 
-207
-00:11:34,665 --> 00:11:38,501
+202
+00:11:34,760 --> 00:11:37,677
 I prefer the term "in the bag."
 
-208
-00:11:39,253 --> 00:11:40,670
+203
+00:11:39,053 --> 00:11:40,288
 What? What?
 
-209
-00:11:40,704 --> 00:11:42,237
+204
+00:11:40,288 --> 00:11:42,237
 Ah, Sammy, come on.
 Isn't this, you know,
 
-210
-00:11:42,272 --> 00:11:45,140
+205
+00:11:42,272 --> 00:11:45,703
 pretending to be a phony-bologna
 dancer a little bit beneath you?
 
-211
-00:11:45,175 --> 00:11:46,058
+206
+00:11:45,703 --> 00:11:48,645
 I mean,
-
-212
-00:11:46,093 --> 00:11:47,360
 when I go picking up girls,
-
-213
-00:11:47,394 --> 00:11:48,695
 I don't need all that stuff.
 
-214
-00:11:48,729 --> 00:11:50,409
+207
+00:11:48,679 --> 00:11:50,309
 All I need is a wink
 and a smile.
 
-215
-00:11:50,431 --> 00:11:52,548
+208
+00:11:50,331 --> 00:11:53,224
 And a rag doused
 with chloroform.
 
-216
-00:11:55,435 --> 00:11:56,602
+209
+00:11:55,135 --> 00:11:58,654
 I don't know, Sammy.
-
-217
-00:11:56,637 --> 00:11:58,804
 It looks to me like you're
 getting a little desperate.
 
-218
-00:11:58,839 --> 00:12:00,456
+210
+00:11:58,689 --> 00:12:00,456
 What are you talk...
 I'm not desperate.
 
-219
+211
 00:12:00,491 --> 00:12:02,625
 I don't know what
 you're talking about.
 
-220
+212
 00:12:02,660 --> 00:12:04,877
 Ready, Sam?
 
-221
+213
 00:12:04,912 --> 00:12:05,995
 Oh, hi, Jennifer.
 
-222
+214
 00:12:06,029 --> 00:12:07,029
 I'll be right with you.
 
-223
+215
 00:12:07,063 --> 00:12:08,247
 See you guys later.
 
-224
+216
 00:12:14,037 --> 00:12:15,277
 Ready to go? Mm-hmm.
 
-225
+217
 00:12:37,961 --> 00:12:39,362
 Mr. Drake!
 
-226
+218
 00:12:39,397 --> 00:12:41,064
 Mr. Drake, sir!
 
-227
+219
 00:12:41,098 --> 00:12:43,700
 Sorry, sir, but Mr. Peterson
 said it was an emergency.
 
-228
+220
 00:12:43,735 --> 00:12:45,535
 What? Emergency?
 
-229
+221
 00:12:45,569 --> 00:12:47,487
 Yeah, structural, Evan.
 It's just a damn good thing
 
-230
+222
 00:12:47,521 --> 00:12:48,755
 I went back
 and checked those blueprints.
 
-231
+223
 00:12:48,790 --> 00:12:50,624
 This ceiling could go
 at any second.
 
-232
+224
 00:12:50,658 --> 00:12:52,892
 Ceiling?
 Yeah, it's a crack, sir.
 
-233
+225
 00:12:52,927 --> 00:12:55,528
 It extends all the way
 into, uh, here.
 
-234
+226
 00:12:55,562 --> 00:12:56,964
 Get me out of here.
 
-235
+227
 00:12:56,998 --> 00:12:59,282
 What crack?
 
-236
+228
 00:12:59,316 --> 00:13:00,316
 There's nothing wrong
 with that ceiling.
 
-237
+229
 00:13:00,351 --> 00:13:02,218
 I'm only thinking
 of your safety, sir.
 
-238
+230
 00:13:02,253 --> 00:13:03,202
 Now, I'd feel much better
 
-239
+231
 00:13:03,237 --> 00:13:04,871
 if you slept
 in a different room.
 
-240
+232
 00:13:04,905 --> 00:13:06,173
 Peterson, get out.
 
-241
+233
 00:13:06,207 --> 00:13:07,740
 And close that closet door.
 
-242
+234
 00:13:07,775 --> 00:13:08,975
 Well, wait a minute.
 
-243
+235
 00:13:09,010 --> 00:13:11,211
 Many people prefer to sleep
 with the closet door open.
 
-244
+236
 00:13:12,180 --> 00:13:14,063
 Is there something wrong
 with you?
 
-245
+237
 00:13:14,098 --> 00:13:18,518
 Yeah, it's, um,
 it's the paint fumes, sir.
 
-246
+238
 00:13:18,552 --> 00:13:20,820
 They make me giddy.
 
-247
+239
 00:13:20,855 --> 00:13:21,871
 Really.
 
-248
+240
 00:13:21,905 --> 00:13:23,506
 And, uh,
 
-249
+241
 00:13:23,541 --> 00:13:25,861
 I'm afraid they can be hazardous
 to your health, sir.
 
-250
+242
 00:13:25,893 --> 00:13:26,776
 Oh, nonsense.
 
-251
+243
 00:13:26,810 --> 00:13:28,762
 No one was ever killed
 by paint fumes.
 
-252
+244
 00:13:28,796 --> 00:13:30,781
 But, uh, they can cause
 brain damage.
 
-253
+245
 00:13:30,815 --> 00:13:32,215
 Evidently.
 
-254
+246
 00:13:33,885 --> 00:13:35,168
 Now get out of here.
 
-255
+247
 00:13:35,203 --> 00:13:38,188
 Sir, I have some paint cans
 in the closet there.
 
-256
+248
 00:13:38,222 --> 00:13:40,590
 I'd feel much better for you
 if I tightened those lids.
 
-257
+249
 00:13:40,624 --> 00:13:43,877
 Whatever, just do it,
 get out of here.
 
-258
+250
 00:13:44,578 --> 00:13:46,729
 Norm, I'm so glad to see you.
 
-259
+251
 00:13:46,764 --> 00:13:48,164
 You gotta get me out of here.
 Okay.
 
-260
+252
 00:13:48,198 --> 00:13:49,332
 Every time I open the door,
 
-261
+253
 00:13:49,367 --> 00:13:50,900
 it squeaks and he
 starts to wake up.
 
-262
+254
 00:13:50,934 --> 00:13:52,702
 If he finds me here
 in the morning,
 
-263
+255
 00:13:52,737 --> 00:13:54,003
 he will fire me, hate me,
 
-264
+256
 00:13:54,037 --> 00:13:57,073
 and he is never, ever going
 to want to be my boyfriend.
 
-265
+257
 00:13:57,107 --> 00:13:57,924
 Aw...
 
-266
+258
 00:14:00,511 --> 00:14:02,879
 Norm, are you talking
 to your paints?
 
-267
+259
 00:14:02,914 --> 00:14:05,031
 Uh, yes, I am, sir.
 
-268
+260
 00:14:05,065 --> 00:14:07,216
 Come on, come on. Just,
 just calm down, all right?
 
-269
+261
 00:14:07,251 --> 00:14:08,785
 Calm down. Calm down.
 
-270
+262
 00:14:08,820 --> 00:14:10,020
 Okay? Everything's going
 to be fine.
 
-271
+263
 00:14:10,054 --> 00:14:10,820
 I'm going to get you out of...
 
-272
+264
 00:14:10,854 --> 00:14:12,122
 Whoo, cashmere.
 
-273
+265
 00:14:13,240 --> 00:14:14,992
 Here's my plan, okay?
 
-274
+266
 00:14:15,026 --> 00:14:16,126
 I'm going to walk out of here.
 
-275
+267
 00:14:16,160 --> 00:14:17,427
 I'm going to leave
 the closet door
 
-276
+268
 00:14:17,461 --> 00:14:19,022
 yea bit open, right?
 So it won't squeak.
 
-277
+269
 00:14:19,030 --> 00:14:20,597
 Now you wait until he's good
 and sound asleep,
 
-278
+270
 00:14:20,631 --> 00:14:22,351
 and then you just walk
 on out of here, okay?
 
-279
+271
 00:14:22,366 --> 00:14:23,016
 Okay.
 
-280
+272
 00:14:23,050 --> 00:14:23,683
 If you're hungry,
 
-281
+273
 00:14:23,685 --> 00:14:24,400
 I brought you some chips.
 
-282
+274
 00:14:24,435 --> 00:14:26,619
 Cajun style?
 
-283
+275
 00:14:28,439 --> 00:14:29,689
 Never mind. Just go ahead.
 
-284
+276
 00:14:29,724 --> 00:14:30,223
 Okay, all right.
 
-285
+277
 00:14:30,257 --> 00:14:31,124
 Good luck.
 
-286
+278
 00:14:37,031 --> 00:14:39,465
 Is he asleep?
 
-287
+279
 00:14:39,500 --> 00:14:40,233
 Get lost.
 
-288
+280
 00:14:40,267 --> 00:14:42,519
 Getting lost, sir.
 
-289
+281
 00:14:44,672 --> 00:14:48,374
 Oh, like an open door would
 really kill you, Greyson, huh?
 
-290
+282
 00:15:35,122 --> 00:15:38,374
 So you just left her
 in the closet?
 
-291
+283
 00:15:39,559 --> 00:15:41,527
 I had a foolproof plan
 to get her out of there
 
-292
+284
 00:15:41,561 --> 00:15:45,999
 and the whole thing got spoiled
 by this anal-retentive butler.
 
-293
+285
 00:15:46,033 --> 00:15:47,884
 Mr. Peterson,
 you gotta get her out of there.
 
-294
+286
 00:15:47,918 --> 00:15:50,053
 Oh...
 
-295
+287
 00:15:50,087 --> 00:15:51,754
 How did I get myself into this?
 
-296
+288
 00:15:51,788 --> 00:15:54,124
 I should have never become
 a house painter.
 
-297
+289
 00:15:54,158 --> 00:15:57,360
 I should have listened to my
 mother and become a matador.
 
-298
+290
 00:15:57,395 --> 00:15:59,262
 You know, Norm, you are
 probably too logical.
 
-299
+291
 00:15:59,296 --> 00:16:00,430
 What?
 
-300
+292
 00:16:00,464 --> 00:16:02,699
 Yes, you see, it's an
 established psychological fact
 
-301
+293
 00:16:02,733 --> 00:16:05,201
 that the more outrageous a lie
 one tells,
 
-302
+294
 00:16:05,235 --> 00:16:08,104
 the more readily
 will the victim believe it.
 
-303
+295
 00:16:08,138 --> 00:16:10,239
 You see, if you told Mr. Drake
 
-304
+296
 00:16:10,274 --> 00:16:13,994
 a sufficiently outlandish story,
 odds are he'd buy it.
 
-305
+297
 00:16:14,028 --> 00:16:15,445
 No, that's impossible.
 
-306
+298
 00:16:15,479 --> 00:16:17,847
 No, Woody, it's a
 stroke of genius.
 
-307
+299
 00:16:17,882 --> 00:16:19,532
 Frasier, you're brilliant.
 
-308
+300
 00:16:19,566 --> 00:16:21,851
 That is one of the most brilliant
 ideas you've ever had.
 
-309
+301
 00:16:21,886 --> 00:16:24,104
 And you've had a lot
 of brilliant ideas.
 
-310
+302
 00:16:24,138 --> 00:16:25,455
 Thank you, Carla.
 
-311
+303
 00:16:25,489 --> 00:16:26,473
 See, Woody? It works.
 
-312
+304
 00:16:26,507 --> 00:16:27,707
 Bonehead bought it.
 
-313
+305
 00:16:30,577 --> 00:16:33,747
 All right. All right.
 
-314
+306
 00:16:33,781 --> 00:16:37,984
 All right, I guess
 I just gotta go do this.
 
-315
+307
 00:16:38,019 --> 00:16:39,753
 I've got to do it.
 
-316
+308
 00:16:39,787 --> 00:16:40,987
 If it doesn't work out,
 
-317
+309
 00:16:41,022 --> 00:16:43,907
 tomorrow I'm going to be
 shopping for toreador pants.
 
-318
+310
 00:16:43,941 --> 00:16:45,691
 Hey, where you going?
 
-319
+311
 00:16:45,726 --> 00:16:49,662
 I gotta get Rebecca
 out of the damn closet.
 
-320
+312
 00:16:49,696 --> 00:16:51,664
 You just left her in the closet?
 
-321
+313
 00:16:55,669 --> 00:16:56,636
 Where's Frasier, man?
 
-322
+314
 00:16:56,670 --> 00:16:57,587
 I gotta talk to him.
 
-323
+315
 00:16:57,621 --> 00:16:59,139
 Where's your date?
 
-324
+316
 00:16:59,173 --> 00:17:00,206
 She's at my apartment.
 
-325
+317
 00:17:00,240 --> 00:17:02,275
 I told her I was going out
 for some ice.
 
-326
+318
 00:17:02,309 --> 00:17:04,144
 I don't know,
 something's wrong here.
 
-327
+319
 00:17:04,178 --> 00:17:06,746
 I've been dancing my brains
 out and nothing, zilch.
 
-328
+320
 00:17:06,781 --> 00:17:09,198
 Frasier, you know that,
 that beautiful girl
 
-329
+321
 00:17:09,233 --> 00:17:10,950
 you were treating this morning?
 
-330
+322
 00:17:10,984 --> 00:17:12,802
 I treated two beautiful women
 this morning, Sam.
 
-331
+323
 00:17:12,836 --> 00:17:14,103
 Which one?
 
-332
+324
 00:17:14,137 --> 00:17:16,122
 The one that had the hots
 for the dancers.
 
-333
+325
 00:17:16,156 --> 00:17:17,323
 Yes, why?
 
-334
+326
 00:17:17,357 --> 00:17:21,594
 <i>Well, uh, you didn't cure her,
 by any chance, did you?</i>
 
-335
+327
 00:17:21,628 --> 00:17:24,463
 You don't just "cure" someone
 overnight.
 
-336
+328
 00:17:24,498 --> 00:17:27,400
 Most patients require dozens
 of costly sessions
 
-337
+329
 00:17:27,434 --> 00:17:29,335
 to make even minimal progress.
 
-338
+330
 00:17:29,369 --> 00:17:31,754
 God, I love this profession.
 
-339
+331
 00:17:31,789 --> 00:17:34,090
 Well, I don't know.
 
-340
+332
 00:17:34,124 --> 00:17:35,175
 Something's wrong.
 
-341
+333
 00:17:35,209 --> 00:17:36,676
 Maybe it's my dancing.
 
-342
+334
 00:17:39,930 --> 00:17:44,266
 You treated two beautiful girls
 this morning?
 
-343
+335
 00:17:45,569 --> 00:17:49,271
 What did you treat
 the other one for?
 
-344
+336
 00:17:49,306 --> 00:17:51,090
 Um, pyromania.
 
-345
+337
 00:17:51,125 --> 00:17:56,146
 Pyro... pyromania. Pyro...
 
-346
+338
 00:18:40,858 --> 00:18:43,009
 What?
 
-347
+339
 00:18:52,653 --> 00:18:53,836
 Stop! You can't go in there!
 
-348
+340
 00:18:53,870 --> 00:18:57,207
 Up, sir! Up quick! Bees!
 
-349
+341
 00:18:57,241 --> 00:18:59,909
 Killer bees are coming
 this way from Mexico
 
-350
+342
 00:18:59,943 --> 00:19:00,577
 and they're hopping mad, sir!
 
-351
+343
 00:19:00,611 --> 00:19:02,178
 Bees?
 
-352
+344
 00:19:02,213 --> 00:19:04,864
 Yeah, those suckers could swarm
 through here like a buzz saw.
 
-353
+345
 00:19:04,898 --> 00:19:06,866
 Sir, you don't have any honey
 in here, do you?
 
-354
+346
 00:19:06,900 --> 00:19:08,267
 Peterson, get out of here.
 
-355
+347
 00:19:08,302 --> 00:19:10,036
 And if you come back
 in here again,
 
-356
+348
 00:19:10,070 --> 00:19:12,838
 I'm going to have Greyson use his gun.
 Understood?
 
-357
+349
 00:19:12,873 --> 00:19:13,606
 Yes, sir!
 
-358
+350
 00:19:13,640 --> 00:19:14,307
 Hey, he was talking to me,
 
-359
+351
 00:19:14,341 --> 00:19:15,491
 okay, Greyson?
 
-360
+352
 00:19:15,526 --> 00:19:17,577
 Look, sir, let me just get
 your robe.
 
-361
+353
 00:19:17,611 --> 00:19:19,762
 I'm very concerned
 about these bees.
 
-362
+354
 00:19:19,797 --> 00:19:22,231
 Well, never mind.
 
-363
+355
 00:19:22,266 --> 00:19:24,567
 They've gone.
 
-364
+356
 00:19:24,601 --> 00:19:26,069
 Yeah. There they go.
 
-365
+357
 00:19:26,103 --> 00:19:29,272
 They're headed up
 to Canada or someplace.
 
-366
+358
 00:19:30,191 --> 00:19:31,274
 What is it?
 
-367
+359
 00:19:31,308 --> 00:19:34,110
 Bee sting. They're back, sir.
 
-368
+360
 00:19:35,762 --> 00:19:38,080
 Peterson, what the hell
 is going on?
 
-369
+361
 00:19:38,115 --> 00:19:41,484
 Sir, I'm sorry. I...
 
-370
+362
 00:19:41,518 --> 00:19:44,453
 I didn't want to have
 to tell you this, but...
 
-371
+363
 00:19:44,488 --> 00:19:45,989
 you're forcing me to.
 
-372
+364
 00:19:46,023 --> 00:19:48,124
 Oh, please, tell me quickly.
 
-373
+365
 00:19:48,158 --> 00:19:50,292
 If I don't sleep, I'll die.
 
-374
+366
 00:19:50,327 --> 00:19:51,928
 And I'm gonna take you with me.
 
-375
+367
 00:19:53,163 --> 00:19:55,064
 It's, actually,
 it's kind of personal.
 
-376
+368
 00:19:55,098 --> 00:19:56,232
 Do you mind, Greyson?
 
-377
+369
 00:19:56,266 --> 00:19:57,417
 Sir?
 
-378
+370
 00:19:57,451 --> 00:20:00,086
 Whatever. Anything that
 will get him out of here.
 
-379
+371
 00:20:00,120 --> 00:20:04,007
 Sir, to begin with, when I was
 a little boy, I was very poor.
 
-380
+372
 00:20:04,041 --> 00:20:05,341
 Peterson, I'm not going
 
-381
+373
 00:20:05,375 --> 00:20:08,310
 to survive any story that begins
 with when you were little.
 
-382
+374
 00:20:08,345 --> 00:20:09,646
 Oh, right.
 
-383
+375
 00:20:09,680 --> 00:20:12,464
 Sir, I've had this fantasy
 that's haunted me all my life.
 
-384
+376
 00:20:12,499 --> 00:20:14,784
 At night, when I'm lying in bed,
 it comes and torments me.
 
-385
+377
 00:20:14,819 --> 00:20:16,519
 Oh, I know the feeling.
 
-386
+378
 00:20:16,553 --> 00:20:19,189
 Yes, sir. Of course you do.
 
-387
+379
 00:20:19,223 --> 00:20:20,422
 Anyway, this is my fantasy, sir.
 
-388
+380
 00:20:20,457 --> 00:20:21,524
 It's a little outrageous.
 
-389
+381
 00:20:21,558 --> 00:20:24,027
 So, uh, just stay with me.
 
-390
+382
 00:20:24,061 --> 00:20:30,049
 Even though I was born poor
 and I'll never be a rich man,
 
-391
+383
 00:20:30,083 --> 00:20:34,204
 somehow, it wouldn't make any
 difference if one time, sir,
 
-392
+384
 00:20:34,238 --> 00:20:39,408
 just one time,
 just one darn time,
 
-393
+385
 00:20:39,443 --> 00:20:42,178
 I could do something symbolic,
 
-394
+386
 00:20:42,213 --> 00:20:45,214
 like...
 
-395
+387
 00:20:45,248 --> 00:20:48,050
 carry a rich man across the lawn
 in his pajamas.
 
-396
+388
 00:20:53,190 --> 00:20:54,440
 Come here.
 
-397
+389
 00:20:54,475 --> 00:20:55,791
 I know, I know, I know,
 it sounds crazy, I know.
 
-398
+390
 00:20:55,826 --> 00:20:57,727
 Sir, no... sir,
 I don't have a fever.
 
-399
+391
 00:20:57,761 --> 00:20:58,594
 No, I know that.
 
-400
+392
 00:20:58,629 --> 00:21:00,479
 I'm feeling
 for the lobotomy scar.
 
-401
+393
 00:21:00,513 --> 00:21:03,016
 Sir, sir, please.
 
-402
+394
 00:21:03,050 --> 00:21:04,050
 Sir, please, please...
 
-403
+395
 00:21:04,084 --> 00:21:05,919
 All right, all right,
 all right, all right!
 
-404
+396
 00:21:05,953 --> 00:21:07,119
 Look, if I actually
 
-405
+397
 00:21:07,154 --> 00:21:07,754
 let you do it,
 
-406
+398
 00:21:07,788 --> 00:21:08,838
 Uh-huh.
 
-407
+399
 00:21:08,872 --> 00:21:10,006
 Would you promise me,
 
-408
+400
 00:21:10,041 --> 00:21:11,574
 would you swear on
 your mother's grave
 
-409
+401
 00:21:11,608 --> 00:21:12,842
 that you would let me sleep?
 
-410
+402
 00:21:12,876 --> 00:21:14,677
 Yes, sir, I swear. I prom...
 No, no, no, no, no.
 
-411
+403
 00:21:14,711 --> 00:21:15,495
 You've got to do
 more than promise.
 
-412
+404
 00:21:15,529 --> 00:21:17,680
 You've got to give me
 your solemn oath
 
-413
+405
 00:21:17,715 --> 00:21:19,481
 as a crazy person.
 
-414
+406
 00:21:19,516 --> 00:21:20,599
 My oath, my vow, my pledge.
 
-415
+407
 00:21:20,634 --> 00:21:21,667
 I promise you.
 
-416
+408
 00:21:21,701 --> 00:21:23,986
 All right, okay.
 
-417
+409
 00:21:24,021 --> 00:21:25,638
 Thank you so much, sir.
 All right.
 
-418
+410
 00:21:25,673 --> 00:21:27,073
 Thank you, thank you
 very much, sir.
 
-419
+411
 00:21:27,090 --> 00:21:30,359
 Thank you, thank you, thank you,
 thank you so much, sir.
 
-420
+412
 00:21:30,394 --> 00:21:32,995
 You know, sir, I don't mean
 to flatter you,
 
-421
+413
 00:21:33,029 --> 00:21:35,448
 but you're very firm
 for your age.
 
-422
+414
 00:21:46,593 --> 00:21:47,927
 Thank you very much, sir.
 
-423
+415
 00:21:47,961 --> 00:21:50,330
 It was everything
 I dreamed it would be.
 
-424
+416
 00:21:54,230 --> 00:21:55,710
 Whoa, hey, whoa,
 who made the bed?
 
-425
+417
 00:21:55,735 --> 00:21:56,552
 I did, sir.
 
-426
+418
 00:21:56,587 --> 00:21:57,403
 When?
 
-427
+419
 00:21:57,438 --> 00:21:58,571
 The instant Mr. Drake
 
-428
+420
 00:21:58,605 --> 00:21:59,805
 vacated the premises.
 
-429
+421
 00:21:59,840 --> 00:22:01,991
 You mean you came in here
 the instant we left
 
-430
+422
 00:22:02,025 --> 00:22:03,559
 and you haven't left since?
 
-431
+423
 00:22:14,104 --> 00:22:17,190
 Aw, sir.
 
-432
+424
 00:22:17,224 --> 00:22:18,858
 Sir.
 
-433
+425
 00:22:21,261 --> 00:22:22,261
 Sir?
 
-434
+426
 00:22:22,296 --> 00:22:24,697
 I don't know quite how
 to tell you this, sir.
 
-435
+427
 00:22:24,732 --> 00:22:27,150
 We've got to own up, sir.
 
-436
+428
 00:22:27,184 --> 00:22:28,450
 I've got to tell you the truth.
 
-437
+429
 00:22:28,485 --> 00:22:30,119
 Now... ow!
 
-438
+430
 00:22:30,154 --> 00:22:32,422
 What? What?
 
-439
+431
 00:22:32,456 --> 00:22:34,357
 Ah! Ah!
 
-440
+432
 00:22:34,391 --> 00:22:37,543
 Ahh! You should do that
 before you go to sleep.
 
-441
+433
 00:22:37,578 --> 00:22:38,644
 It clears the lungs.
 
-442
+434
 00:22:38,679 --> 00:22:39,495
 Ahh!
 
-443
+435
 00:22:39,529 --> 00:22:41,514
 You'll sleep much better.
 
-444
+436
 00:22:41,549 --> 00:22:43,750
 Sweet dreams.
 
-445
+437
 00:22:54,728 --> 00:22:56,262
 Hi, sir.
 
-446
+438
 00:22:56,296 --> 00:22:58,097
 Oh, I knew it, I knew it.
 You broke your word.
 
-447
+439
 00:22:58,131 --> 00:22:59,131
 No, no, no.
 
-448
+440
 00:22:59,166 --> 00:23:00,966
 You lied to me, Norm.
 
-449
+441
 00:23:01,000 --> 00:23:02,234
 No, no, no, sir.
 
-450
+442
 00:23:02,269 --> 00:23:03,937
 You see, I went back to the bar
 to tell everyone
 
-451
+443
 00:23:03,971 --> 00:23:04,938
 about my dream coming true.
 
-452
+444
 00:23:04,972 --> 00:23:06,005
 And since none of their dreams
 
-453
+445
 00:23:06,040 --> 00:23:07,720
 have come true,
 they wouldn't believe mine.
 
-454
+446
 00:23:07,741 --> 00:23:09,459
 Why are you doing this to me?
 Why?
 
-455
+447
 00:23:09,493 --> 00:23:10,793
 Sir, my dream
 is to have people know
 
-456
+448
 00:23:10,828 --> 00:23:13,262
 that I carried a rich man
 across the lawn in his pajamas.
 
-457
+449
 00:23:13,296 --> 00:23:14,630
 You're going to hurt me.
 
-458
+450
 00:23:14,665 --> 00:23:15,765
 No, sir. I just need witnesses.
 
-459
+451
 00:23:15,799 --> 00:23:17,367
 I've got several
 lined up outside.
 
-460
+452
 00:23:17,401 --> 00:23:19,202
 Greyson would fill out
 the troop nicely, sir.
 
-461
+453
 00:23:19,236 --> 00:23:21,137
 Just a couple minutes,
 This is a nightmare.
 
-462
+454
 00:23:21,171 --> 00:23:22,021
 Then it'd be all over, sir.
 
-463
+455
 00:23:22,056 --> 00:23:23,105
 You can sleep, I promise.
 
-464
+456
 00:23:23,140 --> 00:23:24,340
 This isn't happening to me.
 
-465
+457
 00:23:24,375 --> 00:23:25,608
 This is a nightmare.
 
-466
+458
 00:23:25,642 --> 00:23:27,476
 Don't worry about it, sir.
 
-467
+459
 00:23:29,179 --> 00:23:32,398
 We're going out now,
 but only for a minute!
 
-468
+460
 00:23:32,432 --> 00:23:34,099
 Will there be any more bees?
 
-469
+461
 00:23:34,134 --> 00:23:35,751
 Oh, no, no, no, sir.
 
-470
+462
 00:23:35,786 --> 00:23:39,355
 You shut your eyes now.
 All gone, all gone.
 
-471
+463
 00:23:41,475 --> 00:23:44,176
 Hey, guys, here they come.
 Here they come.
 
-472
+464
 00:23:44,210 --> 00:23:45,511
 They're coming, they're coming.
 He's got Drake.
 
-473
+465
 00:23:45,546 --> 00:23:46,679
 Oh, here they come.
 
-474
+466
 00:23:46,713 --> 00:23:48,681
 Yes, Norm.
 
