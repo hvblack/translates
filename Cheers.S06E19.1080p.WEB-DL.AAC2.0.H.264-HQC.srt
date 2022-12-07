@@ -37,13 +37,13 @@ I mean, uh, they can't print it
 unless it's the truth.
 
 8
-00:00:25,957 --> 00:00:29,211
+00:00:25,957 --> 00:00:29,223
 Well, granted, you know,
 some of these stories
 might be a bit exaggerated,
 
 9
-00:00:29,243 --> 00:00:33,613
+00:00:29,223 --> 00:00:33,613
 but, uh, I guarantee you
 at the core of each
 is the kernel of truth.
@@ -844,12 +844,12 @@ Oh, that, too.
 Very sweet of you.
 
 168
-00:09:30,800 --> 00:09:32,680
+00:09:30,800 --> 00:09:32,700
 Do you have any questions
 about Cheers?
 
 169
-00:09:32,702 --> 00:09:36,689
+00:09:32,700 --> 00:09:36,689
 Actually, I do.
 But, unfortunately,
 I'm running a little bit late.
@@ -974,12 +974,12 @@ for $1.99, pal,
 you just let me know, all right?
 
 193
-00:10:59,536 --> 00:11:01,766
+00:10:59,536 --> 00:11:01,780
 I'd be happy to have
 dinner with you tonight.
 
 194
-00:11:01,791 --> 00:11:04,410
+00:11:01,780 --> 00:11:04,410
 - Great, I'll pick you up at 7:00.
 - Terrific.
 
@@ -995,7 +995,7 @@ All right, all right,
 sure thing, Eddie.
 
 197
-00:11:13,654 --> 00:11:16,649
+00:11:13,629 --> 00:11:16,649
 Okay, listen, break a wing.
 
 198
@@ -1365,13 +1365,13 @@ she's afraid to see you.
 It's that she's afraid to fly.
 
 269
-00:15:28,792 --> 00:15:32,658
+00:15:28,792 --> 00:15:32,685
 Carla, afraid?
 Carla's not afraid
 of anything, Sam.
 
 270
-00:15:32,743 --> 00:15:36,309
+00:15:32,685 --> 00:15:36,309
 See, that's just an excuse.
 I mean, she's ashamed of me.
 
@@ -1382,11 +1382,11 @@ It's just not working.
 I'm going to quit.
 
 272
-00:15:38,991 --> 00:15:40,226
+00:15:38,991 --> 00:15:40,220
 No, wait. Hold on. Hold on.
 
 273
-00:15:40,253 --> 00:15:43,289
+00:15:40,220 --> 00:15:43,289
 Listen, he's so sure
 you're ashamed of him
 that he wants to quit.
@@ -1555,7 +1555,7 @@ Carla,
 where's your happy place?
 
 307
-00:17:33,900 --> 00:17:37,452
+00:17:33,883 --> 00:17:37,452
 On the floor of my stomach,
 clutching the earth
 with both hands.
@@ -1596,7 +1596,7 @@ like a Roman candle
 when this baby crashes into it!
 
 315
-00:18:01,261 --> 00:18:04,396
+00:18:01,233 --> 00:18:04,396
 Ladies and gentlemen,
 we've been cleared for takeoff.
 
@@ -1786,7 +1786,7 @@ you're all relaxed,
 354
 00:20:26,009 --> 00:20:28,448
 we can take this opportunity
-to, uh... 
+to, uh...
 
 355
 00:20:28,448 --> 00:20:33,964
@@ -1829,7 +1829,7 @@ all these people
 
 363
 00:20:56,166 --> 00:20:59,100
- had their lives
+had their lives
 in the hands of someone like me.
 
 364
@@ -1882,7 +1882,7 @@ at 30,000 feet?
 We're at 30,000 feet?
 
 374
-00:21:25,269 --> 00:21:27,900
+00:21:25,269 --> 00:21:27,902
 This plane
 is too heavy
 to be up that high!
@@ -2000,13 +2000,13 @@ in your happy place.
 - What do you mean? In a grave?
 
 398
-00:22:40,473 --> 00:22:43,802
+00:22:40,473 --> 00:22:43,830
 We're going down!
 We're going down!
 I got to get out of here!
 
 399
-00:22:43,870 --> 00:22:45,799
+00:22:43,830 --> 00:22:45,799
 Mommy!
 Mommy!
 
