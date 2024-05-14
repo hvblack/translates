@@ -26,7 +26,12 @@ import traceback
 # Для работы с идентификаторами
 import uuid
 
-from my_functions import df_build, df_load, timemark, to_csv, timemark2,json_functions,recomm_column,toSkype,split_merge,df_load,to_sql
+from my_functions import df_build, df_load, timemark, to_csv, timemark2,json_functions,recomm_column,toSkype,split_merge,to_sql
+
+#from tools_fspb.db import DbMySql, DbClickHouse,DbPostgress
+
+#master=DbPostgress('master')
+#dns_log=DbClickHouse('dns_log')
 
 def new_recomm(main,recomm_type,to_null=False,task_uuid='',topic='ProductFixesByTypeRecommendationsNew',threshold=0.0001,merge_on=['branch_guid','product_guid'],value_col={'new_count':'Quantity'},database='dns_log',country='ru',check_null=False):
     """
@@ -121,83 +126,7 @@ def new_recomm(main,recomm_type,to_null=False,task_uuid='',topic='ProductFixesBy
                 union all
                 select 'xxx','xxx',0 -- т.к. клик может выдать пустую таблицу вместо ошибки, скотина такая
                 """
-        recomm_script_ProductFixesByTypeRecommendations_old=f""" -- текущие рекомендации
-                with main0 as
-                (
-                SELECT DateOfRecording, BranchID branch_guid,ProductID product_guid,Quantity,DeletionMark,Period,TypeRecommendationsID
-                FROM {database_name}.{topic} main
-                where 1=1
-                    AND TypeRecommendationsID = '{recomm_type}'
-                    and Period < (toDate(now()) + Interval '1 Day')
-                )
-                ,
-                main1 as
-                (
-                SELECT row_number(*) over(partition by branch_guid,product_guid,TypeRecommendationsID, Period order by DateOfRecording desc) ra1,
-                    branch_guid, product_guid,Quantity,DeletionMark,Period,TypeRecommendationsID
-                FROM main0
-                )
-                ,
-                main2 as 
-                (
-                select row_number(*) over(partition by branch_guid,product_guid,TypeRecommendationsID order by Period desc) ra2,branch_guid,product_guid,Quantity,Period
-                from main1
-                where 1=1
-                    and ra1=1
-                    and DeletionMark =0
-                )
-                select branch_guid,product_guid,Quantity,Period
-                from main2
-                where ra2=1
-                    and Quantity <> 0
-                """
-
-        recomm_script_ProductFixesByTypeRecommendations_old2=f""" -- текущие рекомендации
-                with maxdate as
-                (
-                SELECT  BranchID, ProductID, max(DateOfRecording) - Interval '4 Day' dt -- интервал - для долгого появления DeletionMark прошлого периода
-                FROM {database_name}.{topic} main
-                where 1=1
-                    AND TypeRecommendationsID = '{recomm_type}'
-                    and Period < (toDate(now()) + Interval '1 Day')
-                group by BranchID, ProductID
-                )
-                ,
-                main0 as
-                (
-                SELECT DateOfRecording, main.BranchID branch_guid,main.ProductID product_guid,Quantity,DeletionMark,Period,TypeRecommendationsID
-                FROM {database_name}.{topic} main
-                inner join maxdate on main.BranchID=maxdate.BranchID and main.ProductID=maxdate.ProductID
-                where 1=1
-                    AND TypeRecommendationsID = '{recomm_type}'
-                    and Period < (toDate(now()) + Interval '1 Day')
-                    and DateOfRecording >=maxdate.dt
-                )
-                ,
-                main1 as
-                (
-                SELECT  branch_guid, product_guid,Quantity,DeletionMark,Period,TypeRecommendationsID
-                FROM main0
-                --where DeletionMark =0 -- под игнор пометки на удаление
-                ORDER BY DateOfRecording DESC 
-                LIMIT 1 BY branch_guid,product_guid,TypeRecommendationsID, Period
-                )
-                ,
-                main2 as 
-                (
-                select branch_guid,product_guid,Quantity,Period
-                from main1
-                where 1=1
-                    and DeletionMark =0
-                ORDER BY Period DESC 
-                LIMIT 1 BY branch_guid,product_guid,TypeRecommendationsID 
-                )
-                select branch_guid,product_guid,Quantity,Period
-                from main2
-                where 1=1
-                    and Quantity <> 0
-                """
-                
+        
         recomm_script_ProductFixesByTypeRecommendationsNew=f""" -- текущие рекомендации
                 with main as
                 (
@@ -258,16 +187,7 @@ def new_recomm(main,recomm_type,to_null=False,task_uuid='',topic='ProductFixesBy
         recomm=df_build(database_conn,recomm_script,check_null=check_null)
         
         
-        scr="""
-         select guid "TypeRecommendationsID"
-            from etl.calculus c 
-            where over_capacity =0
-        """
-        #not_over_capacity=df_build('delta_bi',scr).TypeRecommendationsID.to_list() 
-        #if recomm_type in not_over_capacity:
-        #    recomm=recomm[0:0] # для разовой полной перегрузки
-
-            
+       
             
         #print(eval('recomm_script_'+topic))
         #print(recomm_type)
@@ -431,10 +351,278 @@ def new_recomm(main,recomm_type,to_null=False,task_uuid='',topic='ProductFixesBy
         
         scr="""
          select guid "TypeRecommendationsID"
-            from etl.calculus c 
+            from delta_bi.etl_calculus c 
             where over_capacity =0
         """
-        not_over_capacity=df_build('delta_bi',scr).TypeRecommendationsID.to_list()
+        not_over_capacity=df_build('dep_spb',scr).TypeRecommendationsID.to_list()
+        if recomm_type in not_over_capacity:
+            main['OverCapacity']=False
+        else:
+            main['OverCapacity']=True
+        
+        return main
+    except Exception as e:
+        #+recomm_script
+        df_load('delta_bi','etl.log_errors',pd.DataFrame({'task_guid':task_uuid,'error_message':str(traceback.format_exc())[:1000].replace("'",""),'dt':datetime.datetime.now(tz)}, index=[0]),columns='')
+        print(str(traceback.format_exc()))
+        raise Exception(str(e))
+        
+        
+        
+def new_recomm_spb(main,recomm_type,to_null=False,task_uuid='',topic='ProductFixesByTypeRecommendationsNew',threshold=0.0001,merge_on=['branch_guid','product_guid'],value_col={'new_count':'Quantity'},database='dns_log',country='ru'):
+    """
+    Создание датафрейма для передачи в kafka - 
+    стыковка вычисленных рекомендаций с уже существующими. 
+    Вход: 
+        main(DataFrame) - датафрейм с новыми рекомендациями
+        recomm_type(str) - guid рекомендации
+        to_null (bool) - если необходимо массовое зануление ранее загруженных рекомендаций
+        task_uuid (uuid) - гуид задачи (для логирования)
+        topic (str) - название топика в Кафке
+        threshold (float) - число, от которого мы считаем значения разными
+        merge_on - разрез, по которому стыкуем новые и действующие рекомендации. В основном филиал-продукт, но бывают исключения
+        value_col - словарь-сопоставление колонок: как называется у меня - как называется в регистре. Если заливаю несколько колонок - будет несколько пар в словаре
+        database (str) - название базы данных
+        country (str) - страна
+    ):
+    Выход:
+        itog (df) - результат работы. 
+    """
+    
+    
+    # на случай, если где-то в легаси осталось старое название кликовской таблицы
+    if topic=='ProductFixesByTypeRecommendations':
+        topic='ProductFixesByTypeRecommendationsNew'
+    
+    # если требуется массовое зануление, то обнуляем таблицу с новыми рекомендациями
+    if to_null==True:
+        main=main[0:0]
+    
+    # иногда стыкуем по гуиду рекомендации + дивизиону (при загрузке в региональные ИБД)
+    # поэтому можем передать два значения в списке
+    if isinstance(recomm_type,dict):
+        DivisionName=recomm_type['DivisionName']
+        recomm_type=recomm_type['recomm_type']
+    else:
+        DivisionName=''
+
+    # если схема базы проверки отличается от прозвища базы
+    if isinstance(database,list):
+        database_conn=database[0]+('_'+country if country!='ru' else '')
+        database_name=database[1]
+    elif isinstance(database,str):
+        database_conn=database+('_'+country if country!='ru' else '')
+        database_name=database
+    
+    
+    try:
+    
+        # логируем начало загрузки рекомендаций
+        timemark2('log_new.txt',task_uuid,'Загрузка рекомендаций')
+        
+        # логируем общее колво рекомендаций
+        timemark2('log_new.txt',task_uuid,'Общее колво рекомендаций',str(main.query('new_count!=0').shape[0]))
+            
+        # скрипт актуальных рекомендаций по конкретному GUID
+        recomm_script_ProductExposure_PrioritizationCoefficients=f""" -- текущие рекомендации
+                with maxdate as
+                (
+                SELECT  main.BranchID, main.ProductID, max(main.DateOfRecording) dt
+                FROM {database_name}.{topic} main
+                    left join dns_retail.BranchHier BranchHier on main.BranchID = BranchHier.BranchGuid 
+                where 1=1
+                    and DivisionName ='{DivisionName}' -- дивизион
+                group by main.BranchID, main.ProductID
+                )
+                ,
+                main as
+                (
+                SELECT /*row_number(*) over(partition by main.ProductID,main.BranchID order by DateOfRecording desc) rank,*/ main.BranchID branch_guid,main.ProductID product_guid,Quantity -- берём существующие рекомендации, вычисляем ранг 
+                FROM {database_name}.{topic} main
+                    left join dns_retail.BranchHier BranchHier on main.BranchID = BranchHier.BranchGuid 
+                    inner join maxdate on main.BranchID =maxdate.BranchID and main.ProductID =maxdate.ProductID
+                where DivisionName ='{DivisionName}' -- дивизион
+                    and main.DateOfRecording >=maxdate.dt
+                order by DateOfRecording desc
+                limit 1 by branch_guid,product_guid
+                )
+                select /*distinct*/ branch_guid,product_guid,Quantity
+                from main
+                where 1=1
+                    and Quantity<>0
+                union all
+                select 'xxx','xxx',0 -- т.к. клик может выдать пустую таблицу вместо ошибки, скотина такая
+                """
+        
+        recomm_script_ProductFixesByTypeRecommendationsNew=f""" -- текущие рекомендации
+                with main as
+                (
+                SELECT main.BranchID branch_guid,main.ProductID product_guid,argMax(Quantity,Period) Quantity
+                FROM {database_name}.{topic} main
+                where 1=1
+                    AND TypeRecommendationsID = '{recomm_type}'
+                group by BranchID, ProductID
+                )
+                select branch_guid,product_guid,Quantity--,Period
+                from main
+                where 1=1
+                    and Quantity <> 0
+                """
+                
+        recomm_script_SalesPotentialsByTypeOfRecommendation=f""" -- текущие рекомендации
+                with main0 as
+                (
+                SELECT DateOfRecording, BranchID branch_guid,CategoryID category_guid,MinCount,MaxCount,Period,TypeRecommendationID, MeasureID
+                FROM {database_name}.{topic} main
+                left join dns_retail.BranchHier BranchHier on main.BranchID = BranchHier.BranchGuid 
+                where 1=1
+                    AND TypeRecommendationID = '{recomm_type}'
+                    AND DivisionName = '{DivisionName}'
+                    and Period < (toDate(now()) + Interval '1 Day')
+                )
+                ,
+                main1 as
+                (
+                SELECT row_number(*) over(partition by branch_guid,category_guid,TypeRecommendationID, Period order by DateOfRecording desc) ra1,*
+                FROM main0
+                )
+                ,
+                main2 as 
+                (
+                select row_number(*) over(partition by branch_guid,category_guid,TypeRecommendationID order by Period desc) ra2,*
+                from main1
+                where 1=1
+                    and ra1=1
+                )
+                select branch_guid,category_guid,MinCount,MaxCount,MeasureID
+                from main2
+                where ra2=1
+                    and MinCount <> 0
+                """
+        
+        
+        
+        # определяем, по какому скрипту грузим срез последних
+        try:
+            recomm_script=eval('recomm_script_'+topic)
+        except:
+            raise Exception('В new_recomm не задан скрипт выгрузки СрезПоследних для таблицы ' + topic)
+        recomm = dns_log.read_table(recomm_script)
+        
+        
+       
+            
+        timemark2('log_new.txt',task_uuid,'Колво рекомендаций в 1С',str(recomm.shape[0]))
+        if recomm.shape[0]==0 and main.shape[0]==0:
+            toSkype('Рекомендаций нет - ни в 1С, ни в Питоне','Airflow')
+            raise Exception('Рекомендаций нет - ни в 1С, ни в Питоне')
+            
+        if (recomm.shape[0]/max(main.shape[0],0.001))>20 and recomm.shape[0]>100 and to_null==False: # т.к. мелочь может и занулиться
+            toSkype('Резкое сокращение колва рекомендаций','Airflow')
+            raise Exception('Резкое сокращение колва рекомендаций ' + topic)
+        
+        # если таблицы меньше 7 млн, то стыкуем обыкновенным merge
+        # если меньше 14 млн, то оптимизированным merge с большими порциями
+        # если хотя бы одна таблица больше 14 млн - оптимизированный merge c мелкими порциями
+        if main.shape[0]<7000000 and recomm.shape[0]<7000000:
+            main=main.merge(recomm,how='outer',on=merge_on)
+        elif main.shape[0]<14000000 and recomm.shape[0]<14000000:
+            toSkype('начали жуткий merge','Airflow')
+            main=split_merge(main,recomm,how='outer',on=merge_on,col=merge_on[0],partion_value=8,reset=False)
+            toSkype('закончили жуткий merge','Airflow')
+        else:
+            toSkype('начали совсем жуткий merge','Airflow')
+            main=split_merge(main,recomm,how='outer',on=merge_on,col=merge_on[0],partion_value=4,reset=False)
+            toSkype('закончили совсем жуткий merge','Airflow')
+        
+        # определяем, какие строки изменились (с учётом threshold - величины, от которой строки считаются разными)
+        for col1 in value_col.keys():
+            main[col1]=main[col1].fillna(-threshold)
+            main[col1]=main[col1].astype('float')
+        for col2 in value_col.values():
+            main[col2]=main[col2].fillna(-threshold)
+            main[col2]=main[col2].astype('float')
+        
+        #toSkype('create diff','Airflow')
+        print('create diff')
+        main['diff']=0
+        #toSkype('create diff1','Airflow')
+        print('create diff1')
+        for col1,col2 in value_col.items():
+            main['diff']=main['diff']+abs(main[col1]-main[col2])
+        #toSkype('create diff2','Airflow')
+        print('create diff2')
+        main=main.query(f'diff>{threshold}')
+        
+        #toSkype('reset_index','Airflow')
+        main=main.reset_index(drop=True)
+        if DivisionName!='':
+            toSkype('сформировали diff','Airflow')
+ 
+        # пробуем так. посмотрим. Посмотрел - нормас
+        for col1 in value_col.keys():
+            main.loc[main[col1]==-threshold,col1]=0
+        for col2 in value_col.values():
+            main.loc[main[col2]==-threshold,col2]=0
+        if DivisionName!='':
+            toSkype('вернули нули','Airflow')
+        
+        #toSkype('create new old count','Airflow')
+        if len(value_col)>1:
+            main['_new_count']=0
+            main['_old_count']=0
+                
+            for col1 in value_col.keys():
+                main['_new_count']=main['_new_count']+abs(main[col1])
+            for col2 in value_col.values():
+                main['_old_count']=main['_old_count']+abs(main[col2])
+                
+            #main['diff2']=abs(main['_old_count']-main['_new_count'])
+            conditions0 = [ 
+                (main['_new_count']!=0) & (main['_old_count']!=0),
+                (main['_new_count']==0) & (main['_old_count']!=0),
+                (main['_new_count']!=0) & (main['_old_count']==0)]
+        else:
+            new_count=list(value_col.keys())[0]
+            old_count=list(value_col.values())[0]
+            
+            conditions0 = [ 
+                (main[new_count]!=0) & (main[old_count]!=0),
+                (main[new_count]==0) & (main[old_count]!=0),
+                (main[new_count]!=0) & (main[old_count]==0)]
+            
+            #(main.new_count.between(threshold,0)) & (main.Quantity==-threshold)]
+        #toSkype('choices','Airflow')
+        choices = ['изменение рекомендаций','зануление старых','новые']
+        main['status']=''
+        if DivisionName!='':
+            toSkype('перед статусом '+str(main.shape[0]),'Airflow')
+        if main.shape[0]<9000000:
+            main['status'] = np.select(conditions0, choices, default=False)
+        else:
+            for i in range(len(conditions0)):
+                partion_value=4
+                brans=main.branch_guid.drop_duplicates().to_list()
+                brans=[ brans[x:x+partion_value] for x in range(0,len(brans),partion_value)]
+                #for branch_guid in main.branch_guid.drop_duplicates():
+                #    main.loc[conditions0[i] & (main.branch_guid==branch_guid),'status']=choices[i]
+                for br_list in brans:
+                    main.loc[conditions0[i] & (main.branch_guid.isin(br_list)),'status']=choices[i]
+        #toSkype('end choices','Airflow')
+        if DivisionName!='':
+            toSkype('сформировали status','Airflow')
+        # порог использовали для статистики и выборки, а для заливки меняем на честный ноль
+        #main.loc[main.new_count==-threshold,'new_count']=0
+        
+        main['TypeRecommendationsID']=recomm_type
+
+        # выгружаем и проставляем признак "СверхЁмкости"
+        scr="""
+         select guid "TypeRecommendationsID"
+            from delta_bi.etl_calculus c 
+            where over_capacity =0
+        """
+        not_over_capacity= master.read_table(scr)
         if recomm_type in not_over_capacity:
             main['OverCapacity']=False
         else:
@@ -787,7 +975,88 @@ def load_turnover(row,guid_key):
     key=row['CategoryID']
 
     return {"key": key, "value": kafka_dict}
-  
+
+
+def load_pp(row,guid_key): 
+    """
+    Сериализация json для последующей передачи в kafka. 
+    Вход: 
+        row(object) - строка таблицы с данными. 
+        guid_key(str) - guid записи в kafka (1 на всю пачку)
+    ):
+    Выход:
+        (dict) - результат работы. 
+    """
+#"Филиал": row['branch_guid'] ,
+          
+    kafka_dict = {
+          "Филиал": row['branch_guid']
+          ,"Товар": row['product_guid']
+          ,"ВидРекомендации": row['TypeRecommendationsID']
+          ,"МинКоличество": row['min_pp']
+          ,"МаксКоличество": row['max_pp']
+          ,"ОптКоличество": row['optimum_pp']
+    }
+    
+    key=kafka_dict['Филиал']+kafka_dict['Товар']+kafka_dict['ВидРекомендации']
+
+    return {"key": key, "value": kafka_dict}
+
+
+def load_autosegmets_segments(row,guid_key): 
+    """
+    Сериализация json для последующей передачи в kafka. 
+    Вход: 
+        row(object) - строка таблицы с данными. 
+        guid_key(str) - guid записи в kafka (1 на всю пачку)
+    ):
+    Выход:
+        (dict) - результат работы. 
+    """
+          
+    kafka_dict = {
+          "Ссылка": row['UUID']
+          ,"Наименование": row['Сегмент']
+          ,"Категория": row['КатегорияСсылка']
+          ,"Уровень": row['Уровень']
+          ,"ДатаЗаписи": row['Дата'].strftime('%Y-%m-%dT%H:%M:%S')  
+    }
+    
+    if 'ПометкаУдаления' in row.index:
+        kafka_dict['ПометкаУдаления']=row['ПометкаУдаления']
+    
+    key=str(kafka_dict["Ссылка"])
+
+    return {"key": key, "value": kafka_dict}  
+    
+    
+    
+def load_autosegmets_products(row,guid_key): 
+    """
+    Сериализация json для последующей передачи в kafka. 
+    Вход: 
+        row(object) - строка таблицы с данными. 
+        guid_key(str) - guid записи в kafka (1 на всю пачку)
+    ):
+    Выход:
+        (dict) - результат работы. 
+    """
+          
+    kafka_dict = {
+          "Товар": row['ТоварСсылка']
+          ,"Уровень1": row['Уровень_1']
+          ,"Уровень2": row['Уровень_2']
+          ,"Уровень3": row['Уровень_3']
+          ,"ДатаЗаписи": row['Дата'].strftime('%Y-%m-%dT%H:%M:%S')  
+    }
+    
+    if 'ПометкаУдаления' in row.index:
+        kafka_dict['ПометкаУдаления']=row['ПометкаУдаления']
+
+    
+    key=str(kafka_dict["Товар"])
+
+    return {"key": key, "value": kafka_dict}  
   
 def load_CreationOfDocumentsForDistribution(row,guid_key): 
     """
@@ -835,16 +1104,16 @@ def push_kafka(itog,recomm_type,servers = ['10.10.1.171:9092', '10.10.1.172:9092
             
             
         if by_suffix:
-            if 'topic_suffix' in itog.columns:
-                itog=itog.drop(columns='topic_suffix')
+            if 'topic_suffix' not in itog.columns:
+                #itog=itog.drop(columns='topic_suffix')
             
-            ibd=df_build('dns_dwh','branches_dnsdwh_ibd')
-            itog=itog.merge(ibd,left_on='branch_guid',right_on='branch_guid2')
-            
+                ibd=df_build('dns_dwh','branches_dnsdwh_ibd')
+                itog=itog.merge(ibd,left_on='branch_guid',right_on='branch_guid2')
+                
             for topic_suffix in itog[~itog.topic_suffix.isna()].topic_suffix.unique():
                 itog_temp=itog.query(f'topic_suffix=="{topic_suffix}"')
-                push_kafka(itog_temp,recomm_type,topic=[topic_upload,topic_upload+topic_suffix],click_check=False)
-                print(topic_suffix)
+                push_kafka(itog_temp,recomm_type,topic=[topic_upload,topic_upload+topic_suffix],click_check=False,servers=servers)
+                print(topic_suffix,itog_temp.shape[0])
             
             return ''
         #print('начали')
@@ -874,7 +1143,7 @@ def push_kafka(itog,recomm_type,servers = ['10.10.1.171:9092', '10.10.1.172:9092
         try:
             json_function=eval(json_functions[topic_check])
         except:
-            raise Exception('Нужно в my_functions.json_functions внести сопоставление топика и его функции подачи данных')
+            raise Exception('Нужно в my_functions.json_functions внести сопоставление топика и его функции подачи данных\n'+topic_check)
         
         
         if itog.empty:

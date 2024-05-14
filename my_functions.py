@@ -8,17 +8,64 @@ from time import sleep
 from joblib import Parallel, delayed
 import traceback
 
+import sys
+
+import clickhouse_driver as cd
+
 import requests
 
 import pytz
 tz = pytz.timezone('Asia/Irkutsk')
+
+
+import psycopg2
+from sqlalchemy import create_engine
+
+dsn_database='dep_spb'
+try:
+    from connections import conn
+    dsn_hostname = conn[dsn_database]['dsn_hostname']
+    dsn_port = conn[dsn_database]['dsn_port']
+    dsn_uid = conn[dsn_database]['dsn_uid']
+    dsn_pwd = conn[dsn_database]['dsn_pwd']
+    db_type = conn[dsn_database]['db_type']
+    try:
+        dsn_database = conn[dsn_database]['dsn_database']
+    except:
+        pass
+    try:
+        extra=conn[dsn_database]['extra']
+    except:
+        pass
+except ModuleNotFoundError:
+    from airflow.hooks.base import BaseHook
+    connection = BaseHook.get_connection(dsn_database)
+    dsn_hostname = connection.host
+    dsn_port = connection.port
+    dsn_uid = connection.login
+    dsn_pwd = connection.password
+    db_type = connection.description
+    try:
+        temp=connection.schema
+        if str(temp)!='': # т.к. обычно совпадает с именем соединения, поэтому не прописываю
+            dsn_database = connection.schema
+    #print('Нет такого модуля')
+    except:
+        pass
+    try:
+        extra=connection.extra
+    except:
+        pass
+dep_spb = create_engine(f'postgresql+psycopg2://{dsn_uid}:{dsn_pwd}@{dsn_hostname}/{dsn_database}')
+
+
 
 def readfile(filename):
     with open(filename,encoding='utf-8-sig',mode='r') as f:# ,encoding='utf-8'
         s=f.read()
     return s
     
-    
+import uuid    
     
 def toSkype(msg,chat='Лог'):
     """
@@ -108,8 +155,10 @@ def toSkype(msg,chat='Лог'):
 
     
 def df_load_main(dsn_database,tablename,df,columns='',try_cnt=10):
+
     if df.empty:
         return ''
+    df=df.fillna('isna')
     # чтобы общий скрипт на свой комп и airflow
     dsn_database_orig=dsn_database+''
     try:
@@ -119,6 +168,7 @@ def df_load_main(dsn_database,tablename,df,columns='',try_cnt=10):
         dsn_uid = conn[dsn_database]['dsn_uid']
         dsn_pwd = conn[dsn_database]['dsn_pwd']
         dsn_database_orig=dsn_database
+        db_type = conn[dsn_database]['db_type']
         try:
             dsn_database = conn[dsn_database]['dsn_database']
         except:
@@ -130,6 +180,7 @@ def df_load_main(dsn_database,tablename,df,columns='',try_cnt=10):
         dsn_port = connection.port
         dsn_uid = connection.login
         dsn_pwd = connection.password
+        db_type = connection.description
         try:
             temp=connection.schema
             if str(temp)!='': # т.к. обычно совпадает с именем соединения, поэтому не прописываю
@@ -145,8 +196,8 @@ def df_load_main(dsn_database,tablename,df,columns='',try_cnt=10):
     except:
         pass
 
-             
-    if dsn_database in ['delta_bi','mart_fls','bi_fls']:
+    #print(datetime.datetime.now())         
+    if db_type=='postgre':#dsn_database in ['delta_bi','mart_fls','bi_fls','dep_spb']:
         import psycopg2
         
         cnt=0
@@ -170,10 +221,14 @@ def df_load_main(dsn_database,tablename,df,columns='',try_cnt=10):
             ("{'","'.join(columns.keys())}") VALUES (
             """
         s=s_pattern
+        #print(datetime.datetime.now()) 
         for b,row in df[columns.values()].iterrows():
             for i in row[:]:
                 if "('" in str(i):
                     s+=str(i)+","
+                    #print(i)
+                elif i=='isna':
+                    s+='NULL,'
                 else:
                     s+="'"+str(i).replace("'","")+"',"
             s=s[:-1]
@@ -186,8 +241,11 @@ def df_load_main(dsn_database,tablename,df,columns='',try_cnt=10):
                 while cnt<=try_cnt:
                     cnt+=1
                     try:
-                        
+                        #print(s)
+                        #print(datetime.datetime.now(),'перед execute')
                         cursor.execute(s)
+                        conn.commit()
+                        #print(datetime.datetime.now(),'после execute')
                     except Exception as e:
                         
                         print(e)
@@ -196,16 +254,19 @@ def df_load_main(dsn_database,tablename,df,columns='',try_cnt=10):
                             raise Exception(str(e))
                     else:
                         break
-                
-                conn.commit()
+
+                #conn.commit()
+
                 s=s_pattern
             else:
-                s+=',('
-        
+                s+=',\n('
+                
+        conn.commit()
         cursor.close()
+        
         conn.close()
     
-    elif dsn_database in ['dns_log',] or dsn_database_orig in ['dsn_database_test','adm_fcs4','vlad']:
+    elif db_type=='clickhouse':#dsn_database in ['dns_log',] or dsn_database_orig in ['dsn_database_test','adm_fcs4','vlad']:
         import clickhouse_driver as cd
 
         if dsn_database_orig=='vlad':
@@ -224,7 +285,7 @@ def df_load_main(dsn_database,tablename,df,columns='',try_cnt=10):
         for b,row in df[columns.values()].iterrows():
             for i in row[:]:
                 if "('" in str(i):
-                    print('xxx')
+                    #print('xxx')
                     s+=str(i)+","
                 else:
                     s+="'"+str(i).replace("'","")+"',"
@@ -239,7 +300,7 @@ def df_load_main(dsn_database,tablename,df,columns='',try_cnt=10):
                     try:
                         client.execute(s)
                     except Exception as e:
-                        print(s)
+                        #print(s)
                         print(e)
                         if cnt==try_cnt:
                             raise Exception(str(e))
@@ -252,7 +313,8 @@ def df_load_main(dsn_database,tablename,df,columns='',try_cnt=10):
                 s+=',('                        
         client.disconnect()
 
-def df_load(dsn_database,tablename,df,columns='',n_jobs=4,try_cnt=1,check_columns=True,show_time=True):
+
+def df_load(dsn_database,tablename,df,columns='',n_jobs=1,try_cnt=1,check_columns=True,show_time=True):
     # если подали словарь - преобразуем в датафрейм
     
     if isinstance(df,dict):
@@ -286,9 +348,10 @@ def df_load(dsn_database,tablename,df,columns='',n_jobs=4,try_cnt=1,check_column
     to_thread=min(to_thread_optimum,to_thread)
     #toSkype('Делаем разбивку для заливки','Airflow')
     to_load=[df.iloc[i*to_thread:(i+1)*to_thread,:] for i in range(df.shape[0]//to_thread+1)]
-
+    
     x=datetime.datetime.now()
     #toSkype('Начинаем заливку в '+tablename,'Airflow')
+
     result=Parallel(n_jobs=n_jobs)(delayed(df_load_main)(dsn_database,tablename,df,columns,try_cnt) for df in to_load)
     y=datetime.datetime.now()
     #toSkype('Общее время загрузки -'+str(y-x),'Airflow')
@@ -382,8 +445,12 @@ def df_build(dsn_database,query,commands='',check_null=False,multi=False,show_ti
         directory=os.getcwd()
     except:
         directory='/opt/airflow/dags/repo/dags'
-    if not query.endswith('.sql') and query+'.sql' in os.listdir(directory):
-        query=query+'.sql'
+        
+    try:
+        if not query.endswith('.sql') and query+'.sql' in os.listdir(directory):
+            query=query+'.sql'
+    except:
+        pass
     
     time_begin=datetime.datetime.now(tz)
             
@@ -391,8 +458,12 @@ def df_build(dsn_database,query,commands='',check_null=False,multi=False,show_ti
         print(query.split('\n')[0].replace('--',''),'-',end=' ') # выводим либо имя sql-скрипта, либо первую строку скрипта (убирая знаки коммента)
     
     # если аргументом идёт имя скрипта, то сразу его считываем
-    if query.endswith('.sql'):
-        query=readfile(directory+'/'+query) 
+    try:
+        if query.endswith('.sql'):
+            query=readfile(directory+'/'+query) 
+    except:
+        toSkype('не могу считать файл '+query,'A')
+        pass
         
     #if 'ProductFixesByTypeRecommendationsTotal' in query:
     #    toSkype('Найден Total','Airflow')
@@ -481,8 +552,10 @@ def df_build(dsn_database,query,commands='',check_null=False,multi=False,show_ti
 
     #elif dsn_database in ['dns_log','mart_fois'] or dsn_database_orig in ['adm_fcs','adm_fcs4','dns_log_test','vlad']:
     elif db_type=='clickhouse':
+        
+ 
         import clickhouse_driver as cd
-
+       
         if dsn_database_orig=='vlad':
             client = cd.Client(database=dsn_database, host=dsn_hostname, 
                     settings=dict(numpy_columns=True),sync_request_timeout=5)   #port=dsn_port,   
@@ -502,7 +575,7 @@ def df_build(dsn_database,query,commands='',check_null=False,multi=False,show_ti
                 and command like 'DELETE%'
             """
             
-                                        
+                                     
         cnt=0
         while cnt<=13:
             cnt+=1
@@ -521,12 +594,14 @@ def df_build(dsn_database,query,commands='',check_null=False,multi=False,show_ti
             else:
                 # если except не отработал, значит попытка успешная, и выходим из цикла
                 break
+ 
         if 'itog_temp' in locals():
             table=pd.DataFrame(list(itog_temp),columns=[desc[0] for desc in cols])
             client.disconnect()
         else:
             client.disconnect()
             raise Exception('Не отработал запрос в базе ' + dsn_database)
+ 
     #elif dsn_database in ['mart_com','mart_fls','delta_bi','dep_spb','ORP_base'] or dsn_database_orig in ['startml','ORP_base']:
     elif db_type=='postgre':
         #print('xxx')
@@ -753,13 +828,13 @@ def timemark2(filename,task_uuid,typ,value=''):
         """
         df_build('delta_bi','select 1 cnt',s)
     
-def to_csv(df,name='',new_version=False):
+def to_csv(df,name=''):#,new_version=False
     # если не задаём имя файла, то берётся название сохраняемого датафрейма
     if name=='':
         name='temp_'+datetime.datetime.now(tz).strftime("%Y-%m-%d %H-%M-%S")
-    if new_version:
-        if os.path.isfile(name+'.csv'):
-            name=name+'_'+datetime.datetime.now(tz).strftime("%Y-%m-%d %H-%M-%S")
+    #if new_version:
+    #    if os.path.isfile(name+'.csv'):
+    #        name=name+'_'+datetime.datetime.now(tz).strftime("%Y-%m-%d %H-%M-%S")
     df.to_csv(name+'.csv',sep=';',encoding='utf-8-sig', float_format="%.8f",decimal=',',index=False)
 
 
@@ -804,11 +879,12 @@ def to_sql(df,tablename='',n_jobs=4):
         #toSkype('удалена таблица '+tablename,'Airflow')
         # создаём
         df_build('delta_bi','select 1 cnt',s)
+        
     else: # если есть
         df_build('delta_bi','select 1 cnt',scr_delete)
         sleep(4)
         df_build('delta_bi','select 1 cnt',s)
-    
+    print(s)
     # заливаем
     df_load('delta_bi','temp.'+tablename,df,n_jobs=n_jobs)
     
@@ -836,11 +912,13 @@ def log(dt='',guid=''):
     
    
 def execution(ModuleName,params='',check_kafka=True):
-
+    """
+    запуск фиксаций через название модуля
+    отправка информационных сообщений в чат телеграма
+    """
     exec(f'import {ModuleName} as main_module',globals())
     try:
-        import sys
-        import traceback
+        
         #from my_functions import toSkype
         status='bad'
         
@@ -855,7 +933,7 @@ def execution(ModuleName,params='',check_kafka=True):
         
         print(main_module.__doc__)
         
-        while status!='ok' and cnt<=3:
+        while status!='ok' and cnt<=3: # делаем три попытки вычислить фиксацию и получить статус ok
             print("Попытка",cnt)
             if params=='':
                 status,msg=main_module.main()
@@ -873,15 +951,14 @@ def execution(ModuleName,params='',check_kafka=True):
             cnt+=1
             msg_agg+=msg_str+'\n'
         
-        if status!='ok' and cnt>3:
+        if status!='ok' and cnt>3: # если после трёх попыток не получили статус ok - отправляем ошибку
             print('Неустранимая ошибка', main_module.__doc__,msg)
             toSkype(datetime.datetime.now(tz).strftime('%Y-%m-%d %H:%M:%S')+' ирк\n'+'Неустранимая ошибка\n' + main_module.__doc__ + '\n'+((str.upper(country)+'\n\n') if country!='ru' else '') + msg_agg)
             toSkype(main_module.__doc__ + '\n' +((str.upper(country)+'\n\n') if country!='ru' else '') + msg_agg,chat='Увед')
-        elif status=='ok':
+        elif status=='ok': # если получили статус ok - отправляем сообщение об успешном исполнении
             toSkype(datetime.datetime.now(tz).strftime('%Y-%m-%d %H:%M:%S')+' ирк\n'+main_module.__doc__ + '\n'+((str.upper(country)+'\n\n') if country!='ru' else '') + msg)
-            if (not '100.0' in msg) and check_kafka: toSkype(main_module.__doc__ + '\n' + msg +'\nДоля доставленных в Кафку строк отличается от 100',chat='Увед')
+            if (not '100.0' in msg) and check_kafka: toSkype(main_module.__doc__ + '\n' + msg +'\nДоля доставленных в Кафку строк отличается от 100',chat='Увед') # дополнительный контроль на полноту доставки в Кафку
     except Exception as e:
-        print("Ну не смог")
         print(str(e.__class__.__name__))
         print(str(sys.exc_info()[1]))
         print(str(traceback.format_exc()))
@@ -1032,14 +1109,14 @@ hand_guids_old="""
 
 def layer_guids():
     try:
-        layer_guids_df=df_build('delta_bi',"""select guid from etl.calculus where layer_or_hand='layer'""",show_time=False)
-        return ",".join("'"+layer_guids_df.guid+"'")
+        layer_guids_df=df_build('dep_spb',"""select guid from delta_bi.etl_calculus where layer_or_hand='layer'""",show_time=False)
+        return layer_guids_df#",".join("'"+layer_guids_df.guid+"'")
     except:
         toSkype(str(traceback.format_exc()),'Airflow')
 
 def hand_guids():
     try:
-        hand_guids_df=df_build('delta_bi',"""select guid from etl.calculus where layer_or_hand='hand'""",show_time=False)
+        hand_guids_df=df_build('dep_spb',"""select guid from delta_bi.etl_calculus where layer_or_hand='hand'""",show_time=False)
         return ",".join("'"+hand_guids_df.guid+"'")
     except:
         toSkype(str(traceback.format_exc()),'Airflow')
@@ -1176,6 +1253,47 @@ def before_start(recomm_type,check_guid=True,country='ru'):
         #return {'task_uuid':task_uuid,'cats':cats,'branches':branches,'products':products}#
     except:
         toSkype('before start\n'+str(traceback.format_exc())[:1500],'Airflow')
+        
+        
+def before_start_spb(recomm_type,master):
+    try:
+        # задаём рабочую папку
+        os.chdir(os.path.dirname(__file__)) 
+
+        # создаём гуид для логирования
+        #CR по импорту тоже вынести в начало файла
+        #CR_answer вынес
+        #import uuid
+        task_uuid=str(uuid.uuid1())
+
+
+        #CR решение вытащить файл выглядит повторяющимся, я бы вынес в отдельню функцию оставив код вида:
+        # branches = master.read_table(read_sql_from_file('branches_spb.sql'))
+        #CR_answer вынес в отдельную функцию
+
+        #with open('branches_spb.sql',encoding='utf-8-sig',mode='r') as f:
+        #    branches = master.read_table(f.read())
+        branches = master.read_table(readfile('branches_spb.sql'))
+
+        #with open('products_spb.sql',encoding='utf-8-sig',mode='r') as f:
+        #    products = master.read_table(f.read())
+        products = master.read_table(readfile('products_spb.sql'))
+            
+        #with open('categories_spb.sql',encoding='utf-8-sig',mode='r') as f:
+        #    cats = master.read_table(f.read())
+        cats = master.read_table(readfile('categories_spb.sql'))
+
+        #CR вместо timemark2 альтернативно можно использовать штатные средства логирования, если у нас потребность записи в файл.
+        # внутри логика которая может влетать на функцию df_load
+        #CR_answer сейчас лог ведётся в базе, вставляется построчно, так и задумывалось. df_load внутри не используется, инструкция вставки формируется вручную
+        # какие штатные средства логирования необходимо использовать?
+
+        timemark2('log_new.txt',task_uuid,'ГУИД',recomm_type)    
+        timemark2('log_new.txt',task_uuid,'Начало')
+         
+        return task_uuid,cats,branches,products
+    except:
+        toSkype('before start\n'+str(traceback.format_exc())[:1500],'Airflow')
     
 json_functions={'ProductFixesByTypeRecommendations':'load_fixed',
                 'ProductFixesByTypeRecommendationsNew':'load_fixed',
@@ -1190,8 +1308,11 @@ json_functions={'ProductFixesByTypeRecommendations':'load_fixed',
                 'ActualTurnoverCategoryForPotentials.dv':'load_turnover',
                 'CreationOfDocumentsForDistribution':'load_CreationOfDocumentsForDistribution',
                 'AvarageDailySales':'load_potential_PP',
-                'AdditionalPrioritizationCoefficients':'load_AdditionalPrioritizationCoefficients'}
-                
+                'AdditionalPrioritizationCoefficients':'load_AdditionalPrioritizationCoefficients',
+                'DimAutoSegments':'load_autosegmets_segments',
+                'ProductAutoSegments':'load_autosegmets_products',
+                'SalesForecastTurnover':'load_pp'}
+old_ibd="""
 # сопоставление названий ИБД и их суффиксов
 IBD_topics=pd.DataFrame([['Верхне-Волжский (Казань)',
                 'Дальний Восток и Восточная Сибирь',
@@ -1212,6 +1333,7 @@ IBD_topics=pd.DataFrame([['Верхне-Волжский (Казань)',
                 '.dns_chrz.dv',
                 '.dns_sth.dv']]).T
 IBD_topics.columns=['IBDname','topic_suffix']
+"""
 
 # по какой колонке проверяем тип рекомендаций при выгрузке действующих. Для push_kafka
 recomm_column={'ProductFixesByTypeRecommendations':'main.TypeRecommendationsID',
@@ -1375,7 +1497,29 @@ def create_branches():
     branches=branches.merge(filials_conc,how='left')
     branches.conc=branches.conc.fillna(0)
     
-    
+    scr=""" -- модели конфигурации филиала
+    with main as
+    (
+    select  main."Филиал" branch_guid, cast(main."Данные" as int) branch_model_fig,rank() OVER (PARTITION BY main."Филиал" ORDER BY main."Период" DESC) ra
+        from "cdc.adm-1c-dns-m.dns_m"."RS.IstorijaFiliala" main
+            left join "cdc.adm-1c-dns-m.dns_m"."RS.SsylkiPerechislenij" pere on main."ВидДанных" =pere."ЗначениеПеречисления" 
+        where pere."Наименование" ='Модель конфигурации филиала'
+        ),
+        model as
+        (
+        select "ЗначениеХарактеристики_Число" branch_model_fig,"PredstavlenieZnachenijaHarakteristiki" branch_model_name
+            from "cdc.adm-1c-dns-m.dns_m"."PVH.VidyHarakteristikPodrazdelenij.SpisokVybora"
+            where "Ссылка"='bbda290a-acda-11ed-9099-00155d8ed20b'
+            )
+        select branch_guid,branch_model_name
+        from main
+        left join model on main.branch_model_fig=model.branch_model_fig
+        where ra=1
+    """    
+    branch_model=df_build('cdc_current_state',scr)
+    branches=branches.merge(branch_model,how='left')
+    branches.branch_model_name=branches.branch_model_name.fillna('x')
+
     
     return branches
     
@@ -1401,21 +1545,14 @@ def create_cats():
     """
     common=df_build('dns_dwh',scr)
     
-    c=cats.merge(common,on='CategoryID',how='inner')
+    c=common.merge(cats['CategoryID'],on='CategoryID',how='inner')
     c['cnt_all']=c.groupby('CategoryID').cnt.transform(sum)
     c['cut']=c.cnt/c.cnt_all
     
-    c=c.query('cut>=0.95').merge(cats,left_on='CategoryCommonName',right_on='CategoryName',how='inner')
-    c=c.rename(columns={'CategoryID_x':'CategoryID','CategoryID_y':'CategoryCommonID','CategoryCode_y':'CategoryCommonCode','category_guid_y':'categorycommon_guid','CategoryName_y':'CategoryCommonName'})
-    c=c[['CategoryID','CategoryCommonID','CategoryCommonCode','categorycommon_guid','CategoryCommonName']]
-    c.CategoryCommonID=c.CategoryCommonID.astype(int)
+    cats=cats.merge(c.query('cut>=0.95')[['CategoryID','CategoryCommonName']],on='CategoryID',how='left')
     
-    cats=cats.merge(c,how='left',on='CategoryID')
-    
-    cats.CategoryCommonID=cats.CategoryCommonID.fillna(cats.CategoryID)
-    cats.CategoryCommonCode=cats.CategoryCommonCode.fillna(cats.CategoryCode)
-    cats.categorycommon_guid=cats.categorycommon_guid.fillna(cats.category_guid)
     cats.CategoryCommonName=cats.CategoryCommonName.fillna(cats.CategoryName)
+    cats.CategoryCommonName=cats.CategoryCommonName.apply(lambda x: x.replace('"',''))
     
     if cats.CategoryID.count()!=cats.CategoryID.nunique(): # произошло задвоение
         raise Exception('Задвоение при определении общих категорий')
@@ -1429,7 +1566,7 @@ def create_products_my():
     
     products=products.merge(cats[['CategoryID','category1_number']],how='inner')\
             .merge(folders,how='inner')\
-            .query('category1_number>=1 and category1_number<=6 and product_type in ("Товар","Агрегат")')
+            .query('category1_number>=1 and category1_number<=9 and product_type in ("Товар","Агрегат")')
     products=products.drop(columns='category1_number')
     
     
@@ -1459,7 +1596,7 @@ def create_products_my():
 def update_layers_hand_guids():
     """
     только по РФ
-    обновляет справочник фиксаций в delta_bi
+    обновляет справочник фиксаций
     самое главное - подгружает признаки фиксаций-слоёв и фиксаций-ручных
     """
     
@@ -1505,12 +1642,11 @@ def update_layers_hand_guids():
         """
         
     scr_insert="""
-        update etl.calculus
+        update delta_bi.etl_calculus
         set layer_or_hand='@value'
         where guid in (@guids)
         """
-    
-    calculus=df_build('delta_bi',"""select *,1 in_calculus from etl.calculus where country='ru' """)
+    calculus=df_build('dep_spb',"""select *,1 in_calculus from delta_bi.etl_calculus where country='ru' """)
     
     for typ in [['layer','210acafb-e3e4-411d-a713-f82ea99c7553'],['hand','d1b09919-c021-43bd-b246-e19c8c6fcc96']]:
         try:
@@ -1528,16 +1664,16 @@ def update_layers_hand_guids():
         replica=replica.merge(calculus[['guid','in_calculus']],how='left')
         to_load=replica[replica.in_calculus.isna()]
         if not to_load.empty:
-            df_load('delta_bi','etl.calculus',to_load)
+            df_load('dep_spb','delta_bi.etl_calculus',to_load)
         
         # 
         #replica_good=replica.merge(calculus.query(f'layer_or_hand=="{typ[0]}"')[['guid','in_calculus']],how='left')
         
-        replica_bad=replica.merge(calculus.query(f'layer_or_hand=="{typ[0]}"')[['guid','in_calculus']],how='right')
+        replica_bad=replica.merge(calculus.query(f'layer_or_hand=="{typ[0]}"')[['guid','in_calculus']],how='right') # есть в моём справочнике с таким типом, но нет в реплике
         replica_bad=replica_bad[replica_bad.name.isna()]
         
-        df_build('delta_bi','select 1 cnt',scr_insert,params={'@guids':str(replica_bad.guid.to_list())[1:-1],'@value':'x'})
-        df_build('delta_bi','select 1 cnt',scr_insert,params={'@guids':str(replica.guid.to_list())[1:-1],'@value':typ[0]})
+        df_build('dep_spb','select 1 cnt',scr_insert,params={'@guids':str(replica_bad.guid.to_list())[1:-1],'@value':'x'})
+        df_build('dep_spb','select 1 cnt',scr_insert,params={'@guids':str(replica.guid.to_list())[1:-1],'@value':typ[0]})
     toSkype('Синхронизация слоёв/ручных РФ \n\nпроведена')
     
     
@@ -1550,7 +1686,7 @@ def is_working():
     на выход:
         return (bool)
     """
-    dt=datetime.datetime.now(pytz.timezone('Asia/Vladivostok')).strftime('%Y-%m-%d')
+    dt=datetime.datetime.now(pytz.timezone('Asia/Irkutsk')).strftime('%Y-%m-%d')
     scr="""select DayType
         from dbo_DIM_Date dt
         where dt.date='@dt' and hour=0
@@ -1606,6 +1742,7 @@ def create_donors():
     (
     select top 1 with ties BranchID,SalesForecastBranchID ForecastBranchID,CategoryID
     -- select *
+    --from product_FACT_DistributionSettings main
     from product_FACT_DistributionSettings main
     --where DistributionBranchID=6194
     where 1=1
@@ -1632,7 +1769,127 @@ def create_donors():
     forecast_branches['ForecastBranchID']=forecast_branches['ForecastBranchID'].fillna(forecast_branches['ForecastBranchID_null'])
 
     forecast_branches=forecast_branches[~forecast_branches.ForecastBranchID.isna()]
-    forecast_branches=forecast_branches.merge(branches[['BranchID','branch_guid']],how='inner')\
+    forecast_branches=forecast_branches.merge(branches[['BranchID','branch_guid','BranchCode']],how='inner')\
                 .merge(branches[['BranchID','branch_guid']].rename(columns={'BranchID':'ForecastBranchID','branch_guid':'Forecastbranch_guid'}),how='inner')\
                 .merge(cats[['CategoryID','category_guid']],how='inner')
-    return forecast_branches[['branch_guid','Forecastbranch_guid','category_guid']]
+    return forecast_branches[['branch_guid','Forecastbranch_guid','category_guid','BranchCode']]
+    
+    
+    
+def get_layers(country):
+    maxdt=df_build('delta_bi',f"select coalesce(max(dt),'1970-01-01') dt from hash_tables.negative_recomm_layers where country='{country}'")
+
+    hash_dt=maxdt.dt[0]
+    hash_delta=(datetime.datetime.now(tz)-tz.localize(hash_dt)).total_seconds()//3600
+    
+    if hash_delta<=1:
+        temp=df_build('delta_bi',f"select branch_guid, product_guid from hash_tables.negative_recomm_layers where country='{country}'") # в будущем выгружать полностью - с нулями и всеми видами фиксаций. отсекать по текущим лежакам, 
+        return temp # т.е. слои свежее двух часов, обновлять не надо
+    
+    scr="""
+     with main as ( 
+    select BranchID branch_guid,ProductID product_guid,TypeRecommendationsID,argMax(Quantity,rec.Period) Quantity
+    -- select *
+    FROM dns_log.ProductFixesByTypeRecommendationsNew rec
+    where 1=1
+    and rec.TypeRecommendationsID in (@guids) 
+    --and rec.Period >='2024-03-18'
+    group by BranchID, ProductID,TypeRecommendationsID 
+    )
+     select branch_guid,product_guid,TypeRecommendationsID,Quantity
+     from main
+    """
+    layers=layer_guids()
+    svod=[]
+    for guid in layers.guid:
+        # если вида фиксации нет в delta_bi, то грузить без отсечки даты. но тогда нули перегружать каждый раз?
+        temp=df_build('dns_log','negative_recomm_fast',params={'@guids':"'"+guid+"'"},country=country,show_time=False)
+        #if temp.Quantity.sum()>0: # только для первичной загрузки
+        #    df_load('delta_bi','hash_tables.negative_recomm_layers',temp)
+        svod.append(temp)
+    
+    #return ''
+    
+    temp=pd.concat(svod).drop_duplicates()
+    
+    temp['country']=country
+    temp['dt']=datetime.datetime.now(tz)
+    
+    
+    scr_delete=f"""
+    delete
+    from hash_tables.negative_recomm_layers
+    where country='{country}'
+    """
+    df_build('delta_bi','select 1 cnt',scr_delete)
+    
+    df_load('delta_bi','hash_tables.negative_recomm_layers',temp)
+    
+    return temp
+    
+    
+    
+MeasureID_sku='a96f1829-9f7e-11ec-85b0-0050569d29c7'
+MeasureID_item='6d604ea2-bb9e-11da-ab47-0002b3552d75'
+
+RECOMM_TYPE_full_federal='179478e6-cdd7-11ed-90bd-00155d8ed20b'
+RECOMM_TYPE_vitrina_federal='26670a0f-cdd7-11ed-90bd-00155d8ed20b'
+
+RECOMM_TYPE_full_reg='179478e7-cdd7-11ed-90bd-00155d8ed20b'
+RECOMM_TYPE_vitrina_reg='2d5aafbc-cdd7-11ed-90bd-00155d8ed20b'
+
+
+RECOMM_DICT={
+            'main_fed':RECOMM_TYPE_full_federal,
+            'main_reg':RECOMM_TYPE_full_reg,
+            'main_vitrina_fed':RECOMM_TYPE_vitrina_federal,
+            'main_vitrina_reg':RECOMM_TYPE_vitrina_reg
+            }
+            
+            
+MEASURE_DICT={
+            'sku':MeasureID_sku,
+            'item':MeasureID_item
+            }
+            
+            
+def create_calendar():
+    scr="""
+    select "ДатаКалендаря" as ds
+                from "InformationRegistersManager"."РегламентированныйПроизво_5aa28"
+                where "ДатаКалендаря">=now()-interval '4 year'
+                and "ДатаКалендаря"<=now()+interval '4 year'
+    """
+    cal=pd.read_sql(scr,con=dep_spb)
+    
+        
+    cal['year']=cal.ds.dt.year
+    cal['month']=cal.ds.dt.month
+    #cal['week']=0
+
+    cal['yday']=cal.ds.apply(lambda x: x.timetuple().tm_yday)
+    cal['mday']=cal.ds.apply(lambda x: x.timetuple().tm_mday)
+    cal['wday']=cal.ds.apply(lambda x: x.isoweekday())
+
+    week_begins=cal.query('wday==1')[['ds']]
+    week_begins=week_begins.rename(columns={'ds':'week_begin'})
+    temp=cal[['ds']].merge(week_begins,how='cross').query('week_begin<=ds').sort_values('week_begin',ascending=False).drop_duplicates(subset=['ds'],keep='first')
+    cal=cal.merge(temp,on='ds')
+
+    cal['year_mon']=cal.week_begin.dt.year
+    cal['week_mon']=cal.ds.apply(lambda x: x.isocalendar().week)
+
+    cal['month_begin']=cal.groupby(['year','month']).ds.transform(min)
+    cal['maxmday']=cal.groupby(['year','month']).mday.transform(max)
+
+    week_begins=cal.groupby(['year','week_begin'],as_index=False).ds.min()[['year','ds']]
+    week_begins=week_begins.rename(columns={'ds':'week_begin2'})
+    temp=cal[['year','ds']].merge(week_begins,how='left',on='year').query('week_begin2<=ds')
+    temp=temp.groupby('ds',as_index=False).week_begin2.nunique()
+    temp=temp.rename(columns={'week_begin2':'week'})
+    cal=cal.merge(temp,on='ds')
+
+    cal.week_begin=cal.week_begin.astype('datetime64[ns]')
+    cal.ds=cal.ds.apply(lambda x:x.date())
+
+    return cal
