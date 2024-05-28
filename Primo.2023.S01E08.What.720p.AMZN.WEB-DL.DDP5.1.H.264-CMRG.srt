@@ -1,1825 +1,1810 @@
-﻿1
-00:00:01,585 --> 00:00:03,254
+1
+00:00:01,435 --> 00:00:03,104
 {\an8}Rafa, great work this year.
 
 2
-00:00:03,337 --> 00:00:05,131
+00:00:03,187 --> 00:00:04,981
 Oh, thanks, Miss Pedraza.
 
 3
-00:00:05,214 --> 00:00:07,550
+00:00:05,064 --> 00:00:07,400
 I, I really appreciate your help
 with everything.
 
 4
-00:00:07,633 --> 00:00:09,593
+00:00:07,483 --> 00:00:09,443
 But listen, this is a big summer for you.
 
 5
-00:00:09,677 --> 00:00:12,263
+00:00:09,527 --> 00:00:12,113
 You should be thinking
 about the experiences you can have
 
 6
-00:00:12,346 --> 00:00:14,849
+00:00:12,196 --> 00:00:14,699
 that'll make your application really sing.
 
 7
-00:00:14,932 --> 00:00:18,686
+00:00:14,782 --> 00:00:18,536
 Internships, traveling, volunteering.
 Any plans like that?
 
 8
-00:00:18,769 --> 00:00:21,981
+00:00:18,619 --> 00:00:21,831
 Well, I was mostly gonna swim
 in Harris's above ground pool
 
 9
-00:00:22,064 --> 00:00:23,149
+00:00:21,914 --> 00:00:22,999
 and play video games.
 
 10
-00:00:23,983 --> 00:00:24,942
+00:00:23,833 --> 00:00:24,792
 I see.
 
 11
-00:00:26,360 --> 00:00:30,072
+00:00:26,210 --> 00:00:29,922
 I mean, come on. I'm 16. It's summertime.
 
 12
-00:00:30,156 --> 00:00:32,575
+00:00:30,006 --> 00:00:32,425
 Am I really supposed to, like,
 do something amazing?
 
 13
-00:00:33,951 --> 00:00:36,162
+00:00:33,801 --> 00:00:36,012
 Julia, what are you doing this summer?
 
 14
-00:00:36,245 --> 00:00:38,956
+00:00:36,095 --> 00:00:38,806
 Oh. I started a nonprofit
 to tutor underserved youth
 
 15
-00:00:39,039 --> 00:00:40,958
+00:00:38,889 --> 00:00:40,808
 in STEM, ESL, and needlepoint.
 
 16
-00:00:41,041 --> 00:00:43,419
+00:00:40,891 --> 00:00:43,269
 You should download our app.
 I designed it myself.
 
 17
-00:00:47,757 --> 00:00:50,301
+00:00:47,607 --> 00:00:50,151
 Well, she's 17, so.
 
 18
-00:00:52,428 --> 00:00:54,346
+00:00:52,278 --> 00:00:54,196
 - Hey, Mya.
 - Hey, Rafa.
 
 19
-00:00:54,430 --> 00:00:55,556
+00:00:54,280 --> 00:00:55,406
 I thought track was over.
 
 20
-00:00:55,639 --> 00:00:58,058
+00:00:55,489 --> 00:00:57,908
 It is, but some of the team
 is meeting for a final run.
 
 21
-00:00:58,142 --> 00:00:59,852
+00:00:57,992 --> 00:00:59,702
 It's like the end-of-the-year thing.
 
 22
-00:00:59,935 --> 00:01:01,645
+00:00:59,785 --> 00:01:01,495
 Y'all just run for fun?
 
 23
-00:01:01,729 --> 00:01:04,190
+00:01:01,579 --> 00:01:04,040
 That's what track is. We run for fun.
 
 24
-00:01:04,273 --> 00:01:05,816
+00:01:04,123 --> 00:01:05,666
 What are you doing this summer?
 
 25
-00:01:05,900 --> 00:01:09,236
+00:01:05,750 --> 00:01:09,086
 We might be going on a trip.
 My mom wants me to do math camp again
 
 26
-00:01:09,320 --> 00:01:12,198
+00:01:09,170 --> 00:01:12,048
 and my dad wants me to re-read
 the complete works of James Baldwin.
 
 27
-00:01:12,281 --> 00:01:13,282
+00:01:12,131 --> 00:01:13,132
 You?
 
 28
-00:01:14,533 --> 00:01:15,868
+00:01:14,383 --> 00:01:15,718
 Very similar.
 
 29
-00:01:15,951 --> 00:01:17,870
+00:01:15,801 --> 00:01:17,720
 - Similar plans.
 -  Uh-hmm.
 
 30
-00:01:17,953 --> 00:01:20,664
+00:01:17,803 --> 00:01:20,514
 Although my college prep teacher
 wants me to have this big experience
 
 31
-00:01:20,748 --> 00:01:23,209
+00:01:20,598 --> 00:01:23,059
 - that'll juice up my application.
 -  Uh-hmm.
 
 32
-00:01:23,292 --> 00:01:26,295
+00:01:23,142 --> 00:01:26,145
 - I have no idea what that could be.
 -  Hey, Mya. Come on.
 
 33
-00:01:26,378 --> 00:01:28,547
+00:01:26,228 --> 00:01:28,397
 Oh, well, don't force it.
 It'll come to you.
 
 34
-00:01:28,631 --> 00:01:30,049
+00:01:28,481 --> 00:01:29,899
 I'll see you later, all right?
 
 35
-00:01:30,966 --> 00:01:32,134
+00:01:30,816 --> 00:01:31,984
 Hey.
 
 36
-00:01:35,137 --> 00:01:37,556
+00:01:34,987 --> 00:01:37,406
 What are you stressed for?
 You have the whole summer to tell her.
 
 37
-00:01:37,640 --> 00:01:39,558
+00:01:37,490 --> 00:01:39,408
 No, I don't have the whole summer.
 That's the point.
 
 38
-00:01:39,642 --> 00:01:42,436
+00:01:39,492 --> 00:01:42,286
 She said she might go on some trip,
 or to some math camp,
 
 39
-00:01:42,520 --> 00:01:43,562
+00:01:42,370 --> 00:01:43,412
 or read books by some guy.
 
 40
-00:01:43,646 --> 00:01:45,022
+00:01:43,496 --> 00:01:44,872
 Feel like I should know, but don't.
 
 41
-00:01:45,105 --> 00:01:47,233
+00:01:44,955 --> 00:01:47,083
 She's spending her summer
 on books and math?
 
 42
-00:01:47,316 --> 00:01:48,484
+00:01:47,166 --> 00:01:48,334
 Why do you love her, man?
 
 43
-00:01:48,567 --> 00:01:50,319
+00:01:48,417 --> 00:01:50,169
 What if she goes off and gets a boyfriend?
 
 44
-00:01:50,402 --> 00:01:51,529
+00:01:50,252 --> 00:01:51,379
 At math camp?
 
 45
-00:01:51,612 --> 00:01:52,822
+00:01:51,462 --> 00:01:52,672
 I just have to tell her.
 
 46
-00:01:52,905 --> 00:01:54,323
+00:01:52,755 --> 00:01:54,173
 Here's what you gotta do.
 
 47
-00:01:54,406 --> 00:01:56,784
+00:01:54,256 --> 00:01:56,634
 You know how when the military,
 they're like the first word
 
 48
-00:01:56,867 --> 00:01:58,994
+00:01:56,717 --> 00:01:58,844
 and the last word out of your mouth
 needs to be sir?
 
 49
-00:01:59,078 --> 00:02:00,996
+00:01:58,928 --> 00:02:00,846
 Do it like that, but with "girl."
 
 50
-00:02:01,080 --> 00:02:03,332
+00:02:00,930 --> 00:02:03,182
 Girl, you look so fine, girl. Like that.
 
 51
-00:02:03,415 --> 00:02:06,418
+00:02:03,265 --> 00:02:06,268
 - Has it ever worked for you?
 - Boy, no, it has not, boy.
 
 52
-00:02:06,502 --> 00:02:10,047
+00:02:06,352 --> 00:02:09,897
 Just get her a present like a vape pen
 or a waterbed.
 
 53
-00:02:10,130 --> 00:02:11,215
+00:02:09,980 --> 00:02:11,065
 Then she'll know.
 
 54
-00:02:11,298 --> 00:02:13,217
+00:02:11,148 --> 00:02:13,067
 You want me to buy her a waterbed?
 
 55
-00:02:13,300 --> 00:02:15,928
+00:02:13,150 --> 00:02:15,778
 Girl, I bought you a waterbed, girl.
 
 56
-00:02:16,011 --> 00:02:18,222
+00:02:15,861 --> 00:02:18,072
 See? That sounds dope.
 
 57
-00:02:18,305 --> 00:02:21,976
+00:02:18,155 --> 00:02:21,826
 Excuse me, sir.
 Do you know who James Baldwin is?
 
 58
-00:02:34,154 --> 00:02:35,990
+00:02:34,004 --> 00:02:35,840
 - What?!
 
 59
-00:02:36,073 --> 00:02:37,992
+00:02:35,923 --> 00:02:37,842
 Ah, ...!
 
 60
-00:02:46,166 --> 00:02:49,211
+00:02:46,016 --> 00:02:49,061
 - What?
 - Early dismissal today.
 
 61
-00:02:49,295 --> 00:02:51,338
+00:02:49,145 --> 00:02:51,188
 I knew that, dammit.
 
 62
-00:02:52,339 --> 00:02:55,467
+00:02:52,189 --> 00:02:55,317
 Is there any way out of this?
 
 63
-00:02:56,594 --> 00:02:58,012
+00:02:56,444 --> 00:02:57,862
 - I don't think so.
 - Okay.
 
 64
-00:02:58,095 --> 00:02:59,096
+00:02:57,945 --> 00:02:58,946
 Right.
 
 65
-00:02:59,763 --> 00:03:02,808
+00:02:59,613 --> 00:03:02,658
 Hey, Rafa. What's up?
 You know Sammy, the bus driver?
 
 66
-00:03:03,893 --> 00:03:05,102
+00:03:03,743 --> 00:03:04,952
 What?
 
 67
-00:03:05,185 --> 00:03:08,439
+00:03:05,035 --> 00:03:08,289
 We've been dating for about six months.
 
 68
-00:03:08,522 --> 00:03:09,648
+00:03:08,372 --> 00:03:09,498
 What?
 
 69
-00:03:09,732 --> 00:03:13,444
+00:03:09,582 --> 00:03:13,294
 Okay. I know you're trying to process
 this whole situation right now,
 
 70
-00:03:13,527 --> 00:03:16,739
+00:03:13,377 --> 00:03:16,589
 so let me just walk you through it
 step by step, okay?
 
 71
-00:03:18,866 --> 00:03:22,494
+00:03:18,716 --> 00:03:22,344
 Okay. So, remember the code I got you.
 
 72
-00:03:22,578 --> 00:03:24,955
+00:03:22,428 --> 00:03:24,805
 When I was making the deal
 with Sammy for his part of it,
 
 73
-00:03:25,039 --> 00:03:29,126
+00:03:24,889 --> 00:03:28,976
 you know, cooking him the hot plates,
 we got to know each other a bit.
 
 74
-00:03:29,209 --> 00:03:34,298
+00:03:29,059 --> 00:03:34,148
 And that's sort of how it began.
 We started talking after that, and then...
 
 75
-00:03:34,381 --> 00:03:36,675
+00:03:34,231 --> 00:03:36,525
 My sister and I have lived
 in seven different cities
 
 76
-00:03:36,759 --> 00:03:38,761
+00:03:36,609 --> 00:03:38,611
 and there's always some lame ass
 trying to get...
 
 77
-00:03:38,844 --> 00:03:40,638
+00:03:38,694 --> 00:03:40,488
 I'm really glad you came.
 I like this shirt.
 
 78
-00:03:40,721 --> 00:03:41,722
+00:03:40,571 --> 00:03:41,572
 - You like this?
 - Yeah.
 
 79
-00:03:41,805 --> 00:03:43,557
+00:03:41,655 --> 00:03:43,407
 Idiot brothers who broke my shelf.
 
 80
-00:03:43,641 --> 00:03:46,393
+00:03:43,491 --> 00:03:46,243
 You know that bookshelf I had with, yeah.
 They broke my shelf.
 
 81
-00:03:51,065 --> 00:03:53,192
+00:03:50,915 --> 00:03:53,042
 - Your sandwich.
 - Aw, thank you.
 
 82
-00:03:53,275 --> 00:03:54,485
+00:03:53,125 --> 00:03:54,335
 You're welcome.
 
 83
-00:03:54,568 --> 00:03:56,111
+00:03:54,418 --> 00:03:55,961
 -  Almost done.
 
 84
-00:03:56,195 --> 00:03:57,821
+00:03:56,045 --> 00:03:57,671
 -  Here we go.
 - What was that?
 
 85
-00:03:57,905 --> 00:03:59,448
+00:03:57,755 --> 00:03:59,298
 -  I found every word.
 -  That doesn't count.
 
 86
-00:03:59,531 --> 00:04:01,158
+00:03:59,381 --> 00:04:01,008
 - You just circled everything.
 -  Yes.
 
 87
-00:04:02,618 --> 00:04:05,454
+00:04:02,468 --> 00:04:05,304
 Hey, look, man, we made a bet.
 You lost.
 
 88
-00:04:05,537 --> 00:04:07,581
+00:04:05,387 --> 00:04:07,431
 If you had a heart attack, you'd die.
 
 89
-00:04:07,665 --> 00:04:09,750
+00:04:07,515 --> 00:04:09,600
 - So, you owe me 40 bucks. Fair's fair.
 - Thank you.
 
 90
-00:04:11,418 --> 00:04:13,879
+00:04:11,268 --> 00:04:13,729
 Nice to officially meet you, Rafa.
 
 91
-00:04:17,049 --> 00:04:18,425
+00:04:16,899 --> 00:04:18,275
 Six months?
 
 92
-00:04:21,720 --> 00:04:25,599
+00:04:21,570 --> 00:04:25,449
 Good work. Great stuff, Ma.
 
 93
-00:04:25,683 --> 00:04:27,101
+00:04:25,533 --> 00:04:26,951
 Congratulations!
 
 94
-00:04:28,227 --> 00:04:29,645
+00:04:28,077 --> 00:04:29,495
 Thanks, Rafa.
 
 95
-00:04:29,728 --> 00:04:32,189
+00:04:29,578 --> 00:04:32,039
 - Have you told the uncles yet?
 - No.
 
 96
-00:04:32,272 --> 00:04:37,152
+00:04:32,122 --> 00:04:37,002
 Can I please be there when you do?
 We should record it.
 
 97
-00:04:37,236 --> 00:04:42,032
+00:04:37,086 --> 00:04:41,882
 Oh. They're gonna murder you, sir.
 It's gonna be amazing.
 
 98
-00:04:43,200 --> 00:04:44,868
+00:04:43,050 --> 00:04:44,718
 Okay. Here we go.
 
 99
-00:04:46,286 --> 00:04:47,663
+00:04:46,136 --> 00:04:47,513
 I'm dating Sammy the bus driver.
 
 100
-00:04:48,956 --> 00:04:51,250
+00:04:48,806 --> 00:04:51,100
 You all have one minute
 and forty-five seconds
 
 101
-00:04:51,333 --> 00:04:55,504
+00:04:51,183 --> 00:04:55,354
 to ask me whatever questions you want,
 and then I'm not talking about it anymore.
 
 102
-00:04:55,587 --> 00:04:57,923
+00:04:55,437 --> 00:04:57,773
 -  Hold on a second.
 -  Nope. Go.
 
 103
-00:04:58,007 --> 00:05:00,592
+00:04:57,857 --> 00:05:00,442
 - How long has this been going on?
 - Officially, about six months.
 
 104
-00:05:00,676 --> 00:05:03,012
+00:05:00,526 --> 00:05:02,862
 - How'd you keep this hidden from us?
 - Easy. You're all oblivious.
 
 105
-00:05:03,637 --> 00:05:06,306
+00:05:03,487 --> 00:05:06,156
 - Is he nice to you?
 - Yes. He's a lovely guy.
 
 106
-00:05:06,390 --> 00:05:08,058
+00:05:06,240 --> 00:05:07,908
 - How did you meet?
 - On the bus.
 
 107
-00:05:08,142 --> 00:05:09,309
+00:05:07,992 --> 00:05:09,159
 How fast can a bus go?
 
 108
-00:05:10,185 --> 00:05:11,437
+00:05:10,035 --> 00:05:11,287
 That's your question?
 
 109
-00:05:11,520 --> 00:05:15,024
+00:05:11,370 --> 00:05:14,874
 Yeah. Like, how fast can a bus go?
 I've always wanted to know.
 
 110
-00:05:15,107 --> 00:05:17,401
+00:05:14,957 --> 00:05:17,251
 - I, I don't know.
 - Why has he not proposed to you yet?
 
 111
-00:05:17,484 --> 00:05:18,944
+00:05:17,334 --> 00:05:18,794
 Because he's not a psychopath.
 
 112
-00:05:19,028 --> 00:05:21,864
+00:05:18,878 --> 00:05:21,714
 Does Sammy take the bus to work?
 And if so, who drives it?
 
 113
-00:05:21,947 --> 00:05:24,033
+00:05:21,797 --> 00:05:23,883
 You know there are other buses
 and other bus drivers.
 
 114
-00:05:24,116 --> 00:05:25,617
+00:05:23,966 --> 00:05:25,467
 Could  Speed  happen in real life?
 
 115
-00:05:25,701 --> 00:05:27,411
+00:05:25,551 --> 00:05:27,261
 Like a bus that has to go
 50 miles per hour
 
 116
-00:05:27,494 --> 00:05:29,204
+00:05:27,344 --> 00:05:29,054
 - or else it's gonna explode?
 - I don't know.
 
 117
-00:05:29,288 --> 00:05:30,706
+00:05:29,138 --> 00:05:30,556
 Is the bus the king of the vehicles
 
 118
-00:05:30,789 --> 00:05:32,583
+00:05:30,639 --> 00:05:32,433
 the same way that the lion
 is the king of animals?
 
 119
-00:05:32,666 --> 00:05:34,251
+00:05:32,516 --> 00:05:34,101
 Stop asking bus questions.
 
 120
-00:05:34,334 --> 00:05:36,545
+00:05:34,184 --> 00:05:36,395
 And if you two get married,
 can we drive the bus?
 
 121
-00:05:36,628 --> 00:05:38,172
+00:05:36,478 --> 00:05:38,022
 And where do buses
 sleep at night?
 
 122
-00:05:38,255 --> 00:05:40,049
+00:05:38,105 --> 00:05:39,899
 And this isn't
 a Thomas the Tank Engine scenario
 
 123
-00:05:40,132 --> 00:05:42,176
+00:05:39,982 --> 00:05:42,026
 where the buses are alive and have faces.
 
 124
-00:05:42,259 --> 00:05:44,803
+00:05:42,109 --> 00:05:44,653
 - How many other things can Sammy drive?
 -  I have a  Speed  follow-up.
 
 125
-00:05:44,887 --> 00:05:46,597
+00:05:44,737 --> 00:05:46,447
 How many times
 has Sammy met Keanu Reeves?
 
 126
-00:05:46,680 --> 00:05:48,599
+00:05:46,530 --> 00:05:48,449
 I don't know. I don't know. None.
 
 127
-00:05:48,682 --> 00:05:51,018
+00:05:48,532 --> 00:05:50,868
 And how come they haven't invented
 buses that could fly?
 
 128
-00:05:51,101 --> 00:05:53,604
+00:05:50,951 --> 00:05:53,454
 Like, you could fly in the air
 across great distances.
 
 129
-00:05:53,687 --> 00:05:55,647
+00:05:53,537 --> 00:05:55,497
 - That's a plane.
 - But like a bus version.
 
 130
-00:05:55,731 --> 00:05:57,066
+00:05:55,581 --> 00:05:56,916
 - Still a plane.
 - When Sammy's done
 
 131
-00:05:57,149 --> 00:05:58,233
+00:05:56,999 --> 00:05:58,083
 with the bus, can I have it?
 
 132
-00:05:58,317 --> 00:06:00,736
+00:05:58,167 --> 00:06:00,586
 Why are they called busboys?
 There's no buses involved.
 
 133
-00:06:00,819 --> 00:06:03,072
+00:06:00,669 --> 00:06:03,499
 There's only double-decker
 buses or burgers.
+How come?
 
 134
-00:06:03,155 --> 00:06:05,949
-- How come?
+00:06:03,499 --> 00:06:05,799
 - You could call it sky bus.
 
 135
-00:06:06,033 --> 00:06:07,576
-- Oh, time's up.
+00:06:05,883 --> 00:06:09,219
+Oh, time's up.
+Okay.
 
 136
-00:06:07,659 --> 00:06:09,369
-- Okay.
-
-137
-00:06:09,453 --> 00:06:11,038
+00:06:09,303 --> 00:06:10,888
 So, from now on,
 
-138
-00:06:11,121 --> 00:06:14,249
+137
+00:06:10,971 --> 00:06:14,099
 me and Sammy dating,
 just a regular part of life.
 
-139
-00:06:14,333 --> 00:06:15,292
+138
+00:06:14,183 --> 00:06:15,142
 Any final questions?
 
-140
-00:06:16,835 --> 00:06:19,421
+139
+00:06:16,685 --> 00:06:19,271
 Any final questions
 that are not bus-related?
 
-141
-00:06:21,131 --> 00:06:22,466
+140
+00:06:20,981 --> 00:06:22,316
 - Mike.
 - Hmm.
 
-142
-00:06:22,549 --> 00:06:24,635
+141
+00:06:22,399 --> 00:06:24,485
 Before you ask,
 I need you to think very carefully
 
-143
-00:06:24,718 --> 00:06:27,763
+142
+00:06:24,568 --> 00:06:27,613
 about whether or not
 this is in fact a bus question.
 
-144
-00:06:31,683 --> 00:06:32,726
+143
+00:06:31,533 --> 00:06:32,576
 Uh-hmm.
 
-145
-00:06:33,894 --> 00:06:36,230
+144
+00:06:33,744 --> 00:06:36,080
 - What were you gonna ask?
 - I wanted to know if bus drivers
 
-146
-00:06:36,313 --> 00:06:37,523
+145
+00:06:36,163 --> 00:06:37,373
 wear bulletproof vests.
 
-147
-00:06:37,606 --> 00:06:39,316
+146
+00:06:37,456 --> 00:06:39,166
 -  Why would they?
 - Why would he do that?
 
-148
-00:06:39,399 --> 00:06:40,859
+147
+00:06:39,249 --> 00:06:40,709
 Have you seen  Speed ?
 
-149
-00:06:40,943 --> 00:06:42,820
+148
+00:06:40,793 --> 00:06:42,670
 -  Ma.
 -  Uh-hmm.
 
-150
-00:06:42,903 --> 00:06:47,533
+149
+00:06:42,753 --> 00:06:47,383
 I have a real question for you.
 How, how did he ask you out?
 
-151
-00:06:47,616 --> 00:06:52,329
+150
+00:06:47,466 --> 00:06:52,179
 Like, like, how exactly?
 What, what words did he use?
 
-152
-00:06:53,747 --> 00:06:58,794
+151
+00:06:53,597 --> 00:06:58,644
 Hmm. Well, actually, I asked him out.
 
-153
-00:06:59,795 --> 00:07:01,338
+152
+00:06:59,645 --> 00:07:01,188
 I always liked him
 
-154
-00:07:01,421 --> 00:07:04,591
+153
+00:07:01,271 --> 00:07:04,441
 and I had hoped that maybe he felt
 the same way about me.
 
-155
-00:07:04,675 --> 00:07:06,468
+154
+00:07:04,525 --> 00:07:06,318
 So, one day,
 
-156
-00:07:06,552 --> 00:07:10,305
+155
+00:07:06,402 --> 00:07:10,155
 I just summoned all my courage
 and I walked up to him
 
-157
-00:07:10,389 --> 00:07:13,183
+156
+00:07:10,239 --> 00:07:13,033
 and said I'd like to get
 to know him better.
 
-158
-00:07:13,267 --> 00:07:15,561
+157
+00:07:13,117 --> 00:07:15,411
 And then, I asked him
 if he'd like to have dinner
 
-159
-00:07:15,644 --> 00:07:16,979
+158
+00:07:15,494 --> 00:07:16,829
 and he said yes.
 
-160
-00:07:17,062 --> 00:07:20,190
+159
+00:07:16,912 --> 00:07:20,040
 We went out,
 had a really nice conversation,
 
-161
-00:07:20,274 --> 00:07:22,025
+160
+00:07:20,124 --> 00:07:21,875
 and that was it.
 
-162
-00:07:23,694 --> 00:07:25,612
+161
+00:07:23,544 --> 00:07:25,462
 I mean, I was nervous...
 
-163
-00:07:25,696 --> 00:07:27,281
+162
+00:07:25,546 --> 00:07:27,131
 -  Yeah.
 -  Obviously,
 
-164
-00:07:27,364 --> 00:07:31,702
+163
+00:07:27,214 --> 00:07:31,552
 but I think I realized
 that I would have felt a lot worse
 
-165
-00:07:31,785 --> 00:07:36,331
+164
+00:07:31,635 --> 00:07:36,181
 if I never asked the question at all,
 you know, like if I never knew.
 
-166
-00:07:37,666 --> 00:07:38,876
+165
+00:07:37,516 --> 00:07:38,726
 So, I did it.
 
-167
-00:07:41,253 --> 00:07:42,421
+166
+00:07:41,103 --> 00:07:42,271
 Okay.
 
-168
-00:07:43,380 --> 00:07:45,674
+167
+00:07:43,230 --> 00:07:45,524
 Okay. Good. Thank you.
 
-169
-00:07:51,638 --> 00:07:52,973
+168
+00:07:51,488 --> 00:07:52,823
 Can I ask you for a favor?
 
-170
-00:07:53,056 --> 00:07:54,850
+169
+00:07:52,906 --> 00:07:54,700
 Anything, baby.
 
-171
-00:07:54,933 --> 00:07:58,187
+170
+00:07:54,783 --> 00:07:58,037
 Do we have any banners
 that aren't painted on both sides?
 
-172
-00:07:58,270 --> 00:08:00,772
+171
+00:07:58,120 --> 00:08:00,622
 I think I'd like to have a little party.
 
-173
-00:08:09,698 --> 00:08:11,950
+172
+00:08:09,548 --> 00:08:11,800
 I thought you weren't throwing Primo
 any more parties.
 
-174
-00:08:12,034 --> 00:08:13,619
+173
+00:08:11,884 --> 00:08:13,469
 - He asked me to.
 -  Huh.
 
-175
-00:08:13,702 --> 00:08:15,162
+174
+00:08:13,552 --> 00:08:15,012
 - Who's coming?
 -  Everyone.
 
-176
-00:08:15,245 --> 00:08:18,040
+175
+00:08:15,095 --> 00:08:17,890
 His friends, Miguel, Harris, Mya.
 
-177
-00:08:18,123 --> 00:08:19,625
+176
+00:08:17,973 --> 00:08:19,475
 I smell cologne.
 
-178
-00:08:20,417 --> 00:08:22,753
+177
+00:08:20,267 --> 00:08:22,603
 That's "Gasolina" by Daddy Yankee.
 I'd know it anywhere.
 
-179
-00:08:22,836 --> 00:08:27,341
+178
+00:08:22,686 --> 00:08:27,191
 Yeah, the lighting in here is romantic.
 Are you setting a mood?
 
-180
-00:08:27,424 --> 00:08:30,427
+179
+00:08:27,274 --> 00:08:30,277
 No. We just
 ran out of light bulbs, remember,
 
-181
-00:08:30,510 --> 00:08:32,846
+180
+00:08:30,360 --> 00:08:32,696
 because you guys had
 a light bulb fight last week?
 
-182
-00:08:34,723 --> 00:08:37,351
+181
+00:08:34,573 --> 00:08:37,201
 Primo's finally going
 to say something to Mya.
 
-183
-00:08:38,268 --> 00:08:40,312
+182
+00:08:38,118 --> 00:08:40,162
 He's going to sing her the song
 of his heart.
 
-184
-00:08:40,395 --> 00:08:42,564
+183
+00:08:40,245 --> 00:08:42,414
 - I hate how you talk.
 - We have to help him.
 
-185
-00:08:42,648 --> 00:08:44,191
+184
+00:08:42,498 --> 00:08:44,041
 -  Listen to me.
 
-186
-00:08:44,274 --> 00:08:46,276
+185
+00:08:44,124 --> 00:08:46,126
 God, I'm so tired of saying this.
 
-187
-00:08:47,152 --> 00:08:51,490
+186
+00:08:47,002 --> 00:08:51,340
 This is something he has to do by himself.
 Stay out of it.
 
-188
-00:08:51,573 --> 00:08:53,408
+187
+00:08:51,423 --> 00:08:54,676
 - Yeah. For sure.
-
-189
-00:08:53,492 --> 00:08:54,826
 Yes, ma'am.
 
-190
-00:08:54,910 --> 00:08:56,453
+188
+00:08:54,760 --> 00:08:56,303
 No one likes meddling, you know.
 
-191
-00:08:57,996 --> 00:09:00,540
+189
+00:08:57,846 --> 00:09:00,390
 Hey. I noticed you're writing a letter.
 
-192
-00:09:00,624 --> 00:09:03,252
+190
+00:09:00,474 --> 00:09:03,102
 - I got a big tip for you.
 - It's okay, Uncle Ryan. I got it.
 
-193
-00:09:03,335 --> 00:09:05,337
+191
+00:09:03,185 --> 00:09:05,187
 You should write it with a Sharpie.
 It conveys strength.
 
-194
-00:09:05,420 --> 00:09:08,090
+192
+00:09:05,270 --> 00:09:07,940
 I think it would more convey
 that I'm a maniac.
 
-195
-00:09:08,173 --> 00:09:10,342
+193
+00:09:08,023 --> 00:09:10,192
 Instead of a letter,
 get a tattoo of her face.
 
-196
-00:09:10,425 --> 00:09:11,635
+194
+00:09:10,275 --> 00:09:11,485
 I do it all the time.
 
-197
-00:09:11,718 --> 00:09:13,262
+195
+00:09:11,568 --> 00:09:13,112
 My back looks like a page
 from my yearbook.
 
-198
-00:09:13,345 --> 00:09:16,056
+196
+00:09:13,195 --> 00:09:15,906
 I think I'm gonna stick with the letter.
 Thank you though.
 
-199
-00:09:16,139 --> 00:09:19,101
+197
+00:09:15,989 --> 00:09:18,951
 If you're using animal metaphor,
 choose a strong animal.
 
-200
-00:09:19,184 --> 00:09:20,686
+198
+00:09:19,034 --> 00:09:20,536
 Like a moose or a buffalo.
 
-201
-00:09:20,769 --> 00:09:22,688
+199
+00:09:20,619 --> 00:09:22,538
 There are no buffalos in this letter.
 
-202
-00:09:22,771 --> 00:09:25,315
+200
+00:09:22,621 --> 00:09:25,165
 When I first told your Aunt Denise
 that I wanted to go out with her,
 
-203
-00:09:25,399 --> 00:09:26,525
+201
+00:09:25,249 --> 00:09:26,375
 she said to me...
 
-204
-00:09:29,194 --> 00:09:30,737
+202
+00:09:29,044 --> 00:09:30,587
 ...she's...
 
-205
-00:09:33,490 --> 00:09:36,827
+203
+00:09:33,340 --> 00:09:36,677
 ...I gotta call her.
 I love her so much.
 
-206
-00:09:36,910 --> 00:09:38,078
+204
+00:09:36,760 --> 00:09:37,928
 Excuse me.
 
-207
-00:09:43,041 --> 00:09:46,003
+205
+00:09:42,891 --> 00:09:45,853
 Guys. Thank you, but I got this.
 
-208
-00:09:46,878 --> 00:09:48,130
+206
+00:09:46,728 --> 00:09:47,980
 I'm good.
 
-209
-00:09:55,053 --> 00:09:57,306
+207
+00:09:54,903 --> 00:09:57,156
 - Primo's being a dick today.
 - Right?
 
-210
-00:10:05,731 --> 00:10:07,107
+208
+00:10:05,581 --> 00:10:06,957
 This is insane.
 
-211
-00:10:07,190 --> 00:10:08,442
+209
+00:10:07,040 --> 00:10:08,292
 What do we know about this guy, huh?
 
-212
-00:10:08,525 --> 00:10:09,985
+210
+00:10:08,375 --> 00:10:09,835
 Is he good enough for her?
 
-213
-00:10:10,068 --> 00:10:11,862
+211
+00:10:09,918 --> 00:10:11,712
 Aren't we supposed to be the ones
 who decide that?
 
-214
-00:10:11,945 --> 00:10:13,572
+212
+00:10:11,795 --> 00:10:13,422
 We need to trust
 that Drea knows what she's doing.
 
-215
-00:10:13,655 --> 00:10:15,240
+213
+00:10:13,505 --> 00:10:15,090
 "We need to trust
 that Drea knows what she's doing."
 
-216
-00:10:15,324 --> 00:10:17,993
+214
+00:10:15,174 --> 00:10:17,843
 Shut up, Jay. Ryan's right.
 We don't have any information here.
 
-217
-00:10:18,076 --> 00:10:19,411
+215
+00:10:17,926 --> 00:10:19,261
 We can just talk to him.
 
-218
-00:10:19,494 --> 00:10:21,455
+216
+00:10:19,344 --> 00:10:21,305
 You think he's just gonna tell you
 his secrets?
 
-219
-00:10:21,538 --> 00:10:23,915
+217
+00:10:21,388 --> 00:10:23,765
 Have you seen
 even one single true crime documentary?
 
-220
-00:10:23,999 --> 00:10:25,625
+218
+00:10:23,849 --> 00:10:25,475
 "Hey, Sammy. How you doing?"
 
-221
-00:10:25,709 --> 00:10:27,711
+219
+00:10:25,559 --> 00:10:27,561
 "Oh, I'm great.
 I love being normal and happy."
 
-222
-00:10:27,794 --> 00:10:29,254
+220
+00:10:27,644 --> 00:10:29,104
 Cut to a scene of a detective
 
-223
-00:10:29,338 --> 00:10:31,673
+221
+00:10:29,188 --> 00:10:31,523
 explaining how they found Drea's eyeballs
 in his pocket.
 
-224
-00:10:31,757 --> 00:10:34,134
+222
+00:10:31,607 --> 00:10:33,984
 - That's a strong point.
 - He's in our bus now.
 
-225
-00:10:34,217 --> 00:10:36,762
+223
+00:10:34,067 --> 00:10:36,612
 We are in control.
 This is a military operation.
 
-226
-00:10:36,845 --> 00:10:40,557
+224
+00:10:36,695 --> 00:10:40,407
 Rollie, work your jailhouse sources.
 You find out if he's ever been in trouble.
 
-227
-00:10:40,640 --> 00:10:44,102
+225
+00:10:40,490 --> 00:10:43,952
 Ryan, I want a full-spectrum cyber stalk
 of this man's internet footprint.
 
-228
-00:10:44,186 --> 00:10:47,064
+226
+00:10:44,036 --> 00:10:46,914
 Asymmetrical warfare.
 Does he have a LinkedIn profile?
 
-229
-00:10:47,147 --> 00:10:48,857
+227
+00:10:46,997 --> 00:10:48,707
 Do bus drivers have Yelp reviews?
 
-230
-00:10:48,940 --> 00:10:50,150
+228
+00:10:48,790 --> 00:10:50,000
 - Find it all.
 - You got it.
 
-231
-00:10:50,233 --> 00:10:52,486
+229
+00:10:50,083 --> 00:10:52,336
 And would you say
 I'm the lynchpin of this operation?
 
-232
-00:10:52,569 --> 00:10:54,446
+230
+00:10:52,419 --> 00:10:54,296
 I've always wanted to be a lynchpin
 or a cornerstone...
 
-233
-00:10:54,529 --> 00:10:55,822
+231
+00:10:54,379 --> 00:10:55,672
 Stop talking or you're out.
 
-234
-00:10:55,906 --> 00:10:57,074
+232
+00:10:55,756 --> 00:10:56,924
 You got it.
 
-235
-00:10:57,157 --> 00:10:59,326
+233
+00:10:57,007 --> 00:10:59,176
 I can consult
 his astrological birth chart.
 
-236
-00:10:59,409 --> 00:11:01,995
+234
+00:10:59,259 --> 00:11:01,845
 All I need is the exact time, date,
 and location of his birth
 
-237
-00:11:02,079 --> 00:11:03,163
+235
+00:11:01,929 --> 00:11:03,013
 as well as his consent.
 
-238
-00:11:03,246 --> 00:11:06,041
+236
+00:11:03,096 --> 00:11:05,891
 I don't like doing people's charts
 without their permission.
 
-239
-00:11:06,124 --> 00:11:08,460
+237
+00:11:05,974 --> 00:11:08,310
 No, thank you.
 Jay, check in with your crews.
 
-240
-00:11:08,543 --> 00:11:10,587
+238
+00:11:08,393 --> 00:11:10,437
 One of them has to have worked with him
 at some point.
 
-241
-00:11:10,670 --> 00:11:12,798
+239
+00:11:10,520 --> 00:11:12,648
 We turn over every rock,
 we look behind every door,
 
-242
-00:11:12,881 --> 00:11:15,384
+240
+00:11:12,731 --> 00:11:15,234
 we turn this man's life inside out.
 
-243
-00:11:15,467 --> 00:11:17,010
+241
+00:11:15,317 --> 00:11:16,860
 - I got his car keys.
 -  Okay. Yeah. Good.
 
-244
-00:11:17,094 --> 00:11:19,096
+242
+00:11:16,944 --> 00:11:18,946
 New plan, we just go through his car.
 
-245
-00:11:22,432 --> 00:11:24,393
+243
+00:11:22,282 --> 00:11:24,243
 Killing it. That's great.
 
-246
-00:11:24,476 --> 00:11:26,395
-- Yeah.
-- That's wild.
-
-247
-00:11:32,651 --> 00:11:34,319
+244
+00:11:32,501 --> 00:11:34,169
 -  Hey.
 - Hey.
 
-248
-00:11:34,403 --> 00:11:35,904
+245
+00:11:34,253 --> 00:11:35,754
 I got you something.
 
-249
-00:11:35,987 --> 00:11:37,364
+246
+00:11:35,837 --> 00:11:37,214
 - Really?
 -  Yeah.
 
-250
-00:11:37,447 --> 00:11:40,867
+247
+00:11:37,297 --> 00:11:40,717
 So, I'm usually a little nervous
 about playing music for people
 
-251
-00:11:40,951 --> 00:11:44,329
+248
+00:11:40,801 --> 00:11:44,179
 because, well, you know
 the stuff I like is a little just...
 
-252
-00:11:44,413 --> 00:11:47,040
+249
+00:11:44,263 --> 00:11:46,890
 Horrible, weird,
 gives me awful nightmares?
 
-253
-00:11:47,124 --> 00:11:50,669
+250
+00:11:46,974 --> 00:11:50,519
 But you were super cool
 about listening to this band with me
 
-254
-00:11:50,752 --> 00:11:53,255
+251
+00:11:50,602 --> 00:11:53,105
 and I thought
 that was just really amazing,
 
-255
-00:11:53,338 --> 00:11:55,132
+252
+00:11:53,188 --> 00:11:54,982
 because they're my favorite, so...
 
-256
-00:12:00,387 --> 00:12:02,722
+253
+00:12:00,237 --> 00:12:02,572
 Haunted Womb?
 
-257
-00:12:02,806 --> 00:12:04,307
+254
+00:12:02,656 --> 00:12:04,157
 - No way!
 -  Yeah.
 
-258
-00:12:04,391 --> 00:12:05,892
+255
+00:12:04,241 --> 00:12:05,742
 It's from their last world tour,
 
-259
-00:12:05,976 --> 00:12:08,520
+256
+00:12:05,826 --> 00:12:08,370
 right before the bassist
 was eaten by that orca whale.
 
-260
-00:12:08,603 --> 00:12:09,896
+257
+00:12:08,453 --> 00:12:09,746
 I love it.
 
-261
-00:12:09,980 --> 00:12:11,731
+258
+00:12:09,830 --> 00:12:11,581
 - Thank you.
 
-262
-00:12:11,815 --> 00:12:12,899
+259
+00:12:11,665 --> 00:12:12,749
 You're welcome.
 
-263
-00:12:13,817 --> 00:12:15,735
+260
+00:12:13,667 --> 00:12:15,585
 I actually have something for you too.
 
-264
-00:12:17,946 --> 00:12:19,531
+261
+00:12:17,796 --> 00:12:19,381
 You, you wanna take a walk?
 
-265
-00:12:19,614 --> 00:12:20,949
+262
+00:12:19,464 --> 00:12:20,799
 Sure.
 
-266
-00:12:23,076 --> 00:12:24,536
+263
+00:12:22,926 --> 00:12:24,386
 Everything in here is sticky.
 
-267
-00:12:24,619 --> 00:12:28,039
+264
+00:12:24,469 --> 00:12:27,889
 Yo, look.
 There's a picture of Gloria with her kid.
 
-268
-00:12:28,123 --> 00:12:30,542
+265
+00:12:27,973 --> 00:12:30,392
 That son of a bitch
 is two-timing Drea with Gloria.
 
-269
-00:12:30,625 --> 00:12:33,170
+266
+00:12:30,475 --> 00:12:33,020
 - Is this tea or pee?
 - Women's nail polish.
 
-270
-00:12:33,253 --> 00:12:35,297
+267
+00:12:33,103 --> 00:12:35,147
 Gloria must've left in his car
 when they were sneaking around together.
 
-271
-00:12:35,380 --> 00:12:36,590
+268
+00:12:35,230 --> 00:12:36,440
 -  Pee.
 - Oh, my God.
 
-272
-00:12:36,673 --> 00:12:38,133
+269
+00:12:36,523 --> 00:12:37,983
 His car is registered to Gloria.
 
-273
-00:12:38,216 --> 00:12:39,676
+270
+00:12:38,066 --> 00:12:39,526
 He's using Gloria's car.
 
-274
-00:12:40,719 --> 00:12:43,013
+271
+00:12:40,569 --> 00:12:42,863
 - This is just Gloria's car, isn't it?
 -  Yeah.
 
-275
-00:12:43,096 --> 00:12:44,848
+272
+00:12:42,946 --> 00:12:44,698
 Goddammit, Rollie.
 
-276
-00:12:44,931 --> 00:12:46,433
+273
+00:12:44,781 --> 00:12:46,283
 I thought they were his keys.
 
-277
-00:12:46,516 --> 00:12:48,101
+274
+00:12:46,366 --> 00:12:47,951
 They were on the table next
 to his sunglasses,
 
-278
-00:12:48,185 --> 00:12:50,228
+275
+00:12:48,035 --> 00:12:50,078
 the ones that say Coffee Slut
 in rhinestones.
 
-279
-00:12:50,312 --> 00:12:52,522
+276
+00:12:50,162 --> 00:12:52,372
 - His car is over there.
 -  All right. Let's go.
 
-280
-00:12:52,606 --> 00:12:53,899
-Come on.
-
-281
-00:13:02,908 --> 00:13:04,576
+277
+00:13:02,758 --> 00:13:04,426
 - Hey.
 - Hey.
 
-282
-00:13:04,659 --> 00:13:06,953
+278
+00:13:04,509 --> 00:13:06,803
 I think your brothers
 are ransacking my car.
 
-283
-00:13:08,079 --> 00:13:13,084
+279
+00:13:07,929 --> 00:13:12,934
 Don't worry about it.
 It's just who they are, how they are.
 
-284
-00:13:13,168 --> 00:13:16,630
+280
+00:13:13,018 --> 00:13:16,480
 It's just something you gotta deal with.
 I hope that's okay.
 
-285
-00:13:19,674 --> 00:13:22,344
+281
+00:13:19,524 --> 00:13:22,194
 Sure. It actually makes me feel
 kind of important.
 
-286
-00:13:23,595 --> 00:13:24,763
+282
+00:13:23,445 --> 00:13:24,613
 Yeah. Now that they've started,
 
-287
-00:13:24,846 --> 00:13:26,681
+283
+00:13:24,696 --> 00:13:26,531
 we just gotta let this thing
 run its course,
 
-288
-00:13:26,765 --> 00:13:28,099
+284
+00:13:26,615 --> 00:13:27,949
 and then everything will be fine.
 
-289
-00:13:28,183 --> 00:13:30,852
+285
+00:13:28,033 --> 00:13:30,702
 I mean, I got nothing to hide.
 And from what I know about them,
 
-290
-00:13:30,936 --> 00:13:32,395
+286
+00:13:30,786 --> 00:13:32,245
 as long as they got something
 to keep them busy,
 
-291
-00:13:32,479 --> 00:13:34,564
+287
+00:13:32,329 --> 00:13:34,414
 it might be easier for us
 to enjoy ourselves.
 
-292
-00:13:36,858 --> 00:13:38,026
+288
+00:13:36,708 --> 00:13:37,876
 They're like minions.
 
-293
-00:13:41,029 --> 00:13:43,907
+289
+00:13:40,879 --> 00:13:43,757
 Did he just take the battery out
 from the bottom?
 
-294
-00:13:43,990 --> 00:13:45,825
+290
+00:13:43,840 --> 00:13:45,675
 He's really good with cars.
 
-295
-00:13:57,254 --> 00:13:59,881
+291
+00:13:57,104 --> 00:13:59,731
 Okay. So...
 
-296
-00:14:01,591 --> 00:14:03,093
+292
+00:14:01,441 --> 00:14:02,943
 ...I wrote you something.
 
-297
-00:14:03,176 --> 00:14:05,554
+293
+00:14:03,026 --> 00:14:05,404
 -  Ah...
 - Okay.
 
-298
-00:14:05,637 --> 00:14:07,973
+294
+00:14:05,487 --> 00:14:07,823
 Just, just some stuff
 that I've been thinking about
 
-299
-00:14:08,056 --> 00:14:10,016
+295
+00:14:07,906 --> 00:14:09,866
 and wanting to say to you
 for a while actually.
 
-300
-00:14:10,100 --> 00:14:11,309
+296
+00:14:09,950 --> 00:14:11,159
 And, um...
 
-301
-00:14:15,647 --> 00:14:16,898
+297
+00:14:15,497 --> 00:14:16,748
 ...here.
 
-302
-00:14:20,235 --> 00:14:22,112
+298
+00:14:20,085 --> 00:14:21,962
 You can read it now or later
 
-303
-00:14:22,195 --> 00:14:24,531
+299
+00:14:22,045 --> 00:14:24,381
 or, you know, you can throw it away or...
 
-304
-00:14:24,614 --> 00:14:27,242
+300
+00:14:24,464 --> 00:14:27,092
 well, actually, it's, you know,
 it's kind of important,
 
-305
-00:14:27,325 --> 00:14:30,287
+301
+00:14:27,175 --> 00:14:30,137
 so don't, don't do that. Um...
 
-306
-00:14:32,205 --> 00:14:34,666
+302
+00:14:32,055 --> 00:14:34,516
 You know, reading it now
 is probably my preferred option,
 
-307
-00:14:34,749 --> 00:14:36,918
+303
+00:14:34,599 --> 00:14:36,768
 but, but it's your choice, of course.
 
-308
-00:14:38,253 --> 00:14:39,588
+304
+00:14:38,103 --> 00:14:39,438
 Rafa, before I open this,
 
-309
-00:14:39,671 --> 00:14:41,464
+305
+00:14:39,521 --> 00:14:41,314
 I think there's something
 you need to know.
 
-310
-00:14:43,883 --> 00:14:46,636
+306
+00:14:43,733 --> 00:14:46,486
 My dad got re-assigned
 to a base in Missouri.
 
-311
-00:14:47,387 --> 00:14:48,847
+307
+00:14:47,237 --> 00:14:48,697
 We're moving in two months.
 
-312
-00:14:51,016 --> 00:14:52,017
+308
+00:14:50,866 --> 00:14:51,867
 What?
 
-313
-00:14:57,355 --> 00:14:58,481
+309
+00:14:57,205 --> 00:14:58,331
 You're moving?
 
-314
-00:15:00,859 --> 00:15:02,110
+310
+00:15:00,709 --> 00:15:01,960
 We just found out.
 
-315
-00:15:05,071 --> 00:15:08,867
+311
+00:15:04,921 --> 00:15:08,717
 I'm pretty sure I know what this is
 and I'm pretty sure I shouldn't open it.
 
-316
-00:15:10,076 --> 00:15:11,661
+312
+00:15:09,926 --> 00:15:11,511
 I just don't wanna make things harder
 
-317
-00:15:11,745 --> 00:15:13,580
+313
+00:15:11,595 --> 00:15:13,430
 than they're gonna have to be
 when I have to leave.
 
-318
-00:15:13,663 --> 00:15:15,790
+314
+00:15:13,513 --> 00:15:15,640
 If I leave and we're just friends,
 I know what that's like.
 
-319
-00:15:15,874 --> 00:15:17,125
+315
+00:15:15,724 --> 00:15:16,975
 I've done that before.
 
-320
-00:15:18,585 --> 00:15:21,004
+316
+00:15:18,435 --> 00:15:20,854
 But if I leave
 and we're more than friends...
 
-321
-00:15:24,799 --> 00:15:27,552
+317
+00:15:24,649 --> 00:15:27,402
 Rockwell had a girlfriend
 when we lived in Ohio.
 
-322
-00:15:28,261 --> 00:15:31,056
+318
+00:15:28,111 --> 00:15:30,906
 When we had to leave for Germany,
 he was devastated.
 
-323
-00:15:32,015 --> 00:15:33,933
+319
+00:15:31,865 --> 00:15:33,783
 He said they would stay together,
 
-324
-00:15:34,017 --> 00:15:36,311
+320
+00:15:33,867 --> 00:15:36,161
 but it's only a few emails and FaceTimes,
 
-325
-00:15:36,394 --> 00:15:39,522
+321
+00:15:36,244 --> 00:15:39,372
 which only made it worse
 when it ended for real.
 
-326
-00:15:42,817 --> 00:15:45,904
+322
+00:15:42,667 --> 00:15:45,754
 I understand. I get that.
 
-327
-00:15:57,582 --> 00:15:58,750
+323
+00:15:57,432 --> 00:15:58,600
 I'm gonna head home.
 
-328
-00:16:02,003 --> 00:16:02,962
+324
+00:16:01,853 --> 00:16:02,812
 Okay.
 
-329
-00:16:20,313 --> 00:16:22,357
+325
+00:16:20,163 --> 00:16:22,207
 We've conducted a thorough operation.
 
-330
-00:16:22,440 --> 00:16:24,776
+326
+00:16:22,290 --> 00:16:24,626
 We're ready to declare
 Sammy a worthy boyfriend.
 
-331
-00:16:24,859 --> 00:16:26,069
+327
+00:16:24,709 --> 00:16:25,919
 Thank you.
 
-332
-00:16:26,152 --> 00:16:29,781
+328
+00:16:26,002 --> 00:16:29,631
 Literally couldn't matter less
 coming from you bozos, but thank you.
 
-333
-00:16:29,864 --> 00:16:31,116
+329
+00:16:29,714 --> 00:16:30,966
 You're welcome.
 
-334
-00:16:31,199 --> 00:16:34,202
+330
+00:16:31,049 --> 00:16:34,052
 We do have some questions about Gloria,
 the Coffee Slut.
 
-335
-00:16:34,285 --> 00:16:37,956
+331
+00:16:34,135 --> 00:16:37,806
 We found some weird stuff in her car.
 A bunch of unpaid tickets,
 
-336
-00:16:38,039 --> 00:16:40,667
+332
+00:16:37,889 --> 00:16:40,517
 a case of wine coolers
 buckled into a child safety seat,
 
-337
-00:16:40,750 --> 00:16:42,335
+333
+00:16:40,600 --> 00:16:42,185
 a handwritten kidnapping note.
 
-338
-00:16:42,419 --> 00:16:45,213
+334
+00:16:42,269 --> 00:16:45,063
 So, my first question is,
 you'd think she'd go out with me?
 
-339
-00:16:46,047 --> 00:16:48,466
+335
+00:16:45,897 --> 00:16:48,316
 - You wanna go out with Gloria?
 - She seems amazing.
 
-340
-00:16:48,550 --> 00:16:51,678
+336
+00:16:48,400 --> 00:16:51,528
 And plus, single moms
 always have snacks and band-aids.
 
-341
-00:16:51,761 --> 00:16:53,680
+337
+00:16:51,611 --> 00:16:53,530
 -  Cake's done.
 - Oh.
 
-342
-00:16:53,763 --> 00:16:56,141
+338
+00:16:53,613 --> 00:16:55,991
 Thank you. Hmm, there.
 
-343
-00:16:56,224 --> 00:16:58,560
+339
+00:16:56,074 --> 00:16:58,410
 Hey, Sammy, can we ask
 a couple questions about the bus?
 
-344
-00:16:59,602 --> 00:17:01,020
+340
+00:16:59,452 --> 00:17:00,870
 - Sure.
 - Great.
 
-345
-00:17:01,104 --> 00:17:02,647
+341
+00:17:00,954 --> 00:17:02,497
 Thirty, forty-five minutes max.
 
-346
-00:17:05,191 --> 00:17:06,568
+342
+00:17:05,041 --> 00:17:06,418
 Hey.
 
-347
-00:17:06,651 --> 00:17:09,446
+343
+00:17:06,501 --> 00:17:09,296
 - How bad is his car?
 - Not bad.
 
-348
-00:17:09,529 --> 00:17:11,823
+344
+00:17:09,379 --> 00:17:11,673
 Pretty bad. Sorry about that.
 
-349
-00:17:11,906 --> 00:17:14,200
+345
+00:17:11,756 --> 00:17:14,050
 Mike is a surprisingly
 compelling public speaker.
 
-350
-00:17:14,284 --> 00:17:16,870
+346
+00:17:14,134 --> 00:17:16,720
 - I don't know what happened.
 - You guys happened.
 
-351
-00:17:16,953 --> 00:17:18,872
+347
+00:17:16,803 --> 00:17:18,722
 But it's okay. It's sweet.
 
-352
-00:17:22,876 --> 00:17:24,419
+348
+00:17:22,726 --> 00:17:24,269
 Hey, Rockwell.
 
-353
-00:17:24,502 --> 00:17:26,963
+349
+00:17:24,352 --> 00:17:26,813
 - Yeah, what's up?
 - Can I ask you something?
 
-354
-00:17:27,672 --> 00:17:29,174
+350
+00:17:27,522 --> 00:17:29,024
 Totally. Yeah. What's going on?
 
-355
-00:17:30,884 --> 00:17:33,386
+351
+00:17:30,734 --> 00:17:33,236
 - You remember Nicole?
 - Yeah.
 
-356
-00:17:33,470 --> 00:17:36,347
+352
+00:17:33,320 --> 00:17:36,197
 When we left then you
 and her had to break up,
 
-357
-00:17:36,431 --> 00:17:37,682
+353
+00:17:36,281 --> 00:17:37,532
 it sucked, right?
 
-358
-00:17:37,766 --> 00:17:41,060
+354
+00:17:37,616 --> 00:17:40,910
 It did a lot. I hated it.
 Thanks for bringing it up.
 
-359
-00:17:43,980 --> 00:17:47,942
+355
+00:17:43,830 --> 00:17:47,792
 But, you know, it was... it was good.
 It was good, too.
 
-360
-00:17:49,819 --> 00:17:51,821
+356
+00:17:49,669 --> 00:17:51,671
 - What do you mean?
 - I think it's part of it,
 
-361
-00:17:51,905 --> 00:17:55,700
+357
+00:17:51,755 --> 00:17:55,550
 like relationships,
 those four months that we spent together,
 
-362
-00:17:55,784 --> 00:17:58,661
+358
+00:17:55,634 --> 00:17:58,511
 it was really nice to be connected
 to someone outside of the house,
 
-363
-00:18:00,455 --> 00:18:02,373
+359
+00:18:00,305 --> 00:18:02,223
 even if it was just for a little while.
 
-364
-00:18:07,712 --> 00:18:08,713
+360
+00:18:07,562 --> 00:18:08,563
 Which one is it?
 
-365
-00:18:10,965 --> 00:18:12,133
+361
+00:18:10,815 --> 00:18:11,983
 Rafa.
 
-366
-00:18:15,261 --> 00:18:16,930
+362
+00:18:15,111 --> 00:18:16,780
 He's cool. He's a nice kid.
 
-367
-00:19:03,852 --> 00:19:05,311
+363
+00:19:03,702 --> 00:19:05,161
 Oh, it's a photo booth.
 
-368
-00:19:05,395 --> 00:19:07,313
+364
+00:19:05,245 --> 00:19:07,163
 - Come on, come on.
 - All right, all right.
 
-369
-00:19:15,113 --> 00:19:18,241
+365
+00:19:14,963 --> 00:19:18,091
 Oh, they're coming now.
 Let's see. What was that?
 
-370
-00:19:18,324 --> 00:19:19,701
+366
+00:19:18,174 --> 00:19:19,551
 I don't even know.
 
-371
-00:19:20,827 --> 00:19:21,995
+367
+00:19:20,677 --> 00:19:21,845
 Goofball.
 
-372
-00:19:44,559 --> 00:19:45,852
+368
+00:19:44,409 --> 00:19:45,702
 Dear Mya.
 
-373
-00:19:45,935 --> 00:19:49,314
+369
+00:19:45,785 --> 00:19:49,164
 Hi. It's me, Rafa.
 
-374
-00:19:49,397 --> 00:19:52,191
+370
+00:19:49,247 --> 00:19:52,041
 If you're reading this,
 that means I gave it to you
 
-375
-00:19:52,275 --> 00:19:54,235
+371
+00:19:52,125 --> 00:19:54,085
 and that's sort of the point
 of this letter.
 
-376
-00:19:55,236 --> 00:19:59,032
+372
+00:19:55,086 --> 00:19:58,882
 For my entire life,
 I've been nervous about everything.
 
-377
-00:19:59,115 --> 00:20:01,659
+373
+00:19:58,965 --> 00:20:01,509
 About school, about the future,
 
-378
-00:20:01,743 --> 00:20:05,288
+374
+00:20:01,593 --> 00:20:05,138
 about what I'm going to eat for lunch,
 everything.
 
-379
-00:20:06,289 --> 00:20:09,042
+375
+00:20:06,139 --> 00:20:08,892
 And a lot of times,
 I've let that nervousness stop me
 
-380
-00:20:09,125 --> 00:20:11,210
+376
+00:20:08,975 --> 00:20:11,060
 from doing something I wanted to do.
 
-381
-00:20:11,294 --> 00:20:13,630
+377
+00:20:11,144 --> 00:20:13,480
 But I realized something recently,
 
-382
-00:20:13,713 --> 00:20:17,008
+378
+00:20:13,563 --> 00:20:16,858
 feeling nervous about something
 only lasts for a few seconds.
 
-383
-00:20:17,091 --> 00:20:21,429
+379
+00:20:16,941 --> 00:20:21,279
 But the regret of not doing something
 because you're nervous lasts way longer.
 
-384
-00:20:21,512 --> 00:20:24,599
+380
+00:20:21,362 --> 00:20:24,449
 So, let me state this
 as plainly as possible.
 
-385
-00:20:25,308 --> 00:20:29,687
+381
+00:20:25,158 --> 00:20:29,537
 Mya, I like you.
 I like talking to you about things.
 
-386
-00:20:29,771 --> 00:20:33,983
+382
+00:20:29,621 --> 00:20:33,833
 I like when you play jokes on me.
 I even like digging holes with you.
 
-387
-00:20:34,067 --> 00:20:37,111
+383
+00:20:33,917 --> 00:20:36,961
 You make everything you touch better,
 including me.
 
-388
-00:20:37,195 --> 00:20:41,115
+384
+00:20:37,045 --> 00:20:40,965
 And so, despite everything inside of me
 saying I should do otherwise,
 
-389
-00:20:41,199 --> 00:20:43,034
+385
+00:20:41,049 --> 00:20:42,884
 I have a question to ask you.
 
-390
-00:20:45,954 --> 00:20:47,163
+386
+00:20:45,804 --> 00:20:47,013
 Mya?
 
-391
-00:20:47,246 --> 00:20:48,623
+387
+00:20:47,096 --> 00:20:48,473
 Rafa.
 
-392
-00:20:57,423 --> 00:20:59,092
+388
+00:20:57,273 --> 00:20:58,942
 Why are you running?
 
-393
-00:20:59,175 --> 00:21:03,429
+389
+00:20:59,025 --> 00:21:03,279
 I don't know. I saw you running
 and I thought we were running.
 
-394
-00:21:03,513 --> 00:21:05,807
+390
+00:21:03,363 --> 00:21:05,657
 Wow. You're in great shape.
 
-395
-00:21:07,475 --> 00:21:09,102
+391
+00:21:07,325 --> 00:21:08,952
 Okay. I'm good.
 
-396
-00:21:11,562 --> 00:21:13,523
+392
+00:21:11,412 --> 00:21:13,373
 I don't know if you read my letter or not,
 
-397
-00:21:14,857 --> 00:21:18,486
+393
+00:21:14,707 --> 00:21:18,336
 but... I need to tell you something.
 
-398
-00:21:18,569 --> 00:21:21,948
+394
+00:21:18,419 --> 00:21:21,798
 Or... I need to ask you something. I...
 
-399
-00:21:25,159 --> 00:21:27,120
+395
+00:21:25,009 --> 00:21:26,970
 Mya Perkins,
 
-400
-00:21:27,203 --> 00:21:31,124
+396
+00:21:27,053 --> 00:21:30,974
 do you wanna be my girlfriend?
 I hope you say yes.
 
-401
-00:21:33,626 --> 00:21:35,294
+397
+00:21:33,476 --> 00:21:35,144
 Love, Rafa.
 
-402
-00:21:40,383 --> 00:21:41,467
+398
+00:21:40,233 --> 00:21:41,317
 What?
 
