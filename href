@@ -1,3 +1,18 @@
+категорийный признак - последние две буквы имени
+для категорий оставить ранги - полезная инфа
+может даже не разделять на столбцы
+degree сделать замены
+часы сна - конкретными часами
+привычки еды - может тоже почистить мелкие категории в три большие, присвоить им коэфф по полезности
+для городов подтянуть координаты и что-нибудь бахнуть - расстояние от чего-нибудь
+числовые поперемножать
+X_train['PS_ratio']=X_train['Work/Academic Pressure']/X_train['Job/Study Satisfaction']
+X_train['PSF_ratio']=X_train['PS_ratio']*X_train['Financial Stress']
+X_train['PF_factor']=X_train['Work/Academic Pressure']*X_train['Financial Stress']
+
+в едовых привычках встречаются данные других столбцов. может и в других фичах
+
+
 https://drive.google.com/file/d/1PhmA9dbhcSTkkLcxoLcakferzs9T82CW/view?usp=share_link
 Коллеги, в рамках учебного стенда появилась схема таблиц для контракта ДФ01 в схеме df. 
 
@@ -14,6 +29,15 @@ https://www.kaggle.com/code/somendrew/30-models-majority-voting
 
 https://www.kaggle.com/code/oscarm524/ps-s3-ep23-eda-modeling-submission
 интересные классификаторы и примеры важных параметров
+
+https://www.kaggle.com/code/masoudhadi/factors-of-depression-a-machine-learning-approach
+хорошая чистка признаков, плюс тюнинг параметров
+
+https://www.kaggle.com/code/ismailalshofi/a-dive-into-mental-health-using-eda-and-ml
+хорошая чистка, есть координаты городов
+
+https://www.kaggle.com/code/khangtran94vn/finish-eda-stress
+хорошая и удобная чистка, параметры xgboost
 
 в качестве фичи категорий - тупо количество
 
