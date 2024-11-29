@@ -5,6 +5,7 @@ degree сделать замены
 часы сна - конкретными часами
 привычки еды - может тоже почистить мелкие категории в три большие, присвоить им коэфф по полезности
 для городов подтянуть координаты и что-нибудь бахнуть - расстояние от чего-нибудь
+население городов
 числовые поперемножать
 X_train['PS_ratio']=X_train['Work/Academic Pressure']/X_train['Job/Study Satisfaction']
 X_train['PSF_ratio']=X_train['PS_ratio']*X_train['Financial Stress']
@@ -43,8 +44,9 @@ https://www.kaggle.com/code/khangtran94vn/finish-eda-stress
 https://www.kaggle.com/code/yaminh/pss4e11-full-eda-tabularpredictor-0-9755-135
 объединяет много моделей, но не понял как
 
+https://www.kaggle.com/code/wissamelias/eda-data-cleaning-data-insights
+хорошая очистка
 
-в качестве фичи категорий - тупо количество
 
 [Verse 1]
 Ain't got antlers on the walls
