@@ -25,26 +25,24 @@ https://sagentsy.ru/yagodnye-kustarniki/sagentsy-egemaliny/egemalina-medana - м
 
 
 агросад
-Xред даймонд
+ред даймонд
 Xкизил джолико, может янтарный
 Xмалина зюгана
 может инжир медовый
 Xтайберри медана
-Xвиноград викинг
+виноград викинг
 
 слива
 орловская красная (красивая) отличная морозостойкость, якобы скороплодность - Х
 ред харт (диплоидная, оч сладкая) морозостойкость средняя
 империал (колоно, вкусные,) морозостойкость где как
-конфетная (вкус 5, боковое ветвление, самобесплодный) средняя морозост - X рискнём
+Xконфетная (вкус 5, боковое ветвление, самобесплодный) средняя морозост - X рискнём
 виктория (вкусный, самоопыл, третий год) средняя или поздняя
-деликатесная (вкус, морозостойкость) морозостойкость хорошая - Х
+Xделикатесная (вкус, морозостойкость) морозостойкость хорошая - Х
 мирабель (колоновидная, сладкая, второй год, требует опылителей) много где стоит как поздняя
 рубин (колоновидная, сладкая)
 
 искать скороплодный и хоть частично самоплодный
-
-нектарин ещё какой
 
 поиск
 джолико
@@ -54,12 +52,12 @@ Xвиноград викинг
 
 
 росток
-https://rostok-pitomnik.ru/catalog/klubnika-malina-ezhevika/ezhemalina/ezhemalina-red-daymond/
+Xhttps://rostok-pitomnik.ru/catalog/klubnika-malina-ezhevika/ezhemalina/ezhemalina-red-daymond/
 https://rostok-pitomnik.ru/catalog/klubnika-malina-ezhevika/ezhemalina/ezhemalina-medana-tayberri_1/
-https://rostok-pitomnik.ru/catalog/sazhentsy-plodovykh-kustarnikov/brusnika/brusnika-rubin/
+Xhttps://rostok-pitomnik.ru/catalog/sazhentsy-plodovykh-kustarnikov/brusnika/brusnika-rubin/
 https://rostok-pitomnik.ru/catalog/sazhentsy-plodovykh-derevev_2/persik/persik-uralets-/
-https://rostok-pitomnik.ru/catalog/sazhentsy-plodovykh-derevev_2/sliva/sliva-san-ti-chi-san/
-https://rostok-pitomnik.ru/catalog/sazhentsy-plodovykh-derevev_2/sliva/sliva-orlovskaya-orlovskaya-krasnaya/
+Xhttps://rostok-pitomnik.ru/catalog/sazhentsy-plodovykh-derevev_2/sliva/sliva-san-ti-chi-san/
+Xhttps://rostok-pitomnik.ru/catalog/sazhentsy-plodovykh-derevev_2/sliva/sliva-orlovskaya-orlovskaya-krasnaya/
 https://rostok-pitomnik.ru/catalog/sazhentsy-plodovykh-kustarnikov/kizil/kizil-kostya/
 https://rostok-pitomnik.ru/catalog/sazhentsy-plodovykh-kustarnikov/kizil/kizil-bilda/
 https://rostok-pitomnik.ru/catalog/sazhentsy-plodovykh-kustarnikov/kizil/kizil-lukyanovskiy/
@@ -74,10 +72,10 @@ https://sarsad.ru/index.php?route=product/category&path=60_80 категория
 https://sarsad.ru/index.php?route=product/product&path=59_72&product_id=901 слива империал
 https://sarsad.ru/index.php?route=product/product&path=59_72&product_id=1574 Слива Голден Плумза диплоидный
 https://sarsad.ru/index.php?route=product/product&path=61&product_id=342 виноград викинг
-https://sarsad.ru/index.php?route=product/product&path=61&product_id=314 виноград дружба, якобы лучший мускат
-https://sarsad.ru/index.php?route=product/product&path=59_67&product_id=1992 нектарин средний скороплодный сладкий
+Xhttps://sarsad.ru/index.php?route=product/product&path=61&product_id=314 виноград дружба, якобы лучший мускат
+Xhttps://sarsad.ru/index.php?route=product/product&path=59_67&product_id=1992 нектарин средний скороплодный сладкий
 https://sarsad.ru/index.php?route=product/product&path=59_67&product_id=1993 - Персик «Кримсон Бонфайр» — колоновидный
-https://sarsad.ru/index.php?route=product/product&path=59_67&product_id=1642 - Персик Сын Редхевена
+Xhttps://sarsad.ru/index.php?route=product/product&path=59_67&product_id=1642 - Персик Сын Редхевена
 
 
 
