@@ -77,6 +77,11 @@ Xhttps://sarsad.ru/index.php?route=product/product&path=61&product_id=314 вин
 Xhttps://sarsad.ru/index.php?route=product/product&path=59_67&product_id=1992 нектарин средний скороплодный сладкий
 https://sarsad.ru/index.php?route=product/product&path=59_67&product_id=1993 - Персик «Кримсон Бонфайр» — колоновидный
 Xhttps://sarsad.ru/index.php?route=product/product&path=59_67&product_id=1642 - Персик Сын Редхевена
+Xhttps://sarsad.ru/index.php?route=product/product&path=59_74&product_id=2033 - шелковица белая самопыл
+X?https://sarsad.ru/index.php?route=product/product&path=59_74&product_id=2040 рябина Сахарная Петрова
+Xhttps://sarsad.ru/index.php?route=product/product&path=59_71&product_id=1415 - красное яблоко
+
+
 
 
 
