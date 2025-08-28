@@ -351,184 +351,185 @@ To quote my personal hero,
 Willy Wonka,
 
 71
-00:04:05,174 --> 00:04:11,259
+00:04:05,174 --> 00:04:08,231
 "You broke the rules.
-You get nothing, you lose.
-Good day, sir."
+You get nothing,
 
 72
+00:04:08,231 --> 00:04:11,259
+you lose.
+Good day, sir."
+
+73
 00:04:11,259 --> 00:04:15,692
 And you know what?
 You're also--
 You're not even wearing a suit.
 It's disrespectful.
 
-73
+74
 00:04:15,692 --> 00:04:21,136
 Who shows up to the White House
 in a T-shirt and jeans
 like a garbage person?
 
-74
+75
 00:04:36,078 --> 00:04:39,136
 Elon. Elon.
 H-Hi, guys. Hi, guys.
 
-75
+76
 00:04:39,136 --> 00:04:43,681
 Elon, we love your outfit.
 Very official and respectful.
 
-76
+77
 00:04:43,681 --> 00:04:47,269
 And I love
 when he gets that chainsaw
 right next to my head.
 
-77
+78
 00:04:47,269 --> 00:04:49,128
 Oh, thanks.
 
-78
+79
 00:04:49,128 --> 00:04:53,471
 Uh, Donald,
 what are you doing in my office?
 
-79
+80
 00:04:53,471 --> 00:04:58,165
 Y-You know I'm the President now, right?
 
-80
+81
 00:04:58,165 --> 00:05:00,433
 I'm kidding. I'm kidding. Okay.
 
-81
+82
 00:05:00,433 --> 00:05:03,435
 Maybe not. Maybe not.
 
-82
+83
 00:05:03,435 --> 00:05:07,584
 Awesome, awesome, awesome.
 You got to make a joke,
 you know, you got to
 
-83
+84
 00:05:07,584 --> 00:05:12,314
 legalize comedy!
 Legalize comedy!
 Come on. Legalize it.
 
-84
+85
 00:05:14,249 --> 00:05:18,058
 I'm so comfortable
 with all of that.
 
-85
+86
 00:05:18,058 --> 00:05:22,611
 I really enjoy everything
 you're doing with DOGE, Elon.
 
-86
+87
 00:05:22,611 --> 00:05:26,797
 Well, they're saying I'm
 firing people with no cause.
 
-87
+88
 00:05:26,797 --> 00:05:28,774
 But I do have cause.
 
-88
+89
 00:05:28,774 --> 00:05:32,469
 It's 'cause I feel like it.
 
-89
+90
 00:05:33,260 --> 00:05:35,119
 [ Laughs ] Come on!
 Glitch.
 
-90
+91
 00:05:39,481 --> 00:05:41,821
 Better. B-Better.
 
-91
+92
 00:05:41,821 --> 00:05:44,054
 They're doing mass firings
 in the government.
 
-92
+93
 00:05:44,054 --> 00:05:47,187
 We love mass firings
 because you don't have to know
 
-93
+94
 00:05:47,187 --> 00:05:50,144
 what any of their names are
 or what exactly they do.
 
-94
+95
 00:05:50,144 --> 00:05:54,468
 I mean, w-w-we're not going to get
 it perfect, you know?
 
-95
+96
 00:05:54,468 --> 00:05:58,578
 But we are firing the nonessential employees,
 
-96
+97
 00:05:58,578 --> 00:06:02,269
 like air traffic controllers.
 Yes, yes.
 
-97
+98
 00:06:02,269 --> 00:06:05,010
 And sure, some of the planes
 are going to land upside down,
 
-98
+99
 00:06:05,010 --> 00:06:10,522
 but then the luggage falls right into your lap
 and you're ready to go.
 It's official.
 
-99
+100
 00:06:10,522 --> 00:06:13,373
 And Elon's got this incredible
 team of professionals,
 
-100
+101
 00:06:13,373 --> 00:06:17,580
 like a 19-year-old
 who's known as "Big Balls."
 
-101
+102
 00:06:17,580 --> 00:06:20,510
 Yo! Reporting for duty, sir.
 
-102
+103
 00:06:20,510 --> 00:06:26,071
 And, uh, Big Balls, you've
 been doing some awesome
 DOGE stuff, right, Big Balls?
 
-103
+104
 00:06:26,071 --> 00:06:30,304
 Oh, for sure.
 This week I fired
 a Black general
 and a woman admiral.
 
-104
+105
 00:06:30,304 --> 00:06:34,161
 It was awesome!
 So awesome, yeah.
 It's awesome. It's awesome.
 
-105
-00:06:34,161 --> 00:06:36,328
-And in addition to DOGE,
-
 106
-00:06:36,329 --> 00:06:37,542
+00:06:34,161 --> 00:06:37,542
+And in addition to DOGE,
 we've started another initiative
 
 107
@@ -768,14 +769,14 @@ It's too powerful, dude.
 It's like the Sith.
 
 153
-00:12:15,017 --> 00:12:18,591
+00:12:15,017 --> 00:12:18,541
 You can, like,
 lose yourself, dude.
 Somebody says something you
 don't like at work.
 
 154
-00:12:18,591 --> 00:12:19,847
+00:12:18,541 --> 00:12:19,847
 You're like, "Ah, eh!"
 [ Chuckles ]
 
@@ -1810,7 +1811,6 @@ the medication do its thing.
 
 343
 00:24:23,953 --> 00:24:27,584
-♪
 Come on.
 Back behind the fence.
 Trying to teach my kid how to
@@ -2156,7 +2156,7 @@ over Drake and Kendrick.
 410
 00:27:51,388 --> 00:27:53,763
 Yeah. Yeah. That's us.
-Yeah. That's us. 
+Yeah. That's us.
 
 411
 00:27:53,763 --> 00:27:55,654
@@ -2219,7 +2219,7 @@ Let's keep it rolling.
 423
 00:28:24,030 --> 00:28:26,762
 A Florida middle school teacher
-has resigned 
+has resigned
 
 424
 00:28:26,762 --> 00:28:28,835
@@ -2278,7 +2278,7 @@ has been hospitalized
 
 435
 00:28:53,402 --> 00:28:56,395
- after taking on a bizarre challenge
+after taking on a bizarre challenge
 of eating raw chicken every day.
 
 436
@@ -2363,7 +2363,7 @@ Good game, good game.
 00:29:37,154 --> 00:29:41,183
 And that's all the time
 we have today at
-WANU Mid-day News. 
+WANU Mid-day News.
 
 453
 00:29:41,183 --> 00:29:43,869
