@@ -1604,236 +1604,1380 @@ plaque psoriasis.
 and it's not an injection.
 
 340
-00:23:28,095 --> 01:00:27,960
+00:23:28,095 --> 00:23:31,943
 Otezla isn't a patch, a liquid
 medicine, or an inhaler.
 
 341
-01:00:27,960 --> 01:00:29,790
+00:23:31,943 --> 00:23:33,292
 -Hm! So what is it?
 
 342
-01:00:29,800 --> 01:00:32,640
+00:23:33,292 --> 00:23:36,764
 -We...don't know.
 
 343
-01:00:32,630 --> 01:00:33,930
--Huh.
-
-344
-01:00:33,930 --> 01:00:36,830
+00:23:36,973 --> 00:23:40,320
 -We don't know what Otezla is
 or how it got here.
 
-345
-01:00:36,840 --> 01:00:38,510
+344
+00:23:40,320 --> 00:23:41,968
 And we don't know what it wants.
 
-346
-01:00:38,510 --> 01:00:40,980
+345
+00:23:41,968 --> 00:23:46,155
 -But we do know
 that it treats plaque psoriasis
-
-347
-01:00:40,970 --> 01:00:42,670
 and that we can't stop it.
 
-348
-01:00:42,680 --> 01:00:45,180
+346
+00:23:46,155 --> 00:23:48,687
 -And now I'm the king
 of the dance floor.
 
-349
-01:00:45,180 --> 01:00:46,980
+347
+00:23:48,755 --> 00:23:50,328
 -It looks like a pill,
 
-350
-01:00:46,980 --> 01:00:49,880
+348
+00:23:50,328 --> 00:23:53,537
 but that may be what Otezla
 wants us to believe.
 
-351
-01:00:49,880 --> 01:00:52,250
+349
+00:23:53,537 --> 00:23:57,515
 On security footage,
 when humans look away,
-
-352
-01:00:52,250 --> 01:00:53,990
 it becomes something else.
 
-353
-01:00:53,990 --> 01:00:57,430
+350
+00:23:57,515 --> 00:24:00,629
 Either way,
 I've got my confidence back.
 
-354
-01:00:57,420 --> 01:01:01,090
+351
+00:24:00,629 --> 00:24:04,678
 -Otezla has no known
 weaknesses or vulnerabilities.
 
-355
-01:01:01,090 --> 01:01:02,990
+352
+00:24:04,678 --> 00:24:06,676
 It cannot be created
 or destroyed.
 
-356
-01:01:03,000 --> 01:01:06,040
+353
+00:24:06,676 --> 00:24:09,426
 Ask your doctor
 if Otezla is right for you.
 
-357
-01:01:06,030 --> 01:01:09,100
+354
+00:24:09,426 --> 00:24:12,624
 And ask an old blind man
 if Otezla was foretold.
 
-358
-01:01:09,100 --> 01:01:10,770
+355
+00:24:12,624 --> 00:24:14,006
 -Otezla works fast,
 
-359
-01:01:10,770 --> 01:01:12,900
+356
+00:24:14,006 --> 00:24:16,312
 and we believe plaque psoriasis
 might be its food.
 
-360
-01:01:12,910 --> 01:01:16,310
+357
+00:24:16,312 --> 00:24:19,766
 -Best of all, Otezla
 is covered by most insurers.
 
-361
-01:01:16,310 --> 01:01:18,140
+358
+00:24:19,766 --> 00:24:24,078
 Worst of all,
 Otezla appears to be
-
-362
-01:01:18,140 --> 01:01:20,610
 moving through time
 differently than we are,
 
-363
-01:01:20,610 --> 01:01:22,850
+359
+00:24:24,078 --> 00:24:26,143
 so our future is its past.
 
-364
-01:01:22,850 --> 01:01:24,520
+360
+00:24:26,143 --> 00:24:28,056
 -Otezla has been
 with us before,
 
-365
-01:01:24,520 --> 01:01:27,390
+361
+00:24:28,056 --> 00:24:30,885
 always right before
 a major leap in civilization,
 
-366
-01:01:27,390 --> 01:01:29,730
+362
+00:24:30,885 --> 00:24:33,146
 perhaps nudging humanity
 forward.
 
-367
-01:01:29,720 --> 01:01:32,090
+363
+00:24:33,146 --> 00:24:35,714
 Optimistically,
 this could be Otezla's way
 
-368
-01:01:32,090 --> 01:01:35,260
+364
+00:24:35,714 --> 00:24:38,839
 of guiding humanity
 to one day create Otezla.
 
-369
-01:01:35,260 --> 01:01:39,230
+365
+00:24:38,839 --> 00:24:42,579
 -Or pessimistically
 to a future of enslavement.
 
-370
-01:01:39,230 --> 01:01:41,970
+366
+00:24:42,579 --> 00:24:45,354
 -9 out of 10 dermatologists
 recommend Otezla.
 
-371
-01:01:41,970 --> 01:01:44,370
+367
+00:24:45,324 --> 00:24:49,013
 The 10th dermatologist carved
 a bunch of numbers into a wall
-
-372
-01:01:44,370 --> 01:01:45,470
 and then shot himself.
 
-373
-01:01:45,470 --> 01:01:46,610
+368
+00:24:49,013 --> 00:24:49,852
 I'm open!
 
-374
-01:01:46,610 --> 01:01:48,510
+369
+00:24:49,852 --> 00:24:52,054
 -Some people
 may be allergic to Otezla.
 
-375
-01:01:48,510 --> 01:01:50,310
+370
+00:24:52,054 --> 00:24:53,927
 -If you're allergic,
 you may be the key,
 
-376
-01:01:50,310 --> 01:01:52,580
+371
+00:24:53,927 --> 00:24:55,937
 the secret weapon
 we need to fight back.
 
-377
-01:01:52,580 --> 01:01:54,550
+372
+00:24:55,937 --> 00:24:59,039
 -And now I can
 dance the night away.
 
-378
-01:01:56,380 --> 01:01:58,950
+373
+00:24:59,544 --> 00:25:02,624
 -Do not take Otezla
 if you are pregnant, nursing,
 
-379
-01:01:58,950 --> 01:02:03,050
+374
+00:25:02,624 --> 00:25:06,576
 or taking other plaque-psoriasis
 medications, especially Skyrizi.
 
-380
-01:02:03,060 --> 01:02:07,670
+375
+00:25:06,576 --> 00:25:11,229
 -Otezla is either working with
 or the mortal enemy of Skyrizi.
 
-381
-01:02:07,660 --> 01:02:10,360
+376
+00:25:11,311 --> 00:25:15,031
 It's possible that one
 has been sent to protect us
-
-382
-01:02:10,360 --> 01:02:11,790
 and one to kill us.
 
-383
-01:02:11,800 --> 01:02:15,500
+377
+00:25:15,031 --> 00:25:19,040
 -If one molecule of Otezla
 touched one molecule of Skyrizi,
 
-384
-01:02:15,500 --> 01:02:17,640
+378
+00:25:19,040 --> 00:25:20,928
 space and time would collapse.
 
-385
-01:02:17,640 --> 01:02:20,280
+379
+00:25:20,928 --> 00:25:23,656
 -So say goodbye
 to plaque psoriasis.
 
-386
-01:02:20,270 --> 01:02:21,640
+380
+00:25:23,656 --> 00:25:24,939
 -Thanks to Otezla.
 
-387
-01:02:21,640 --> 01:02:25,240
+381
+00:25:25,036 --> 00:25:28,948
 Whatever it may be.
 Or want.
 
-388
-01:02:25,250 --> 01:02:28,090
+382
+00:25:30,397 --> 00:25:34,313
 -d Oh, oh, oh, Otezla d
+What do you mean it's taken?!
+
+383
+00:25:50,901 --> 00:25:53,989
+-On a quest
+for the Treasure of Darlor,
+
+384
+00:25:53,989 --> 00:25:57,379
+the three cyclopses
+slayed the evil Bog Rog
+
+385
+00:25:57,379 --> 00:25:59,448
+and arrived
+at the ancient temple,
+
+386
+00:25:59,448 --> 00:26:04,203
+where they were greeted by the
+beautiful Maidens of the vault.
+
+387
+00:26:04,571 --> 00:26:08,672
+-Hello!
+We are here for the treasure!
+
+388
+00:26:08,672 --> 00:26:11,071
+-Yeah! Treasure!
+-Treasure!
+-Treasure!
 
 389
-01:02:28,080 --> 01:02:30,150
-What do you mean it's taken?!
+00:26:11,071 --> 00:26:16,868
+-Your treasure awaits
+you brave one-eyed warriors
+behind this locked door.
+
+390
+00:26:16,868 --> 00:26:20,843
+-Though the cyclops is
+the realm's simplest creature,
+
+391
+00:26:20,843 --> 00:26:23,880
+you have passed every test
+of strength on your quest.
+
+392
+00:26:23,880 --> 00:26:28,155
+And now you face
+the test of the mind.
+
+393
+00:26:28,155 --> 00:26:30,093
+-Why?
+
+394
+00:26:30,093 --> 00:26:33,613
+-Because that is what
+the ancient ones devised.
+
+395
+00:26:33,613 --> 00:26:37,475
+To open the door,
+you must solve a riddle.
+
+396
+00:26:37,475 --> 00:26:40,493
+-We don't have a riddle.
+
+397
+00:26:40,493 --> 00:26:44,571
+-No. We have the riddle.
+
+398
+00:26:45,290 --> 00:26:47,438
+-Can we have the riddle?
+
+399
+00:26:47,438 --> 00:26:50,225
+-We-- We need your riddle
+to open the door.
+
+400
+00:26:50,225 --> 00:26:51,430
+-No, no.
+
+401
+00:26:51,430 --> 00:26:56,718
+We say a riddle,
+and you answer it.
+
+402
+00:26:57,737 --> 00:27:03,000
+-Why?
+-Because that is how it works.
+
+403
+00:27:03,574 --> 00:27:08,447
+-Can you open the door?
+-Not right now, no.
+
+404
+00:27:08,447 --> 00:27:11,952
+-Well, when can you
+open the door?
+
+405
+00:27:11,952 --> 00:27:14,569
+-After you solve the riddle.
+
+406
+00:27:14,569 --> 00:27:18,077
+-Now, listen closely...
+
+407
+00:27:18,077 --> 00:27:22,245
+for I will tell you the riddle.
+
+408
+00:27:22,245 --> 00:27:24,812
+Listen-- Not physically close.
+
+409
+00:27:24,812 --> 00:27:27,650
+Just go back.
+Go ba-- Go back.
+
+410
+00:27:27,650 --> 00:27:30,319
+-Wife.
+-Go back. Stop. Go back.
+
+411
+00:27:30,319 --> 00:27:33,409
+-Wife.
+-I'm not your wife.
+Get. Get. Back.
+
+412
+00:27:33,409 --> 00:27:35,906
+-Wife.
+-Go back.
+
+413
+00:27:38,013 --> 00:27:41,133
+S-- Stop.
+-Wife.
+-Go back. Go back.
+
+414
+00:27:41,133 --> 00:27:43,137
+Stop. Stop!
+-You are his wife.
+
+415
+00:27:43,137 --> 00:27:47,700
+You are his wife.
+-Go back! Go. Go back.
+-You are his wife.
+-Go back!
+
+416
+00:27:51,872 --> 00:27:53,976
+Stop!
+
+417
+00:27:59,016 --> 00:28:02,283
+Stop.
+Stop!
+
+418
+00:28:02,283 --> 00:28:04,175
+Let me say it.
+
+419
+00:28:04,175 --> 00:28:08,608
+-Stop!
+Stop!
+
+420
+00:28:08,608 --> 00:28:13,799
+I have hands and a face...
+though I am not of human stock.
+
+421
+00:28:13,799 --> 00:28:18,028
+I mark the hours of each day.
+I am a ticking...
+
+422
+00:28:18,028 --> 02:02:30,920
+-Okay. Hands and face.
+Hands and face.
+
+423
+02:02:36,060 --> 02:02:37,360
+-Can you open the door?
+
+424
+02:02:37,360 --> 02:02:39,100
+-No! No.
+
+425
+02:02:39,090 --> 02:02:42,360
+You must answer
+the riddle first.
+
+426
+02:02:42,360 --> 02:02:44,930
+I have hands and a face...
+
+427
+02:02:44,930 --> 02:02:47,100
+though I am not of human stock.
+
+428
+02:02:47,100 --> 02:02:49,440
+I mark the hours of each day.
+
+429
+02:02:49,440 --> 02:02:51,880
+I am a ticking...
+
+430
+02:02:51,870 --> 02:02:53,470
+-Hat.
+-Hat?
+
+431
+02:02:53,470 --> 02:02:56,570
+Hat is not the answer we seek.
+
+432
+02:02:56,580 --> 02:02:58,520
+The answer was clock.
+
+433
+02:03:00,280 --> 02:03:01,810
+-But the door is not open.
+
+434
+02:03:01,810 --> 02:03:05,080
+-Okay. Stop. Stop.
+Stop it! Stop!
+
+435
+02:03:05,090 --> 02:03:07,490
+My friends, listen, please.
+
+436
+02:03:07,490 --> 02:03:09,430
+We want you to win here.
+
+437
+02:03:09,420 --> 02:03:14,530
+We have guarded this door
+for 1,000 years.
+
+438
+02:03:14,530 --> 02:03:17,700
+Opening it would set us free!
+
+439
+02:03:17,700 --> 02:03:20,440
+We will give you another riddle.
+
+440
+02:03:21,900 --> 02:03:25,900
+-I cannot be seen
+but can make trees bend.
+
+441
+02:03:25,910 --> 02:03:28,040
+I whistle without my mouth.
+
+442
+02:03:28,040 --> 02:03:30,480
+I am the howling...
+
+443
+02:03:32,750 --> 02:03:34,280
+Hat!
+-Stop it.
+
+444
+02:03:34,280 --> 02:03:36,720
+-No. No, no. Try--
+-Stop, stop, stop!
+
+445
+02:03:36,720 --> 02:03:38,620
+-I go into the door.
+-No! Don't go in there!
+
+446
+02:03:38,620 --> 02:03:39,690
+Stop this--
+-I'm going in the door.
+
+447
+02:03:39,690 --> 02:03:41,260
+-Stop it. Stop.
+Stop it! Go back!
+
+448
+02:03:41,250 --> 02:03:44,620
+-Try again.
+Think, my friends. Think!
+
+449
+02:03:44,630 --> 02:03:47,170
+-Stop! Stop it!
+This is my door! Stop!
+
+450
+02:03:50,100 --> 02:03:53,870
+Stop. Please, my Lord.
+Please, God! Stop!
+
+451
+02:03:55,570 --> 02:03:57,370
+I'm begging you. Please.
+
+452
+02:03:58,440 --> 02:03:59,510
+-Wife. Wife. Wife.
+
+453
+02:03:59,510 --> 02:04:03,050
+-Please, God! Please. Stop it!
+
+454
+02:04:09,850 --> 02:04:11,150
+No!
+
+455
+02:04:13,150 --> 02:04:15,750
+I cannot be seen...
+
+456
+02:04:15,760 --> 02:04:18,130
+but make trees bend.
+
+457
+02:04:18,130 --> 02:04:20,260
+I whistle without a mouth.
+
+458
+02:04:20,260 --> 02:04:22,360
+I am the howling...
+
+459
+02:04:24,230 --> 02:04:25,600
+-Can you open the door?
+
+460
+02:04:25,600 --> 02:04:30,670
+-No! No, no. One more chance.
+
+461
+02:04:30,670 --> 02:04:33,640
+-The answer is not hat.
+
+462
+02:04:33,640 --> 02:04:36,580
+-I cannot be seen
+but make trees bend.
+
+463
+02:04:36,580 --> 02:04:39,480
+I whistle without a mouth.
+I am the howling...
+
+464
+02:04:39,480 --> 02:04:43,320
+-And the answer is not...hat.
+
+465
+02:04:46,420 --> 02:04:48,420
+-Not hat.
+
+466
+02:04:48,420 --> 02:04:52,160
+-Oh. Oh, my God. No.
+The answer was wind!
+
+467
+02:04:53,630 --> 02:04:55,230
+-But the wind's not a hat.
+
+468
+02:04:56,400 --> 02:04:58,940
+-I guess
+that's technically true.
+
+469
+02:04:58,930 --> 02:05:00,630
+Okay. The wind is not a hat.
+
+470
+02:05:00,630 --> 02:05:04,870
+So, um, congratulations.
+You've solved the riddle.
+
+471
+02:05:06,340 --> 02:05:10,440
+-The treasure...is yours.
+
+472
+02:05:10,440 --> 02:05:11,910
+-Yeah. Yeah.
+
+473
+02:05:16,420 --> 02:05:18,520
+-Guys, I got the treasure!
+
+474
+02:05:18,520 --> 02:05:20,960
+-No! That's the key
+for the door!
+
+475
+02:05:20,950 --> 02:05:23,350
+That's the--
+Okay. Fine. Goodbye.
+
+476
+02:05:23,360 --> 02:05:25,030
+-Treasure.
+-I got the treasure.
+
+477
+03:00:07,170 --> 03:00:10,140
+-Congratulations!
+
+478
+03:00:10,140 --> 03:00:13,810
+You special few
+found a golden doughnut
+
+479
+03:00:13,810 --> 03:00:15,480
+and have won the chance
+
+480
+03:00:15,480 --> 03:00:20,890
+to tour Monty McTreats'
+famous pastry bakery!
+
+481
+03:00:20,890 --> 03:00:24,290
+-And your tour guide will be
+none other than Monty McTreats,
+
+482
+03:00:24,290 --> 03:00:26,590
+the famous baker
+of sugary sweets!
+
+483
+03:00:29,130 --> 03:00:31,300
+McTreats is a bore!
+
+484
+03:00:32,270 --> 03:00:34,440
+On opposite day.
+
+485
+03:00:34,430 --> 03:00:36,930
+-It's him!
+-Monty McTreats!
+
+486
+03:00:36,940 --> 03:00:42,210
+-'Tis I. 'Tis me.
+'Tis us. 'Tis we!
+
+487
+03:00:42,210 --> 03:00:46,350
+And you lucky few are about
+to be the first visitors ever.
+
+488
+03:00:46,350 --> 03:00:49,850
+d Believe me when I say
+you won't believe your eyes d
+
+489
+03:00:49,850 --> 03:00:51,750
+d When you lookie
+at our cookies d
+
+490
+03:00:51,750 --> 03:00:53,880
+d And you gaze upon our pies d
+
+491
+03:00:53,890 --> 03:00:55,890
+-d Our doughnuts
+are the glaziest d
+
+492
+03:00:55,890 --> 03:00:57,660
+-d Our waffle cones,
+the tastiest! d
+
+493
+03:00:57,660 --> 03:00:59,330
+-d And our cupcakes,
+for goodness' sake d
+
+494
+03:00:59,330 --> 03:01:01,630
+d They're simply
+the cupcakiest d
+
+495
+03:01:01,630 --> 03:01:03,730
+-Oh, my goodness!
+
+496
+03:01:03,730 --> 03:01:06,370
+What are those
+charming little creatures?
+
+497
+03:01:06,370 --> 03:01:08,970
+-Why, those are my Dotey Dee's.
+
+498
+03:01:08,970 --> 03:01:13,540
+Over 1,000 of those pudgy
+little pals work in my bakery.
+
+499
+03:01:15,080 --> 03:01:17,250
+-d No tummy aches
+or sugar crashes d
+
+500
+03:01:17,240 --> 03:01:19,070
+-d Just cupcakes
+and milk mustaches d
+
+501
+03:01:19,080 --> 03:01:21,020
+-d Just desserts,
+scores, you'll see d
+
+502
+03:01:21,010 --> 03:01:24,080
+-d Open the doors
+and follow me d
+
+503
+03:01:24,080 --> 03:01:28,050
+-d Into my tasty pastry d
+
+504
+03:01:28,060 --> 03:01:31,330
+d Bakery d
+
+505
+03:01:35,300 --> 03:01:36,900
+-Oh! Oh, my God!
+
+506
+03:01:36,900 --> 03:01:38,900
+A Dotey Dee hung himself
+with the--
+
+507
+03:01:38,900 --> 03:01:40,800
+-Shh! Close the door!
+
+508
+03:01:40,800 --> 03:01:42,970
+-Let go of me!
+-I'm sorry!
+
+509
+03:01:42,970 --> 03:01:44,710
+The tour will begin soon.
+
+510
+03:01:44,700 --> 03:01:47,570
+In the meantime,
+enjoy some cookies.
+
+511
+03:01:47,570 --> 03:01:48,640
+-Sir.
+-Yes.
+
+512
+03:01:48,640 --> 03:01:50,580
+-The doors are jammed!
+We need Leonard!
+
+513
+03:01:50,580 --> 03:01:52,950
+-Who is Leonard?
+-Hello.
+
+514
+03:01:52,950 --> 03:01:54,650
+-Fix the doors
+and cut that thing down.
+
+515
+03:01:54,650 --> 03:01:56,390
+Hey, boys and girls, guess what.
+
+516
+03:01:56,380 --> 03:02:00,020
+The tour is now taking place
+in the loading bay!
+
+517
+03:02:00,020 --> 03:02:01,590
+-Bunch of more dead ones
+back there.
+
+518
+03:02:01,590 --> 03:02:03,290
+-What?!
+-Well, it's springtime.
+
+519
+03:02:03,290 --> 03:02:04,560
+And that's when they mate.
+
+520
+03:02:04,560 --> 03:02:06,730
+And, you know, after they mate,
+the males off themselves
+
+521
+03:02:06,730 --> 03:02:08,630
+to free up resources
+for the women and the baby.
+
+522
+03:02:08,630 --> 03:02:10,700
+-Jesus!
+-Oh, no, it's not sad.
+
+523
+03:02:10,700 --> 03:02:12,000
+It's just what they do.
+
+524
+03:02:12,000 --> 03:02:14,370
+-Don't you know anything
+about their society
+
+525
+03:02:14,370 --> 03:02:16,010
+and culture and religion?
+
+526
+03:02:16,000 --> 03:02:17,770
+-I didn't know
+they had any of that stuff!
+
+527
+03:02:17,770 --> 03:02:19,340
+I thought they were
+like animals!
+
+528
+03:02:19,340 --> 03:02:21,380
+I just shoved them in nets
+and I shipped them here!
+
+529
+03:02:21,380 --> 03:02:22,880
+-You what?
+-What?
+
+530
+03:02:22,880 --> 03:02:24,550
+Hey, look over here.
+
+531
+03:02:24,540 --> 03:02:26,140
+Would you like to hear a joke?
+
+532
+03:02:27,210 --> 03:02:28,780
+Why do golfers love doughnuts?
+
+533
+03:02:28,780 --> 03:02:30,310
+-Excuse me.
+
+534
+03:02:30,320 --> 03:02:32,860
+Isn't there a more respectful
+way to get it down?
+
+535
+03:02:33,550 --> 03:02:35,520
+-Daniel! What are you doing?!
+
+536
+03:02:35,520 --> 03:02:36,990
+-I'm trying to get it down!
+
+537
+03:02:36,990 --> 03:02:39,830
+-Well, if you're just gonna
+poke it with a giant spoon,
+
+538
+03:02:39,830 --> 03:02:42,930
+just-- I would prefer
+that you leave him there.
+
+539
+03:02:42,930 --> 03:02:44,360
+Here's a fun fact.
+
+540
+03:02:45,630 --> 03:02:48,930
+-The walls behind me
+are a thousand cookies tall.
+
+541
+03:02:48,940 --> 03:02:52,940
+Why? To keep
+my secret recipes a secret.
+
+542
+03:02:52,940 --> 03:02:55,980
+-d How do you get
+your jellies' jelly? d
+
+543
+03:02:55,980 --> 03:02:58,680
+-d Two tablespoons of
+I'm not telling d
+
+544
+03:02:58,680 --> 03:03:01,420
+-d How do you make
+a perfect dough? d
+
+545
+03:03:01,410 --> 03:03:04,080
+-d Add a little pinch of
+you'll never know d
+
+546
+03:03:06,390 --> 03:03:07,720
+-God!
+
+547
+03:03:10,120 --> 03:03:12,160
+It's okay. He's just napping.
+
+548
+03:03:12,160 --> 03:03:13,530
+-No one's buying that.
+
+549
+03:03:13,530 --> 03:03:15,700
+-Sir, the doors are working!
+
+550
+03:03:15,700 --> 03:03:17,000
+-Thank God.
+
+551
+03:03:18,300 --> 03:03:20,470
+Pardon our dust, folks.
+
+552
+03:03:20,470 --> 03:03:22,870
+We'll be back
+before you can frost a flake.
+
+553
+03:03:22,870 --> 03:03:24,640
+No, no, no, no,
+no, no, no, no, no!
+
+554
+04:00:04,040 --> 04:00:07,480
+-Ladies and gentlemen, Gorillaz.
+
+555
+04:00:21,790 --> 04:00:24,560
+d I ain't happy,
+I'm feeling glad d
+
+556
+04:00:24,560 --> 04:00:27,500
+d I got sunshine in a bag d
+
+557
+04:00:27,490 --> 04:00:30,430
+d I'm useless,
+but not for long d
+
+558
+04:00:30,430 --> 04:00:33,170
+d The future is comin' on d
+
+559
+04:00:33,170 --> 04:00:35,970
+d I ain't happy,
+I'm feeling glad d
+
+560
+04:00:35,970 --> 04:00:39,040
+d I got sunshine in a bag d
+
+561
+04:00:39,040 --> 04:00:41,980
+d I'm useless,
+but not for long d
+
+562
+04:00:41,980 --> 04:00:44,620
+d The future is comin' on d
+
+563
+04:00:44,610 --> 04:00:47,650
+d It's comin' on,
+it's comin' on d
+
+564
+04:00:47,710 --> 04:00:50,350
+d It's comin' on,
+it's comin' on d
+
+565
+04:00:50,350 --> 04:00:53,190
+-d Yo, finally, someone
+let me out of my cage d
+
+566
+04:00:53,190 --> 04:00:56,330
+d Now time for me is nothing
+'cause I'm countin' no age d
+
+567
+04:00:56,320 --> 04:00:59,090
+d Nah, I couldn't be there,
+no, you shouldn't be scared d
+
+568
+04:00:59,090 --> 04:01:01,860
+d I'm good at repairs,
+and I'm under each snare d
+
+569
+04:01:01,860 --> 04:01:05,330
+d Intangible bet you couldn't
+think, so I command you to d
+
+570
+04:01:05,330 --> 04:01:07,970
+d Panoramic view, yo,
+I'll make it all manageable d
+
+571
+04:01:07,970 --> 04:01:11,040
+d Pick and choose, sit and lose,
+all you different crews d
+
+572
+04:01:11,040 --> 04:01:13,910
+d Chicks and dudes, who you
+think is really kickin' tunes? d
+
+573
+04:01:13,910 --> 04:01:16,680
+d Picture you getting down
+in a picture tube d
+
+574
+04:01:16,680 --> 04:01:18,210
+d Like you lit the fuse d
+
+575
+04:01:18,210 --> 04:01:20,810
+d You think it's fictional,
+mystical, maybe d
+
+576
+04:01:20,810 --> 04:01:23,350
+d Spiritual hero who appears
+on you to clear your view d
+
+577
+04:01:23,350 --> 04:01:24,950
+d When you're too crazy d
+
+578
+04:01:24,950 --> 04:01:27,850
+d Righteous, the simple
+definition for what life is d
+
+579
+04:01:27,860 --> 04:01:30,560
+d Priceless to y'all 'cause
+I put you on the hype d
+
+580
+04:01:30,560 --> 04:01:33,630
+d You like it, gun smokin',
+righteous with one toke d
+
+581
+04:01:33,630 --> 04:01:36,200
+d Psychics among those,
+possess you with one dose d
+
+582
+04:01:36,200 --> 04:01:38,840
+-d I ain't happy,
+I'm feeling glad d
+
+583
+04:01:38,830 --> 04:01:41,770
+d I got sunshine in a bag d
+
+584
+04:01:41,770 --> 04:01:44,740
+d I'm useless,
+but not for long d
+
+585
+04:01:44,740 --> 04:01:47,380
+d The future is comin' on d
+
+586
+04:01:47,370 --> 04:01:50,340
+d I ain't happy,
+I'm feeling glad d
+
+587
+04:01:50,340 --> 04:01:53,310
+d I got sunshine in a bag d
+
+588
+04:01:53,310 --> 04:01:56,150
+d I'm useless,
+but not for long d
+
+589
+04:01:56,150 --> 04:01:58,820
+d The future is comin' on d
+
+590
+04:01:58,820 --> 04:02:01,790
+d It's comin' on,
+it's comin' on d
+
+591
+04:02:01,860 --> 04:02:04,500
+d It's comin' on,
+it's comin' on d
+
+592
+04:02:04,490 --> 04:02:07,860
+-d Yo, the essence, the basics,
+without it, you naked d
+
+593
+04:02:07,860 --> 04:02:10,800
+d Allow me to make
+this childlike in nature d
+
+594
+04:02:10,800 --> 04:02:13,670
+d Rhythm, you have it
+or you don't, that's a fallacy d
+
+595
+04:02:13,670 --> 04:02:16,470
+d I'm in them, every sproutin'
+tree, every child of peace d
+
+596
+04:02:16,470 --> 04:02:18,940
+d Every cloud and sea,
+you see with your eyes d
+
+597
+04:02:18,940 --> 04:02:21,810
+d I see destruction and demise,
+corruption in disguise d
+
+598
+04:02:21,810 --> 04:02:24,850
+d From this enterprise,
+I'm sucked into your lies d
+
+599
+04:02:24,840 --> 04:02:26,880
+d Through Russel,
+not his muscles but percussion d
+
+600
+04:02:26,880 --> 04:02:29,250
+d He provides
+for me as a guide d
+
+601
+04:02:29,250 --> 04:02:31,820
+d Y'all can see me now
+'cause you don't see
+with your eye d
+
+602
+04:02:31,820 --> 04:02:34,220
+d You perceive with your mind,
+and that's the inner d
+
+603
+04:02:34,220 --> 04:02:37,220
+d So I'm-a stick around
+with Russ and be a mentor d
+
+604
+04:02:37,220 --> 04:02:39,520
+d Clown all these fools,
+make sure they remember d
+
+605
+04:02:39,530 --> 04:02:42,200
+d Where the thought is,
+I brought all this d
+
+606
+04:02:42,200 --> 04:02:44,970
+d So y'all can survive
+when law is lawless d
+
+607
+04:02:44,970 --> 04:02:47,610
+d Feeling sensations
+you thought was dead d
+
+608
+04:02:47,600 --> 04:02:50,400
+d No squealing, remember
+that it's all in your head d
+
+609
+04:02:50,400 --> 04:02:53,170
+-d I ain't happy,
+I'm feeling glad d
+
+610
+04:02:53,170 --> 04:02:55,970
+d I got sunshine in a bag d
+
+611
+04:02:55,980 --> 04:02:58,850
+d I'm useless,
+but not for long d
+
+612
+04:02:58,850 --> 04:03:01,650
+d The future is comin' on d
+
+613
+04:03:01,650 --> 04:03:04,590
+d I ain't happy,
+I'm feeling glad d
+
+614
+04:03:04,590 --> 04:03:07,530
+d I got sunshine in a bag d
+
+615
+04:03:07,520 --> 04:03:10,390
+d I'm useless,
+but not for long d
+
+616
+04:03:10,390 --> 04:03:13,060
+d The future is comin' on d
+
+617
+04:03:13,060 --> 04:03:16,160
+d It's comin' on,
+it's comin' on d
+
+618
+04:03:16,230 --> 04:03:18,900
+d It's comin' on,
+it's comin' on d
+
+619
+04:03:18,900 --> 04:03:21,740
+d The future is comin' on d
+
+620
+04:03:21,740 --> 04:03:24,510
+d It's comin' on,
+it's comin' on d
+
+621
+04:03:24,500 --> 04:03:27,640
+d The future is comin' on d
+
+622
+04:03:27,640 --> 04:03:30,310
+d It's comin' on,
+it's comin' on d
+
+623
+04:03:30,310 --> 04:03:33,150
+d The future is comin' on d
+
+624
+04:03:33,150 --> 04:03:36,120
+d It's comin' on,
+it's comin' on d
+
+625
+04:03:36,120 --> 04:03:38,890
+d The future is comin' on d
+
+626
+04:03:38,890 --> 04:03:41,830
+d It's comin' on,
+it's comin' on d
+
+627
+04:03:41,820 --> 04:03:44,520
+d The future is comin' on d
+
+628
+04:03:44,530 --> 04:03:47,500
+d It's comin' on,
+it's comin' on d
+
+629
+04:03:47,490 --> 04:03:50,260
+d The future is comin' on d
+
+630
+04:03:50,260 --> 04:03:53,200
+d It's comin' on,
+it's comin' on d
+
+631
+04:03:53,200 --> 04:03:56,000
+d The future is comin' on d
+
+632
+04:03:56,000 --> 04:03:58,840
+d It's comin' on,
+it's comin' on d
+
+633
+04:03:58,840 --> 04:04:01,840
+d The future d
 
