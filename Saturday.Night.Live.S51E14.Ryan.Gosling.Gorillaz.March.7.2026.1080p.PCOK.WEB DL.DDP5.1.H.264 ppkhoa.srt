@@ -2006,978 +2006,946 @@ I mark the hours of each day.
 I am a ticking...
 
 422
-00:28:18,028 --> 02:02:30,920
+00:28:18,028 --> 00:28:22,347
 -Okay. Hands and face.
 Hands and face.
 
 423
-02:02:36,060 --> 02:02:37,360
+00:28:25,978 --> 00:28:28,686
 -Can you open the door?
+-No! 
 
 424
-02:02:37,360 --> 02:02:39,100
--No! No.
-
-425
-02:02:39,090 --> 02:02:42,360
+00:28:28,686 --> 00:28:32,627
+No.
 You must answer
 the riddle first.
 
-426
-02:02:42,360 --> 02:02:44,930
+425
+00:28:32,627 --> 00:28:37,241
 I have hands and a face...
-
-427
-02:02:44,930 --> 02:02:47,100
 though I am not of human stock.
 
-428
-02:02:47,100 --> 02:02:49,440
+426
+00:28:37,241 --> 00:28:41,622
 I mark the hours of each day.
-
-429
-02:02:49,440 --> 02:02:51,880
 I am a ticking...
 
-430
-02:02:51,870 --> 02:02:53,470
+427
+00:28:41,622 --> 00:28:43,576
 -Hat.
 -Hat?
 
-431
-02:02:53,470 --> 02:02:56,570
+428
+00:28:43,576 --> 00:28:46,584
 Hat is not the answer we seek.
 
-432
-02:02:56,580 --> 02:02:58,520
+429
+00:28:46,584 --> 00:28:49,701
 The answer was clock.
 
-433
-02:03:00,280 --> 02:03:01,810
+430
+00:28:49,899 --> 00:28:51,924
 -But the door is not open.
 
-434
-02:03:01,810 --> 02:03:05,080
+431
+00:28:51,924 --> 00:28:55,122
 -Okay. Stop. Stop.
 Stop it! Stop!
 
-435
-02:03:05,090 --> 02:03:07,490
+432
+00:28:55,122 --> 00:28:57,865
 My friends, listen, please.
 
-436
-02:03:07,490 --> 02:03:09,430
+433
+00:28:57,865 --> 00:28:59,823
 We want you to win here.
 
-437
-02:03:09,420 --> 02:03:14,530
+434
+00:28:59,823 --> 00:29:04,649
 We have guarded this door
 for 1,000 years.
 
-438
-02:03:14,530 --> 02:03:17,700
+435
+00:29:04,649 --> 00:29:07,937
 Opening it would set us free!
 
-439
-02:03:17,700 --> 02:03:20,440
+436
+00:29:07,937 --> 00:29:11,254
 We will give you another riddle.
 
-440
-02:03:21,900 --> 02:03:25,900
+437
+00:29:11,254 --> 00:29:16,104
 -I cannot be seen
 but can make trees bend.
 
-441
-02:03:25,910 --> 02:03:28,040
+438
+00:29:16,104 --> 00:29:21,207
 I whistle without my mouth.
-
-442
-02:03:28,040 --> 02:03:30,480
 I am the howling...
 
-443
-02:03:32,750 --> 02:03:34,280
+439
+00:29:22,533 --> 00:29:24,531
 Hat!
 -Stop it.
 
-444
-02:03:34,280 --> 02:03:36,720
+440
+00:29:24,531 --> 00:29:27,396
 -No. No, no. Try--
 -Stop, stop, stop!
 
-445
-02:03:36,720 --> 02:03:38,620
+441
+00:29:27,396 --> 00:29:29,001
 -I go into the door.
 -No! Don't go in there!
 
-446
-02:03:38,620 --> 02:03:39,690
-Stop this--
+442
+00:29:29,001 --> 00:29:30,633
 -I'm going in the door.
 
-447
-02:03:39,690 --> 02:03:41,260
+443
+00:29:30,633 --> 00:29:32,980
 -Stop it. Stop.
 Stop it! Go back!
-
-448
-02:03:41,250 --> 02:03:44,620
 -Try again.
+
+444
+00:29:32,980 --> 00:29:35,071
 Think, my friends. Think!
 
-449
-02:03:44,630 --> 02:03:47,170
+445
+00:29:35,071 --> 00:29:38,306
 -Stop! Stop it!
 This is my door! Stop!
 
-450
-02:03:50,100 --> 02:03:53,870
+446
+00:29:40,040 --> 00:29:44,908
 Stop. Please, my Lord.
 Please, God! Stop!
 
-451
-02:03:55,570 --> 02:03:57,370
+447
+00:29:45,168 --> 00:29:48,693
 I'm begging you. Please.
 
-452
-02:03:58,440 --> 02:03:59,510
+448
+00:29:48,693 --> 00:29:51,653
 -Wife. Wife. Wife.
+-Please, God! Please.
 
-453
-02:03:59,510 --> 02:04:03,050
--Please, God! Please. Stop it!
+449
+00:29:51,653 --> 00:29:54,347
+Stop it!
 
-454
-02:04:09,850 --> 02:04:11,150
+450
+00:29:59,795 --> 00:30:02,366
 No!
 
-455
-02:04:13,150 --> 02:04:15,750
+451
+00:30:03,096 --> 00:30:08,241
 I cannot be seen...
-
-456
-02:04:15,760 --> 02:04:18,130
 but make trees bend.
 
-457
-02:04:18,130 --> 02:04:20,260
+452
+00:30:08,241 --> 00:30:13,426
 I whistle without a mouth.
-
-458
-02:04:20,260 --> 02:04:22,360
 I am the howling...
 
-459
-02:04:24,230 --> 02:04:25,600
+453
+00:30:14,187 --> 00:30:17,116
 -Can you open the door?
+-No!
 
-460
-02:04:25,600 --> 02:04:30,670
--No! No, no. One more chance.
+454
+00:30:17,116 --> 00:30:20,888
+ No, no. One more chance.
 
-461
-02:04:30,670 --> 02:04:33,640
+455
+00:30:20,888 --> 00:30:23,543
 -The answer is not hat.
 
-462
-02:04:33,640 --> 02:04:36,580
+456
+00:30:23,543 --> 00:30:26,773
 -I cannot be seen
 but make trees bend.
 
-463
-02:04:36,580 --> 02:04:39,480
+457
+00:30:26,773 --> 00:30:29,766
 I whistle without a mouth.
 I am the howling...
 
-464
-02:04:39,480 --> 02:04:43,320
+458
+00:30:29,766 --> 00:30:34,663
 -And the answer is not...hat.
 
-465
-02:04:46,420 --> 02:04:48,420
+459
+00:30:36,299 --> 00:30:38,220
 -Not hat.
 
-466
-02:04:48,420 --> 02:04:52,160
+460
+00:30:38,220 --> 00:30:43,219
 -Oh. Oh, my God. No.
 The answer was wind!
 
-467
-02:04:53,630 --> 02:04:55,230
+461
+00:30:43,219 --> 00:30:46,004
 -But the wind's not a hat.
 
-468
-02:04:56,400 --> 02:04:58,940
+462
+00:30:46,004 --> 00:30:51,052
 -I guess
 that's technically true.
-
-469
-02:04:58,930 --> 02:05:00,630
 Okay. The wind is not a hat.
 
-470
-02:05:00,630 --> 02:05:04,870
+463
+00:30:51,052 --> 00:30:55,900
 So, um, congratulations.
 You've solved the riddle.
 
-471
-02:05:06,340 --> 02:05:10,440
+464
+00:30:55,900 --> 00:31:01,290
 -The treasure...is yours.
 
-472
-02:05:10,440 --> 02:05:11,910
--Yeah. Yeah.
-
-473
-02:05:16,420 --> 02:05:18,520
+465
+00:31:06,213 --> 00:31:08,335
 -Guys, I got the treasure!
 
-474
-02:05:18,520 --> 02:05:20,960
+466
+00:31:08,335 --> 00:31:11,774
 -No! That's the key
 for the door!
-
-475
-02:05:20,950 --> 02:05:23,350
 That's the--
+
+467
+00:31:11,774 --> 00:31:14,705
 Okay. Fine. Goodbye.
 
-476
-02:05:23,360 --> 02:05:25,030
--Treasure.
--I got the treasure.
+468
+00:31:23,853 --> 00:31:26,135
+Monty
 
-477
-03:00:07,170 --> 03:00:10,140
+469
+00:31:29,044 --> 00:31:32,119
 -Congratulations!
 
-478
-03:00:10,140 --> 03:00:13,810
+470
+00:31:32,119 --> 00:31:35,985
 You special few
 found a golden doughnut
 
-479
-03:00:13,810 --> 03:00:15,480
+471
+00:31:35,985 --> 00:31:38,377
 and have won the chance
+to tour
 
-480
-03:00:15,480 --> 03:00:20,890
-to tour Monty McTreats'
+472
+00:31:38,377 --> 00:31:42,973
+ Monty McTreats'
 famous pastry bakery!
 
-481
-03:00:20,890 --> 03:00:24,290
+473
+00:31:42,973 --> 00:31:46,334
 -And your tour guide will be
 none other than Monty McTreats,
 
-482
-03:00:24,290 --> 03:00:26,590
+474
+00:31:46,334 --> 00:31:49,654
 the famous baker
 of sugary sweets!
 
-483
-03:00:29,130 --> 03:00:31,300
+475
+00:31:50,628 --> 00:31:54,186
 McTreats is a bore!
 
-484
-03:00:32,270 --> 03:00:34,440
+476
+00:31:54,186 --> 00:31:56,345
 On opposite day.
 
-485
-03:00:34,430 --> 03:00:36,930
+477
+00:31:56,345 --> 00:31:59,118
 -It's him!
 -Monty McTreats!
 
-486
-03:00:36,940 --> 03:00:42,210
+478
+00:31:59,118 --> 00:32:00,631
 -'Tis I. 'Tis me.
+
+479
+00:32:00,631 --> 00:32:03,941
 'Tis us. 'Tis we!
 
-487
-03:00:42,210 --> 03:00:46,350
+480
+00:32:03,941 --> 00:32:08,411
 And you lucky few are about
 to be the first visitors ever.
 
-488
-03:00:46,350 --> 03:00:49,850
+481
+00:32:08,411 --> 00:32:12,136
 d Believe me when I say
 you won't believe your eyes d
 
-489
-03:00:49,850 --> 03:00:51,750
+482
+00:32:12,136 --> 00:32:13,913
 d When you lookie
 at our cookies d
 
-490
-03:00:51,750 --> 03:00:53,880
+483
+00:32:13,913 --> 00:32:16,152
 d And you gaze upon our pies d
 
-491
-03:00:53,890 --> 03:00:55,890
+484
+00:32:16,152 --> 00:32:17,991
 -d Our doughnuts
 are the glaziest d
 
-492
-03:00:55,890 --> 03:00:57,660
+485
+00:32:17,991 --> 00:32:19,642
 -d Our waffle cones,
 the tastiest! d
 
-493
-03:00:57,660 --> 03:00:59,330
+486
+00:32:19,642 --> 00:32:21,462
 -d And our cupcakes,
 for goodness' sake d
 
-494
-03:00:59,330 --> 03:01:01,630
+487
+00:32:21,462 --> 00:32:24,280
 d They're simply
 the cupcakiest d
 
-495
-03:01:01,630 --> 03:01:03,730
+488
+00:32:24,280 --> 00:32:28,502
 -Oh, my goodness!
-
-496
-03:01:03,730 --> 03:01:06,370
 What are those
 charming little creatures?
 
-497
-03:01:06,370 --> 03:01:08,970
+489
+00:32:28,502 --> 00:32:31,199
 -Why, those are my Dotey Dee's.
 
-498
-03:01:08,970 --> 03:01:13,540
+490
+00:32:31,199 --> 00:32:36,428
 Over 1,000 of those pudgy
 little pals work in my bakery.
 
-499
-03:01:15,080 --> 03:01:17,250
+491
+00:32:37,091 --> 00:32:39,492
 -d No tummy aches
 or sugar crashes d
 
-500
-03:01:17,240 --> 03:01:19,070
+492
+00:32:39,555 --> 00:32:41,306
 -d Just cupcakes
 and milk mustaches d
 
-501
-03:01:19,080 --> 03:01:21,020
+493
+00:32:41,306 --> 00:32:43,150
 -d Just desserts,
 scores, you'll see d
 
-502
-03:01:21,010 --> 03:01:24,080
+494
+00:32:43,150 --> 00:32:46,072
 -d Open the doors
 and follow me d
 
-503
-03:01:24,080 --> 03:01:28,050
+495
+00:32:46,070 --> 00:32:54,412
 -d Into my tasty pastry d
-
-504
-03:01:28,060 --> 03:01:31,330
 d Bakery d
 
-505
-03:01:35,300 --> 03:01:36,900
+496
+00:32:57,358 --> 00:33:01,522
 -Oh! Oh, my God!
-
-506
-03:01:36,900 --> 03:01:38,900
 A Dotey Dee hung himself
 with the--
 
-507
-03:01:38,900 --> 03:01:40,800
+497
+00:33:01,522 --> 00:33:04,105
 -Shh! Close the door!
-
-508
-03:01:40,800 --> 03:01:42,970
 -Let go of me!
--I'm sorry!
 
-509
-03:01:42,970 --> 03:01:44,710
+498
+00:33:04,210 --> 00:33:06,684
+-I'm sorry!
 The tour will begin soon.
 
-510
-03:01:44,700 --> 03:01:47,570
+499
+00:33:06,684 --> 00:33:09,423
 In the meantime,
 enjoy some cookies.
 
-511
-03:01:47,570 --> 03:01:48,640
+500
+00:33:09,423 --> 00:33:10,460
 -Sir.
 -Yes.
 
-512
-03:01:48,640 --> 03:01:50,580
+501
+00:33:10,460 --> 00:33:12,754
 -The doors are jammed!
 We need Leonard!
 
-513
-03:01:50,580 --> 03:01:52,950
+502
+00:33:12,754 --> 03:01:52,950
 -Who is Leonard?
 -Hello.
 
-514
+503
 03:01:52,950 --> 03:01:54,650
 -Fix the doors
 and cut that thing down.
 
-515
+504
 03:01:54,650 --> 03:01:56,390
 Hey, boys and girls, guess what.
 
-516
+505
 03:01:56,380 --> 03:02:00,020
 The tour is now taking place
 in the loading bay!
 
-517
+506
 03:02:00,020 --> 03:02:01,590
 -Bunch of more dead ones
 back there.
 
-518
+507
 03:02:01,590 --> 03:02:03,290
 -What?!
 -Well, it's springtime.
 
-519
+508
 03:02:03,290 --> 03:02:04,560
 And that's when they mate.
 
-520
+509
 03:02:04,560 --> 03:02:06,730
 And, you know, after they mate,
 the males off themselves
 
-521
+510
 03:02:06,730 --> 03:02:08,630
 to free up resources
 for the women and the baby.
 
-522
+511
 03:02:08,630 --> 03:02:10,700
 -Jesus!
 -Oh, no, it's not sad.
 
-523
+512
 03:02:10,700 --> 03:02:12,000
 It's just what they do.
 
-524
+513
 03:02:12,000 --> 03:02:14,370
 -Don't you know anything
 about their society
 
-525
+514
 03:02:14,370 --> 03:02:16,010
 and culture and religion?
 
-526
+515
 03:02:16,000 --> 03:02:17,770
 -I didn't know
 they had any of that stuff!
 
-527
+516
 03:02:17,770 --> 03:02:19,340
 I thought they were
 like animals!
 
-528
+517
 03:02:19,340 --> 03:02:21,380
 I just shoved them in nets
 and I shipped them here!
 
-529
+518
 03:02:21,380 --> 03:02:22,880
 -You what?
 -What?
 
-530
+519
 03:02:22,880 --> 03:02:24,550
 Hey, look over here.
 
-531
+520
 03:02:24,540 --> 03:02:26,140
 Would you like to hear a joke?
 
-532
+521
 03:02:27,210 --> 03:02:28,780
 Why do golfers love doughnuts?
 
-533
+522
 03:02:28,780 --> 03:02:30,310
 -Excuse me.
 
-534
+523
 03:02:30,320 --> 03:02:32,860
 Isn't there a more respectful
 way to get it down?
 
-535
+524
 03:02:33,550 --> 03:02:35,520
 -Daniel! What are you doing?!
 
-536
+525
 03:02:35,520 --> 03:02:36,990
 -I'm trying to get it down!
 
-537
+526
 03:02:36,990 --> 03:02:39,830
 -Well, if you're just gonna
 poke it with a giant spoon,
 
-538
+527
 03:02:39,830 --> 03:02:42,930
 just-- I would prefer
 that you leave him there.
 
-539
+528
 03:02:42,930 --> 03:02:44,360
 Here's a fun fact.
 
-540
+529
 03:02:45,630 --> 03:02:48,930
 -The walls behind me
 are a thousand cookies tall.
 
-541
+530
 03:02:48,940 --> 03:02:52,940
 Why? To keep
 my secret recipes a secret.
 
-542
+531
 03:02:52,940 --> 03:02:55,980
 -d How do you get
 your jellies' jelly? d
 
-543
+532
 03:02:55,980 --> 03:02:58,680
 -d Two tablespoons of
 I'm not telling d
 
-544
+533
 03:02:58,680 --> 03:03:01,420
 -d How do you make
 a perfect dough? d
 
-545
+534
 03:03:01,410 --> 03:03:04,080
 -d Add a little pinch of
 you'll never know d
 
-546
+535
 03:03:06,390 --> 03:03:07,720
 -God!
 
-547
+536
 03:03:10,120 --> 03:03:12,160
 It's okay. He's just napping.
 
-548
+537
 03:03:12,160 --> 03:03:13,530
 -No one's buying that.
 
-549
+538
 03:03:13,530 --> 03:03:15,700
 -Sir, the doors are working!
 
-550
+539
 03:03:15,700 --> 03:03:17,000
 -Thank God.
 
-551
+540
 03:03:18,300 --> 03:03:20,470
 Pardon our dust, folks.
 
-552
+541
 03:03:20,470 --> 03:03:22,870
 We'll be back
 before you can frost a flake.
 
-553
+542
 03:03:22,870 --> 03:03:24,640
 No, no, no, no,
 no, no, no, no, no!
 
-554
+543
 04:00:04,040 --> 04:00:07,480
 -Ladies and gentlemen, Gorillaz.
 
-555
+544
 04:00:21,790 --> 04:00:24,560
 d I ain't happy,
 I'm feeling glad d
 
-556
+545
 04:00:24,560 --> 04:00:27,500
 d I got sunshine in a bag d
 
-557
+546
 04:00:27,490 --> 04:00:30,430
 d I'm useless,
 but not for long d
 
-558
+547
 04:00:30,430 --> 04:00:33,170
 d The future is comin' on d
 
-559
+548
 04:00:33,170 --> 04:00:35,970
 d I ain't happy,
 I'm feeling glad d
 
-560
+549
 04:00:35,970 --> 04:00:39,040
 d I got sunshine in a bag d
 
-561
+550
 04:00:39,040 --> 04:00:41,980
 d I'm useless,
 but not for long d
 
-562
+551
 04:00:41,980 --> 04:00:44,620
 d The future is comin' on d
 
-563
+552
 04:00:44,610 --> 04:00:47,650
 d It's comin' on,
 it's comin' on d
 
-564
+553
 04:00:47,710 --> 04:00:50,350
 d It's comin' on,
 it's comin' on d
 
-565
+554
 04:00:50,350 --> 04:00:53,190
 -d Yo, finally, someone
 let me out of my cage d
 
-566
+555
 04:00:53,190 --> 04:00:56,330
 d Now time for me is nothing
 'cause I'm countin' no age d
 
-567
+556
 04:00:56,320 --> 04:00:59,090
 d Nah, I couldn't be there,
 no, you shouldn't be scared d
 
-568
+557
 04:00:59,090 --> 04:01:01,860
 d I'm good at repairs,
 and I'm under each snare d
 
-569
+558
 04:01:01,860 --> 04:01:05,330
 d Intangible bet you couldn't
 think, so I command you to d
 
-570
+559
 04:01:05,330 --> 04:01:07,970
 d Panoramic view, yo,
 I'll make it all manageable d
 
-571
+560
 04:01:07,970 --> 04:01:11,040
 d Pick and choose, sit and lose,
 all you different crews d
 
-572
+561
 04:01:11,040 --> 04:01:13,910
 d Chicks and dudes, who you
 think is really kickin' tunes? d
 
-573
+562
 04:01:13,910 --> 04:01:16,680
 d Picture you getting down
 in a picture tube d
 
-574
+563
 04:01:16,680 --> 04:01:18,210
 d Like you lit the fuse d
 
-575
+564
 04:01:18,210 --> 04:01:20,810
 d You think it's fictional,
 mystical, maybe d
 
-576
+565
 04:01:20,810 --> 04:01:23,350
 d Spiritual hero who appears
 on you to clear your view d
 
-577
+566
 04:01:23,350 --> 04:01:24,950
 d When you're too crazy d
 
-578
+567
 04:01:24,950 --> 04:01:27,850
 d Righteous, the simple
 definition for what life is d
 
-579
+568
 04:01:27,860 --> 04:01:30,560
 d Priceless to y'all 'cause
 I put you on the hype d
 
-580
+569
 04:01:30,560 --> 04:01:33,630
 d You like it, gun smokin',
 righteous with one toke d
 
-581
+570
 04:01:33,630 --> 04:01:36,200
 d Psychics among those,
 possess you with one dose d
 
-582
+571
 04:01:36,200 --> 04:01:38,840
 -d I ain't happy,
 I'm feeling glad d
 
-583
+572
 04:01:38,830 --> 04:01:41,770
 d I got sunshine in a bag d
 
-584
+573
 04:01:41,770 --> 04:01:44,740
 d I'm useless,
 but not for long d
 
-585
+574
 04:01:44,740 --> 04:01:47,380
 d The future is comin' on d
 
-586
+575
 04:01:47,370 --> 04:01:50,340
 d I ain't happy,
 I'm feeling glad d
 
-587
+576
 04:01:50,340 --> 04:01:53,310
 d I got sunshine in a bag d
 
-588
+577
 04:01:53,310 --> 04:01:56,150
 d I'm useless,
 but not for long d
 
-589
+578
 04:01:56,150 --> 04:01:58,820
 d The future is comin' on d
 
-590
+579
 04:01:58,820 --> 04:02:01,790
 d It's comin' on,
 it's comin' on d
 
-591
+580
 04:02:01,860 --> 04:02:04,500
 d It's comin' on,
 it's comin' on d
 
-592
+581
 04:02:04,490 --> 04:02:07,860
 -d Yo, the essence, the basics,
 without it, you naked d
 
-593
+582
 04:02:07,860 --> 04:02:10,800
 d Allow me to make
 this childlike in nature d
 
-594
+583
 04:02:10,800 --> 04:02:13,670
 d Rhythm, you have it
 or you don't, that's a fallacy d
 
-595
+584
 04:02:13,670 --> 04:02:16,470
 d I'm in them, every sproutin'
 tree, every child of peace d
 
-596
+585
 04:02:16,470 --> 04:02:18,940
 d Every cloud and sea,
 you see with your eyes d
 
-597
+586
 04:02:18,940 --> 04:02:21,810
 d I see destruction and demise,
 corruption in disguise d
 
-598
+587
 04:02:21,810 --> 04:02:24,850
 d From this enterprise,
 I'm sucked into your lies d
 
-599
+588
 04:02:24,840 --> 04:02:26,880
 d Through Russel,
 not his muscles but percussion d
 
-600
+589
 04:02:26,880 --> 04:02:29,250
 d He provides
 for me as a guide d
 
-601
+590
 04:02:29,250 --> 04:02:31,820
 d Y'all can see me now
 'cause you don't see
 with your eye d
 
-602
+591
 04:02:31,820 --> 04:02:34,220
 d You perceive with your mind,
 and that's the inner d
 
-603
+592
 04:02:34,220 --> 04:02:37,220
 d So I'm-a stick around
 with Russ and be a mentor d
 
-604
+593
 04:02:37,220 --> 04:02:39,520
 d Clown all these fools,
 make sure they remember d
 
-605
+594
 04:02:39,530 --> 04:02:42,200
 d Where the thought is,
 I brought all this d
 
-606
+595
 04:02:42,200 --> 04:02:44,970
 d So y'all can survive
 when law is lawless d
 
-607
+596
 04:02:44,970 --> 04:02:47,610
 d Feeling sensations
 you thought was dead d
 
-608
+597
 04:02:47,600 --> 04:02:50,400
 d No squealing, remember
 that it's all in your head d
 
-609
+598
 04:02:50,400 --> 04:02:53,170
 -d I ain't happy,
 I'm feeling glad d
 
-610
+599
 04:02:53,170 --> 04:02:55,970
 d I got sunshine in a bag d
 
-611
+600
 04:02:55,980 --> 04:02:58,850
 d I'm useless,
 but not for long d
 
-612
+601
 04:02:58,850 --> 04:03:01,650
 d The future is comin' on d
 
-613
+602
 04:03:01,650 --> 04:03:04,590
 d I ain't happy,
 I'm feeling glad d
 
-614
+603
 04:03:04,590 --> 04:03:07,530
 d I got sunshine in a bag d
 
-615
+604
 04:03:07,520 --> 04:03:10,390
 d I'm useless,
 but not for long d
 
-616
+605
 04:03:10,390 --> 04:03:13,060
 d The future is comin' on d
 
-617
+606
 04:03:13,060 --> 04:03:16,160
 d It's comin' on,
 it's comin' on d
 
-618
+607
 04:03:16,230 --> 04:03:18,900
 d It's comin' on,
 it's comin' on d
 
-619
+608
 04:03:18,900 --> 04:03:21,740
 d The future is comin' on d
 
-620
+609
 04:03:21,740 --> 04:03:24,510
 d It's comin' on,
 it's comin' on d
 
-621
+610
 04:03:24,500 --> 04:03:27,640
 d The future is comin' on d
 
-622
+611
 04:03:27,640 --> 04:03:30,310
 d It's comin' on,
 it's comin' on d
 
-623
+612
 04:03:30,310 --> 04:03:33,150
 d The future is comin' on d
 
-624
+613
 04:03:33,150 --> 04:03:36,120
 d It's comin' on,
 it's comin' on d
 
-625
+614
 04:03:36,120 --> 04:03:38,890
 d The future is comin' on d
 
-626
+615
 04:03:38,890 --> 04:03:41,830
 d It's comin' on,
 it's comin' on d
 
-627
+616
 04:03:41,820 --> 04:03:44,520
 d The future is comin' on d
 
-628
+617
 04:03:44,530 --> 04:03:47,500
 d It's comin' on,
 it's comin' on d
 
-629
+618
 04:03:47,490 --> 04:03:50,260
 d The future is comin' on d
 
-630
+619
 04:03:50,260 --> 04:03:53,200
 d It's comin' on,
 it's comin' on d
 
-631
+620
 04:03:53,200 --> 04:03:56,000
 d The future is comin' on d
 
-632
+621
 04:03:56,000 --> 04:03:58,840
 d It's comin' on,
 it's comin' on d
 
-633
+622
 04:03:58,840 --> 04:04:01,840
 d The future d
 
