@@ -1802,11 +1802,11 @@ space and time would collapse.
 to plaque psoriasis.
 
 380
-00:25:23,656 --> 00:25:24,939
+00:25:23,656 --> 00:25:24,984
 -Thanks to Otezla.
 
 381
-00:25:25,036 --> 00:25:28,948
+00:25:24,984 --> 00:25:28,948
 Whatever it may be.
 Or want.
 
@@ -2013,7 +2013,7 @@ Hands and face.
 423
 00:28:25,978 --> 00:28:28,686
 -Can you open the door?
--No! 
+-No!
 
 424
 00:28:28,686 --> 00:28:32,627
@@ -2157,7 +2157,7 @@ I am the howling...
 
 454
 00:30:17,116 --> 00:30:20,888
- No, no. One more chance.
+No, no. One more chance.
 
 455
 00:30:20,888 --> 00:30:23,543
@@ -2239,7 +2239,7 @@ to tour
 
 472
 00:31:38,377 --> 00:31:42,973
- Monty McTreats'
+Monty McTreats'
 famous pastry bakery!
 
 473
@@ -2384,568 +2384,1442 @@ enjoy some cookies.
 We need Leonard!
 
 502
-00:33:12,754 --> 03:01:52,950
+00:33:12,754 --> 00:33:14,926
 -Who is Leonard?
 -Hello.
 
 503
-03:01:52,950 --> 03:01:54,650
+00:33:14,926 --> 00:33:16,644
 -Fix the doors
 and cut that thing down.
 
 504
-03:01:54,650 --> 03:01:56,390
+00:33:16,644 --> 00:33:18,210
 Hey, boys and girls, guess what.
 
 505
-03:01:56,380 --> 03:02:00,020
+00:33:18,210 --> 00:33:21,940
 The tour is now taking place
 in the loading bay!
 
 506
-03:02:00,020 --> 03:02:01,590
+00:33:21,940 --> 00:33:23,674
 -Bunch of more dead ones
 back there.
 
 507
-03:02:01,590 --> 03:02:03,290
+00:33:23,674 --> 00:33:26,427
 -What?!
 -Well, it's springtime.
-
-508
-03:02:03,290 --> 03:02:04,560
 And that's when they mate.
 
-509
-03:02:04,560 --> 03:02:06,730
+508
+00:33:26,427 --> 00:33:30,745
 And, you know, after they mate,
 the males off themselves
-
-510
-03:02:06,730 --> 03:02:08,630
 to free up resources
 for the women and the baby.
 
-511
-03:02:08,630 --> 03:02:10,700
+509
+00:33:30,745 --> 00:33:34,078
 -Jesus!
 -Oh, no, it's not sad.
-
-512
-03:02:10,700 --> 03:02:12,000
 It's just what they do.
 
-513
-03:02:12,000 --> 03:02:14,370
+510
+00:33:34,078 --> 00:33:38,047
 -Don't you know anything
 about their society
-
-514
-03:02:14,370 --> 03:02:16,010
 and culture and religion?
 
-515
-03:02:16,000 --> 03:02:17,770
+511
+00:33:38,047 --> 00:33:41,327
 -I didn't know
 they had any of that stuff!
-
-516
-03:02:17,770 --> 03:02:19,340
 I thought they were
 like animals!
 
-517
-03:02:19,340 --> 03:02:21,380
+512
+00:33:41,327 --> 00:33:43,515
 I just shoved them in nets
 and I shipped them here!
 
-518
-03:02:21,380 --> 03:02:22,880
+513
+00:33:43,515 --> 00:33:44,864
 -You what?
 -What?
 
-519
-03:02:22,880 --> 03:02:24,550
+514
+00:33:44,864 --> 00:33:48,595
 Hey, look over here.
-
-520
-03:02:24,540 --> 03:02:26,140
 Would you like to hear a joke?
 
-521
-03:02:27,210 --> 03:02:28,780
+515
+00:33:48,595 --> 00:33:50,778
 Why do golfers love doughnuts?
 
-522
-03:02:28,780 --> 03:02:30,310
+516
+00:33:50,778 --> 00:33:55,077
 -Excuse me.
-
-523
-03:02:30,320 --> 03:02:32,860
 Isn't there a more respectful
 way to get it down?
 
-524
-03:02:33,550 --> 03:02:35,520
+517
+00:33:55,077 --> 00:33:58,992
 -Daniel! What are you doing?!
-
-525
-03:02:35,520 --> 03:02:36,990
 -I'm trying to get it down!
 
-526
-03:02:36,990 --> 03:02:39,830
+518
+00:33:58,992 --> 00:34:02,286
 -Well, if you're just gonna
-poke it with a giant spoon,
+poke it with a giant spoon, just--
 
-527
-03:02:39,830 --> 03:02:42,930
-just-- I would prefer
+519
+00:34:02,286 --> 00:34:04,773
+I would prefer
 that you leave him there.
 
-528
-03:02:42,930 --> 03:02:44,360
+520
+00:34:04,773 --> 00:34:06,851
 Here's a fun fact.
 
-529
-03:02:45,630 --> 03:02:48,930
+521
+00:34:06,851 --> 00:34:10,764
 -The walls behind me
 are a thousand cookies tall.
 
-530
-03:02:48,940 --> 03:02:52,940
+522
+00:34:10,764 --> 00:34:15,287
 Why? To keep
 my secret recipes a secret.
 
-531
-03:02:52,940 --> 03:02:55,980
+523
+00:34:15,287 --> 00:34:18,002
 -d How do you get
 your jellies' jelly? d
 
-532
-03:02:55,980 --> 03:02:58,680
+524
+00:34:18,002 --> 00:34:20,697
 -d Two tablespoons of
 I'm not telling d
 
-533
-03:02:58,680 --> 03:03:01,420
+525
+00:34:20,697 --> 00:34:23,501
 -d How do you make
 a perfect dough? d
 
-534
-03:03:01,410 --> 03:03:04,080
+526
+00:34:23,501 --> 00:34:27,034
 -d Add a little pinch of
 you'll never know d
 
-535
-03:03:06,390 --> 03:03:07,720
+527
+00:34:27,919 --> 00:34:30,389
 -God!
 
-536
-03:03:10,120 --> 03:03:12,160
+528
+00:34:31,752 --> 00:34:34,201
 It's okay. He's just napping.
 
-537
-03:03:12,160 --> 03:03:13,530
+529
+00:34:34,201 --> 00:34:35,721
 -No one's buying that.
 
-538
-03:03:13,530 --> 03:03:15,700
+530
+00:34:35,721 --> 00:34:39,858
 -Sir, the doors are working!
-
-539
-03:03:15,700 --> 03:03:17,000
 -Thank God.
 
-540
-03:03:18,300 --> 03:03:20,470
+531
+00:34:39,858 --> 00:34:44,945
 Pardon our dust, folks.
-
-541
-03:03:20,470 --> 03:03:22,870
 We'll be back
 before you can frost a flake.
 
-542
-03:03:22,870 --> 03:03:24,640
+532
+00:34:44,945 --> 00:34:47,335
 No, no, no, no,
 no, no, no, no, no!
 
-543
-04:00:04,040 --> 04:00:07,480
+533
+00:35:02,569 --> 00:35:07,222
 -Ladies and gentlemen, Gorillaz.
 
+534
+00:35:07,222 --> 00:35:12,847
+Clint
+
+535
+00:35:20,316 --> 00:35:23,632
+d I ain't happy,
+I'm feeling glad d
+
+536
+00:35:23,632 --> 00:35:26,521
+d I got sunshine in a bag d
+
+537
+00:35:26,521 --> 00:35:29,477
+d I'm useless,
+but not for long d
+
+538
+00:35:29,477 --> 00:35:32,178
+d The future is comin' on d
+
+539
+00:35:32,178 --> 00:35:35,113
+d I ain't happy,
+I'm feeling glad d
+
+540
+00:35:35,113 --> 00:35:37,928
+d I got sunshine in a bag d
+
+541
+00:35:37,928 --> 00:35:40,793
+d I'm useless,
+but not for long d
+
+542
+00:35:40,793 --> 00:35:43,599
+d The future is comin' on d
+
+543
+00:35:43,599 --> 00:35:49,396
+d It's comin' on,
+it's comin' on d
+d It's comin' on,
+it's comin' on d
+
 544
-04:00:21,790 --> 04:00:24,560
-d I ain't happy,
-I'm feeling glad d
-
-545
-04:00:24,560 --> 04:00:27,500
-d I got sunshine in a bag d
-
-546
-04:00:27,490 --> 04:00:30,430
-d I'm useless,
-but not for long d
-
-547
-04:00:30,430 --> 04:00:33,170
-d The future is comin' on d
-
-548
-04:00:33,170 --> 04:00:35,970
-d I ain't happy,
-I'm feeling glad d
-
-549
-04:00:35,970 --> 04:00:39,040
-d I got sunshine in a bag d
-
-550
-04:00:39,040 --> 04:00:41,980
-d I'm useless,
-but not for long d
-
-551
-04:00:41,980 --> 04:00:44,620
-d The future is comin' on d
-
-552
-04:00:44,610 --> 04:00:47,650
-d It's comin' on,
-it's comin' on d
-
-553
-04:00:47,710 --> 04:00:50,350
-d It's comin' on,
-it's comin' on d
-
-554
-04:00:50,350 --> 04:00:53,190
+00:35:49,396 --> 00:35:52,200
 -d Yo, finally, someone
 let me out of my cage d
 
-555
-04:00:53,190 --> 04:00:56,330
+545
+00:35:52,200 --> 00:35:55,026
 d Now time for me is nothing
 'cause I'm countin' no age d
 
-556
-04:00:56,320 --> 04:00:59,090
+546
+00:35:55,026 --> 00:35:57,875
 d Nah, I couldn't be there,
 no, you shouldn't be scared d
 
-557
-04:00:59,090 --> 04:01:01,860
+547
+00:35:57,875 --> 00:36:00,730
 d I'm good at repairs,
 and I'm under each snare d
 
-558
-04:01:01,860 --> 04:01:05,330
+548
+00:36:00,730 --> 00:36:03,922
 d Intangible bet you couldn't
 think, so I command you to d
 
-559
-04:01:05,330 --> 04:01:07,970
+549
+00:36:03,922 --> 04:01:07,970
 d Panoramic view, yo,
 I'll make it all manageable d
 
-560
+550
 04:01:07,970 --> 04:01:11,040
 d Pick and choose, sit and lose,
 all you different crews d
 
-561
+551
 04:01:11,040 --> 04:01:13,910
 d Chicks and dudes, who you
 think is really kickin' tunes? d
 
-562
+552
 04:01:13,910 --> 04:01:16,680
 d Picture you getting down
 in a picture tube d
 
-563
+553
 04:01:16,680 --> 04:01:18,210
 d Like you lit the fuse d
 
-564
+554
 04:01:18,210 --> 04:01:20,810
 d You think it's fictional,
 mystical, maybe d
 
-565
+555
 04:01:20,810 --> 04:01:23,350
 d Spiritual hero who appears
 on you to clear your view d
 
-566
+556
 04:01:23,350 --> 04:01:24,950
 d When you're too crazy d
 
-567
+557
 04:01:24,950 --> 04:01:27,850
 d Righteous, the simple
 definition for what life is d
 
-568
+558
 04:01:27,860 --> 04:01:30,560
 d Priceless to y'all 'cause
 I put you on the hype d
 
-569
+559
 04:01:30,560 --> 04:01:33,630
 d You like it, gun smokin',
 righteous with one toke d
 
-570
+560
 04:01:33,630 --> 04:01:36,200
 d Psychics among those,
 possess you with one dose d
 
-571
+561
 04:01:36,200 --> 04:01:38,840
 -d I ain't happy,
 I'm feeling glad d
 
-572
+562
 04:01:38,830 --> 04:01:41,770
 d I got sunshine in a bag d
 
-573
+563
 04:01:41,770 --> 04:01:44,740
 d I'm useless,
 but not for long d
 
-574
+564
 04:01:44,740 --> 04:01:47,380
 d The future is comin' on d
 
-575
+565
 04:01:47,370 --> 04:01:50,340
 d I ain't happy,
 I'm feeling glad d
 
-576
+566
 04:01:50,340 --> 04:01:53,310
 d I got sunshine in a bag d
 
-577
+567
 04:01:53,310 --> 04:01:56,150
 d I'm useless,
 but not for long d
 
-578
+568
 04:01:56,150 --> 04:01:58,820
 d The future is comin' on d
 
-579
+569
 04:01:58,820 --> 04:02:01,790
 d It's comin' on,
 it's comin' on d
 
-580
+570
 04:02:01,860 --> 04:02:04,500
 d It's comin' on,
 it's comin' on d
 
-581
+571
 04:02:04,490 --> 04:02:07,860
 -d Yo, the essence, the basics,
 without it, you naked d
 
-582
+572
 04:02:07,860 --> 04:02:10,800
 d Allow me to make
 this childlike in nature d
 
-583
+573
 04:02:10,800 --> 04:02:13,670
 d Rhythm, you have it
 or you don't, that's a fallacy d
 
-584
+574
 04:02:13,670 --> 04:02:16,470
 d I'm in them, every sproutin'
 tree, every child of peace d
 
-585
+575
 04:02:16,470 --> 04:02:18,940
 d Every cloud and sea,
 you see with your eyes d
 
-586
+576
 04:02:18,940 --> 04:02:21,810
 d I see destruction and demise,
 corruption in disguise d
 
-587
+577
 04:02:21,810 --> 04:02:24,850
 d From this enterprise,
 I'm sucked into your lies d
 
-588
+578
 04:02:24,840 --> 04:02:26,880
 d Through Russel,
 not his muscles but percussion d
 
-589
+579
 04:02:26,880 --> 04:02:29,250
 d He provides
 for me as a guide d
 
-590
+580
 04:02:29,250 --> 04:02:31,820
 d Y'all can see me now
 'cause you don't see
 with your eye d
 
-591
+581
 04:02:31,820 --> 04:02:34,220
 d You perceive with your mind,
 and that's the inner d
 
-592
+582
 04:02:34,220 --> 04:02:37,220
 d So I'm-a stick around
 with Russ and be a mentor d
 
-593
+583
 04:02:37,220 --> 04:02:39,520
 d Clown all these fools,
 make sure they remember d
 
-594
+584
 04:02:39,530 --> 04:02:42,200
 d Where the thought is,
 I brought all this d
 
-595
+585
 04:02:42,200 --> 04:02:44,970
 d So y'all can survive
 when law is lawless d
 
-596
+586
 04:02:44,970 --> 04:02:47,610
 d Feeling sensations
 you thought was dead d
 
-597
+587
 04:02:47,600 --> 04:02:50,400
 d No squealing, remember
 that it's all in your head d
 
-598
+588
 04:02:50,400 --> 04:02:53,170
 -d I ain't happy,
 I'm feeling glad d
 
-599
+589
 04:02:53,170 --> 04:02:55,970
 d I got sunshine in a bag d
 
-600
+590
 04:02:55,980 --> 04:02:58,850
 d I'm useless,
 but not for long d
 
-601
+591
 04:02:58,850 --> 04:03:01,650
 d The future is comin' on d
 
-602
+592
 04:03:01,650 --> 04:03:04,590
 d I ain't happy,
 I'm feeling glad d
 
-603
+593
 04:03:04,590 --> 04:03:07,530
 d I got sunshine in a bag d
 
-604
+594
 04:03:07,520 --> 04:03:10,390
 d I'm useless,
 but not for long d
 
-605
+595
 04:03:10,390 --> 04:03:13,060
 d The future is comin' on d
 
-606
+596
 04:03:13,060 --> 04:03:16,160
 d It's comin' on,
 it's comin' on d
 
-607
+597
 04:03:16,230 --> 04:03:18,900
 d It's comin' on,
 it's comin' on d
 
-608
+598
 04:03:18,900 --> 04:03:21,740
 d The future is comin' on d
 
-609
+599
 04:03:21,740 --> 04:03:24,510
 d It's comin' on,
 it's comin' on d
 
-610
+600
 04:03:24,500 --> 04:03:27,640
 d The future is comin' on d
 
-611
+601
 04:03:27,640 --> 04:03:30,310
 d It's comin' on,
 it's comin' on d
 
-612
+602
 04:03:30,310 --> 04:03:33,150
 d The future is comin' on d
 
-613
+603
 04:03:33,150 --> 04:03:36,120
 d It's comin' on,
 it's comin' on d
 
-614
+604
 04:03:36,120 --> 04:03:38,890
 d The future is comin' on d
 
-615
+605
 04:03:38,890 --> 04:03:41,830
 d It's comin' on,
 it's comin' on d
 
-616
+606
 04:03:41,820 --> 04:03:44,520
 d The future is comin' on d
 
-617
+607
 04:03:44,530 --> 04:03:47,500
 d It's comin' on,
 it's comin' on d
 
-618
+608
 04:03:47,490 --> 04:03:50,260
 d The future is comin' on d
 
-619
+609
 04:03:50,260 --> 04:03:53,200
 d It's comin' on,
 it's comin' on d
 
-620
+610
 04:03:53,200 --> 04:03:56,000
 d The future is comin' on d
 
-621
+611
 04:03:56,000 --> 04:03:58,840
 d It's comin' on,
 it's comin' on d
 
-622
+612
 04:03:58,840 --> 04:04:01,840
 d The future d
+
+613
+05:00:02,670 --> 05:00:06,610
+-It's "Weekend Update"
+with Colin Jost and Michael Che.
+
+614
+05:00:13,110 --> 05:00:16,050
+-Thank you.
+Thank you very much.
+
+615
+05:00:16,050 --> 05:00:17,850
+Thank you. Thank you.
+Good evening, everyone.
+
+616
+05:00:17,850 --> 05:00:19,290
+-Welcome to "Weekend Update."
+I'm Michael Che.
+
+617
+05:00:19,290 --> 05:00:20,690
+-I'm Colin Jost.
+
+618
+05:00:23,020 --> 05:00:26,260
+Well, Homeland Security
+Secretary Kristi Noem
+
+619
+05:00:26,260 --> 05:00:27,860
+has been fired.
+
+620
+05:00:32,000 --> 05:00:34,130
+Wait. What? Why?!
+
+621
+05:00:35,030 --> 05:00:36,330
+I mean, name one...
+
+622
+05:00:36,340 --> 05:00:38,980
+to 20 things she did wrong.
+
+623
+05:00:38,970 --> 05:00:43,110
+Was it calling the innocent guy
+they shot a domestic terrorist?
+
+624
+05:00:43,110 --> 05:00:48,080
+Was it spending $220 million of
+taxpayer money on an ad campaign
+
+625
+05:00:48,080 --> 05:00:51,020
+where she dressed up
+like Jessie from "Toy Story"?
+
+626
+05:00:53,120 --> 05:00:56,120
+She's so happy
+riding the horse in this.
+
+627
+05:00:56,120 --> 05:00:58,760
+I bet his name
+is Corey Lewandowski.
+
+628
+05:01:02,200 --> 05:01:05,140
+You know, on some level,
+I feel bad for Kristi Noem.
+
+629
+05:01:05,130 --> 05:01:09,870
+Imagine being singled out as the
+worst member of Trump's cabinet.
+
+630
+05:01:09,870 --> 05:01:12,040
+That's like someone
+coming up to you at a party
+
+631
+05:01:12,040 --> 05:01:13,910
+and saying,
+"We think you should leave.
+
+632
+05:01:13,910 --> 05:01:16,050
+You're making Diddy
+uncomfortable."
+
+633
+05:01:18,850 --> 05:01:21,790
+-President Trump said
+he will reassign Kristi Noem
+
+634
+05:01:21,780 --> 05:01:25,320
+to be Special Envoy
+for the Shield of the Americas,
+
+635
+05:01:25,320 --> 05:01:29,220
+which is a brand-new department
+located on a farm upstate.
+
+636
+05:01:30,690 --> 05:01:34,630
+The CIA is reportedly working
+to arm local militias in Iran
+
+637
+05:01:34,630 --> 05:01:37,270
+with the hopes
+that they will lead an uprising.
+
+638
+05:01:37,260 --> 05:01:39,330
+Hey, it worked great
+in Afghanistan.
+
+639
+05:01:41,870 --> 05:01:44,340
+President Trump said
+that he should be involved
+
+640
+05:01:44,340 --> 05:01:46,940
+in choosing Iran's
+next supreme leader,
+
+641
+05:01:46,940 --> 05:01:48,880
+So congrats to new
+supreme leader
+
+642
+05:01:48,880 --> 05:01:50,920
+Ayatollah Jared Kushnari.
+
+643
+05:01:54,520 --> 05:01:57,190
+-The prediction market site
+Kalshi is being sued
+
+644
+05:01:57,180 --> 05:02:00,420
+for failing to pay out
+$54 million to people
+
+645
+05:02:00,420 --> 05:02:02,290
+who bet that
+the Ayatollah Khomeini
+
+646
+05:02:02,290 --> 05:02:05,260
+would leave office
+before March 1st.
+
+647
+05:02:05,260 --> 05:02:08,000
+Because, technically,
+he never really left the office.
+
+648
+05:02:10,030 --> 05:02:14,500
+Oh, a lot of Ayatollah fans
+here tonight. Wow.
+
+649
+05:02:14,500 --> 05:02:16,570
+-Donald Trump announced
+that he will attend
+
+650
+05:02:16,570 --> 05:02:18,510
+the White House
+Correspondents' Dinner,
+
+651
+05:02:18,500 --> 05:02:22,240
+which will be hosted by
+famous mind reader Oz Pearlman.
+
+652
+05:02:22,240 --> 05:02:24,480
+Big deal.
+Even I can read Trump's mind.
+
+653
+05:02:24,480 --> 05:02:26,150
+Uh, dementia.
+
+654
+05:02:29,380 --> 05:02:31,750
+-Officials in New Mexico
+are reopening investigations
+
+655
+05:02:31,750 --> 05:02:34,350
+into the ranch
+that Jeffrey Epstein owned.
+
+656
+05:02:34,350 --> 05:02:36,020
+And they should have known
+something was up
+
+657
+05:02:36,020 --> 05:02:38,790
+when Epstein's ranch
+was all ponies.
+
+658
+05:02:38,790 --> 05:02:40,430
+[ Laughter and groans ]
+
+659
+05:02:42,400 --> 05:02:43,900
+-Really bumming 'em out
+there, Jost.
+
+660
+05:02:43,900 --> 05:02:45,070
+-Yep!
+
+661
+05:02:46,930 --> 05:02:49,730
+-Health Secretary
+Robert F. Kennedy Jr.,
+
+662
+05:02:49,740 --> 05:02:52,110
+who is what happens
+if you leave Walton Goggins
+
+663
+05:02:52,100 --> 05:02:53,700
+in an air fryer...
+
+664
+05:02:55,780 --> 05:02:57,720
+-That's fun.
+
+665
+05:02:57,710 --> 05:03:00,550
+-...said that he will challenge
+Dunkin' Donuts to prove
+
+666
+05:03:00,550 --> 05:03:03,320
+that their sugary drinks
+are safe.
+
+667
+05:03:03,320 --> 05:03:04,720
+You know what that means.
+
+668
+05:03:04,720 --> 05:03:06,890
+A push-up contest
+with Ben Affleck.
+
+669
+05:03:09,160 --> 05:03:11,700
+-A rash has appeared
+on President Trump's neck,
+
+670
+05:03:11,690 --> 05:03:14,020
+which is just above his collar.
+
+671
+05:03:14,030 --> 05:03:17,400
+Apparently, someone accidentally
+washed his shirt in holy water.
+
+672
+05:03:27,340 --> 05:03:29,640
+-Warner Bros...
+
+673
+05:03:29,640 --> 05:03:32,440
+Warner Bros. World Abu Dhabi
+is officially developing
+
+674
+05:03:32,450 --> 05:03:35,920
+a "Harry Potter"-themed land
+in the United Arab Emirates,
+
+675
+05:03:35,920 --> 05:03:39,460
+so hopefully they know the spell
+for missilum deflectus.
+
+676
+05:03:43,920 --> 05:03:46,420
+- I love it.
+
+677
+05:03:46,430 --> 05:03:49,900
+Two employees at a Smoothie King
+in Michigan were reportedly
+
+678
+05:03:49,900 --> 05:03:52,700
+fired after refusing
+to serve a smoothie to a man
+
+679
+05:03:52,700 --> 05:03:54,870
+who was wearing
+a President Trump hoodie,
+
+680
+05:03:54,870 --> 05:03:56,140
+which is crazy.
+
+681
+05:03:56,140 --> 05:03:57,670
+I mean,
+what happened to being civil
+
+682
+05:03:57,670 --> 05:04:00,310
+and just serving a smoothie
+with spit in it?
+
+683
+05:04:03,340 --> 05:04:05,080
+-Timothee Chalamet
+is being criticized
+
+684
+05:04:05,080 --> 05:04:07,920
+by major opera and ballet
+organizations
+
+685
+05:04:07,910 --> 05:04:11,450
+after he said that "no one
+cares" about those art forms.
+
+686
+05:04:11,450 --> 05:04:13,820
+Chalamet made the comment
+on a press tour
+
+687
+05:04:13,820 --> 05:04:16,260
+for his movie about ping-pong.
+
+688
+05:04:20,290 --> 05:04:22,620
+-A passenger on Japan Airlines
+
+689
+05:04:22,630 --> 05:04:25,470
+posted a picture
+of a seat cushion on the plane
+
+690
+05:04:25,460 --> 05:04:28,860
+that features a cheek-splitter
+wedge in the middle,
+
+691
+05:04:28,870 --> 05:04:30,770
+which is very confusing
+because "Cheek Splitter"
+
+692
+05:04:30,770 --> 05:04:34,070
+is also the Japanese title
+for "Heated Rivalry."
+
+693
+05:04:41,380 --> 05:04:43,780
+-In the front row,
+that got a couple...
+
+694
+05:04:45,820 --> 05:04:48,420
+-An etiquette expert
+is saying that the proper way
+
+695
+05:04:48,420 --> 05:04:51,220
+to eat cereal
+is with a spoon in one hand
+
+696
+05:04:51,230 --> 05:04:53,230
+and a fork in the other.
+
+697
+05:04:53,230 --> 05:04:55,730
+The fork is to attack
+anyone that comes for...
+
+698
+05:04:55,730 --> 05:04:57,500
+...me Lucky Charms.
+
+699
+05:05:01,070 --> 05:05:03,170
+-This is so...
+
+700
+05:05:03,170 --> 05:05:04,870
+-Astronomers say
+that they have discovered
+
+701
+05:05:04,870 --> 05:05:07,270
+what they are calling
+a dark galaxy...
+
+702
+05:05:07,270 --> 05:05:09,970
+after they got off
+the wrong exit in Atlanta.
+
+703
+05:05:14,150 --> 05:05:16,050
+-Kentucky police
+arrested a man
+
+704
+05:05:16,050 --> 05:05:19,020
+after he was caught having sex
+with a dead deer.
+
+705
+05:05:20,420 --> 05:05:22,920
+I know. Worse, it wasn't dead
+when he started.
+
+706
+05:05:24,460 --> 05:05:26,400
+Thank you. Thank you.
+
+707
+05:05:29,160 --> 05:05:32,900
+-This is a weird transition.
+March is Women's History Month.
+
+708
+05:05:34,770 --> 05:05:37,040
+Yeah. Women's History Month.
+
+709
+05:05:38,400 --> 05:05:39,800
+Women's History Month.
+
+710
+05:05:39,810 --> 05:05:42,410
+Celebrating all those ladies
+who did that stuff.
+
+711
+05:05:42,410 --> 05:05:44,050
+Good job, girlies!
+
+712
+05:05:49,520 --> 05:05:51,490
+-This is our Emmy show.
+
+713
+06:00:01,240 --> 06:00:02,440
+-With so much negativity
+in the world,
+
+714
+06:00:02,440 --> 06:00:04,110
+I thought we all needed
+a little boost,
+
+715
+06:00:04,100 --> 06:00:06,640
+so since it's technically
+Sunday morning,
+
+716
+06:00:06,640 --> 06:00:08,410
+I asked the official
+"Weekend Update" pastor
+
+717
+06:00:08,410 --> 06:00:10,180
+to give us a little uplift.
+
+718
+06:00:10,180 --> 06:00:12,880
+Please welcome Pastor Update
+and his band leader, Teddy!
+
+719
+06:00:12,880 --> 06:00:14,050
+-Hoo!
+
+720
+06:00:15,780 --> 06:00:18,880
+-Hey.
+-Blessings.
+
+721
+06:00:18,890 --> 06:00:20,260
+Blessings indeed.
+-Blessings, blessings.
+
+722
+06:00:20,250 --> 06:00:22,050
+-Blessings, Che.
+
+723
+06:00:22,050 --> 06:00:23,850
+I want to thank you
+for having me back here
+
+724
+06:00:23,860 --> 06:00:26,300
+on the "Weekend Update"
+television show.
+
+725
+06:00:26,290 --> 06:00:28,660
+-Welcome. So you got
+a prayer for us, Pastor?
+
+726
+06:00:28,660 --> 06:00:30,630
+-Oh, I sure do. Teddy, why
+don't you help me out here?
+
+727
+06:00:30,630 --> 06:00:32,160
+-Hey, I'm right here
+with you, pastor.
+
+728
+06:00:32,160 --> 06:00:33,360
+-Alright.
+
+729
+06:00:34,870 --> 06:00:36,570
+Father God, Lord Jesus.
+
+730
+06:00:38,010 --> 06:00:41,450
+I want to thank the Lord
+for bringing me here today.
+
+731
+06:00:41,440 --> 06:00:44,340
+Into this beautiful building.
+
+732
+06:00:44,340 --> 06:00:46,880
+With the beautiful snacks
+in the green room.
+
+733
+06:00:47,980 --> 06:00:50,180
+d Cheese cubes d
+
+734
+06:00:50,180 --> 06:00:52,380
+d Chicken Caesar wrap d
+
+735
+06:00:52,390 --> 06:00:55,360
+d Little chopped-up
+room-temperature fruit d
+
+736
+06:00:56,360 --> 06:00:58,560
+d Honeydew melons d
+
+737
+06:00:58,560 --> 06:01:00,890
+d Cantaloupe melons d
+
+738
+06:01:00,890 --> 06:01:03,630
+d Chunks of pineapple
+that taste like melon
+
+739
+06:01:03,630 --> 06:01:06,700
+'cause they've been touching the
+rest of the melon for too long d
+
+740
+06:01:06,700 --> 06:01:08,800
+Amen! Mmm-mmm-mmm!
+
+741
+06:01:08,800 --> 06:01:10,240
+-Amen, brother.
+-Yeah.
+
+742
+06:01:10,240 --> 06:01:11,810
+- Hey.
+
+743
+06:01:11,810 --> 06:01:13,580
+-Uh, what'd you think
+about them snacks, Teddy?
+
+744
+06:01:13,570 --> 06:01:15,540
+-Hey, you can have
+all the meat you want,
+
+745
+06:01:15,540 --> 06:01:18,380
+but if it ain't a sandwich,
+you ain't got no bread, alright?
+
+746
+06:01:21,750 --> 06:01:23,850
+-Huh. Okay.
+
+747
+06:01:25,890 --> 06:01:28,020
+-I mean, that was great,
+but I was kind of hoping
+
+748
+06:01:28,020 --> 06:01:30,960
+you could say something that
+would feel, you know, unifying.
+
+749
+06:01:30,960 --> 06:01:33,460
+-Oh, oh, absolutely.
+Bow your head.
+
+750
+06:01:33,460 --> 06:01:34,630
+-Okay.
+
+751
+06:01:34,630 --> 06:01:37,170
+-Father God, Lord Jesus.
+
+752
+06:01:37,160 --> 06:01:38,860
+We gots to come together.
+
+753
+06:01:39,730 --> 06:01:42,430
+No matter who you are or...
+
+754
+06:01:42,440 --> 06:01:45,410
+no matter what your skin color.
+
+755
+06:01:45,410 --> 06:01:49,550
+d No matter if you's a man
+or a woman d
+
+756
+06:01:49,540 --> 06:01:52,880
+d I especially want to thank God
+for making woman d
+
+757
+06:01:52,880 --> 06:01:55,420
+d Beautiful woman d
+Y'all know the kind.
+
+758
+06:01:56,150 --> 06:01:59,320
+d Apple bottom jeans d
+
+759
+06:01:59,320 --> 06:02:02,360
+d Boots with the fur d
+
+760
+06:02:02,360 --> 06:02:03,960
+d Big old forehead d
+
+761
+06:02:04,890 --> 06:02:07,560
+d And the curvature, hm d
+
+762
+06:02:08,530 --> 06:02:12,000
+Oh, we love the curvature of an
+ample, big-foreheaded woman.
+
+763
+06:02:13,300 --> 06:02:15,570
+Rihanna.
+
+764
+06:02:15,570 --> 06:02:17,510
+Tyra.
+
+765
+06:02:17,500 --> 06:02:19,170
+Zooey Deschanel.
+
+766
+06:02:19,970 --> 06:02:21,710
+Whatcha hidin' under them bangs?
+
+767
+06:02:21,710 --> 06:02:24,410
+d I know it's crazy d
+
+768
+06:02:24,410 --> 06:02:26,810
+Amen! Amen!
+
+769
+06:02:28,010 --> 06:02:29,580
+What's your thoughts
+on that, Teddy?
+
+770
+06:02:29,580 --> 06:02:31,380
+-Hey, if you shake it
+more than twice,
+
+771
+06:02:31,380 --> 06:02:32,880
+you're playing with it, alright?
+
+772
+06:02:37,360 --> 06:02:40,000
+-You okay, Teddy?
+
+773
+06:02:39,990 --> 06:02:41,860
+-Well, speaking of bang-bang...
+
+774
+06:02:41,860 --> 06:02:44,860
+uh, Che, whatever happened
+to that rendezvous
+
+775
+06:02:44,870 --> 06:02:46,610
+that you had with
+"Abbott Elementary's"
+
+776
+06:02:46,600 --> 06:02:48,340
+Sheryl Lee Ralph?
+
+777
+06:02:48,340 --> 06:02:50,410
+-I don't know
+Sheryl Lee Ralph.
+
+778
+06:02:50,400 --> 06:02:51,970
+-Oh, that's not
+what you told me.
+
+779
+06:02:51,970 --> 06:02:54,340
+You said that you wanted her
+to Sheryl on your Lee
+
+780
+06:02:54,340 --> 06:02:55,510
+until you Ralphed.
+
+781
+06:02:55,510 --> 06:02:56,780
+-No!
+
+782
+06:02:56,780 --> 06:02:58,520
+I have never met
+Sheryl Lee Ralph.
+
+783
+06:02:58,510 --> 06:03:00,180
+Look, I'm just asking
+for a nice prayer.
+
+784
+06:03:00,180 --> 06:03:02,220
+Something that gives
+everybody encouragement.
+
+785
+06:03:02,220 --> 06:03:04,820
+-Oh, oh, I see.
+Well, why didn't you say so?
+
+786
+06:03:04,820 --> 06:03:06,520
+Come on. Come on.
+Pray with me, Che.
+
+787
+06:03:06,520 --> 06:03:08,460
+-Okay.
+
+788
+06:03:08,460 --> 06:03:09,900
+-Father God, Lord Jesus.
+
+789
+06:03:11,090 --> 06:03:13,330
+We pray that Che finds peace.
+
+790
+06:03:14,330 --> 06:03:16,200
+We pray that he finds love.
+
+791
+06:03:17,060 --> 06:03:19,260
+We pray that he gets off
+that laptop
+
+792
+06:03:19,270 --> 06:03:21,400
+looking at them nasty pictures
+on the computer.
+
+793
+06:03:21,400 --> 06:03:22,430
+-Whoa!
+
+794
+06:03:22,440 --> 06:03:24,940
+-d Nasty videos d
+
+795
+06:03:24,940 --> 06:03:27,110
+d 'Cause, Lord, Che is goonin' d
+
+796
+06:03:28,140 --> 06:03:30,210
+d Goonin' in the living room d
+
+797
+06:03:30,210 --> 06:03:31,650
+-Stop hitting me, man!
+
+798
+06:03:31,650 --> 06:03:33,820
+-d Goonin' in the kitchen,
+Lord d
+
+799
+06:03:33,810 --> 06:03:36,350
+d He's goonin' in his office
+with the door locked d
+
+800
+06:03:37,120 --> 06:03:40,160
+d Laptop heavy with sin d
+
+801
+06:03:40,150 --> 06:03:43,490
+Computer got so many viruses
+than he do.
+
+802
+06:03:45,360 --> 06:03:49,030
+d Laptop sound like a lawn mower
+when he turn it on d
+
+803
+06:03:49,030 --> 06:03:51,970
+-That is enough.
+Pastor Update, everybody.
+
+804
+06:03:51,970 --> 06:03:53,870
+-Well, stop the goonin', Che.
+-I'm not goonin'!
+
+805
+06:03:53,870 --> 06:03:55,470
+For "Weekend Update,"
+I'm Michael Che.
+
+806
+06:03:55,470 --> 06:03:57,110
+-And I'm Colin Jost. Good night.
+
+807
+06:03:57,100 --> 06:04:02,600
+dd
 
