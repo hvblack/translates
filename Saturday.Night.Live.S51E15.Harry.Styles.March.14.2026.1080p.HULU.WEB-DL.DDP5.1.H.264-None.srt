@@ -1574,7 +1574,6 @@ WITH A CRUISE.
 
 329
 00:21:21,012 --> 00:21:24,212
-SPANK
 SPARKLE OF THE SEA.
 
 330
@@ -1685,7 +1684,7 @@ Jurgen Sex-Mueller!
 Let's go!
 
 352
-00:22:50,223 --> 00:22:53,842
+00:22:50,323 --> 00:22:53,842
 Done
 Sorry
 
@@ -2358,1604 +2357,1582 @@ And, Rebecca,
 take your meds, girl.
 
 486
-01:00:04,570 --> 01:00:08,010
+00:33:07,776 --> 00:33:12,388
 -Ladies and gentlemen,
 Harry Styles!
 
 487
-01:00:18,450 --> 01:00:20,420
--♪ I don't think
-we should be here ♪
+00:33:12,388 --> 00:33:18,214
+Dance No More
 
 488
-01:00:20,420 --> 01:00:22,690
+00:33:21,781 --> 00:33:26,016
+-♪ I don't think
+we should be here ♪
 ♪ I see no water or friends ♪
 
 489
-01:00:22,690 --> 01:00:26,560
+00:33:26,016 --> 00:33:30,023
 ♪ But the music keeps hitting
 me like a ten out of ten ♪
 
 490
-01:00:26,560 --> 01:00:28,000
+00:33:30,023 --> 00:33:32,407
 ♪ So I don't think ♪
 
 491
-01:00:29,930 --> 01:00:31,430
+00:33:32,876 --> 00:33:35,429
 ♪ No, I don't think ♪
 
 492
-01:00:34,940 --> 01:00:38,880
+00:33:38,157 --> 00:33:42,377
 ♪ Conversation is here, and
 you get it all off your chest ♪
 
 493
-01:00:38,870 --> 01:00:42,910
+00:33:42,377 --> 00:33:46,528
 ♪ You can come over here
 to tell me again and again ♪
 
 494
-01:00:42,910 --> 01:00:44,740
+00:33:46,528 --> 00:33:49,101
 ♪ What you think, huh ♪
 
 495
-01:00:46,210 --> 01:00:47,650
+00:33:49,101 --> 00:33:51,864
 ♪ I don't think ♪
 
 496
-01:00:51,380 --> 01:00:54,150
+00:33:54,511 --> 00:33:57,885
 ♪ Move it side to side
 with your hands up high ♪
 
 497
-01:00:54,150 --> 01:00:56,550
+00:33:57,885 --> 00:34:00,390
 ♪ Keep your customer satisfied ♪
 
 498
-01:00:56,560 --> 01:00:59,400
+00:34:00,390 --> 00:34:02,646
 -♪ And live your life ♪
 
 499
-01:00:59,390 --> 01:01:03,660
+00:34:02,646 --> 00:34:07,233
 -♪ DJs don't dance no more,
 they said ♪
 
 500
-01:01:03,660 --> 01:01:07,660
+00:34:07,233 --> 00:34:10,927
 ♪ DJs don't dance no more ♪
 
 501
-01:01:07,670 --> 01:01:11,970
+00:34:10,927 --> 00:34:15,509
 -♪ We wanna dance
 with all our friends ♪
 
 502
-01:01:11,970 --> 01:01:15,110
+00:34:15,509 --> 00:34:18,455
 -♪ DJs don't dance no more ♪
 
 503
-01:01:15,110 --> 01:01:18,780
+00:34:18,455 --> 00:34:22,309
 -♪ It's feeling like the music
 has been heaven-sent ♪
 
 504
-01:01:18,780 --> 01:01:20,680
+00:34:22,309 --> 00:34:27,164
 ♪ And there's no difference ♪
-
-505
-01:01:20,680 --> 01:01:24,250
 ♪ In between the tears
 and the sweat, ohh ♪
 
-506
-01:01:24,250 --> 01:01:28,220
+505
+00:34:27,164 --> 00:34:31,761
 ♪ DJs don't dance no more,
 they said ♪
 
-507
-01:01:28,220 --> 01:01:32,120
+506
+00:34:31,761 --> 00:34:36,347
 -♪ DJs don't dance no more ♪
 
-508
-01:01:40,430 --> 01:01:43,600
+507
+00:34:43,555 --> 00:34:47,191
 -♪ Move it side to side
 with your hands up high ♪
 
-509
-01:01:43,600 --> 01:01:46,040
+508
+00:34:47,191 --> 00:34:49,678
 ♪ Keep your customer satisfied ♪
 
-510
-01:01:46,040 --> 01:01:47,540
+509
+00:34:49,678 --> 00:34:51,961
 -♪ And live your life ♪
 
-511
-01:01:48,780 --> 01:01:52,620
+510
+00:34:51,961 --> 00:34:56,390
 ♪ DJs don't dance no more,
 they said ♪
 
-512
-01:01:52,610 --> 01:01:56,810
+511
+00:34:56,390 --> 00:35:00,060
 -♪ DJs don't dance no more ♪
 
-513
-01:01:56,820 --> 01:02:00,990
+512
+00:35:00,060 --> 00:35:04,617
 -♪ We wanna dance
 with all our friends ♪
 
-514
-01:02:00,990 --> 01:02:04,330
+513
+00:35:04,617 --> 00:35:07,713
 -♪ DJs don't dance no more ♪
 
-515
-01:02:04,320 --> 01:02:07,960
+514
+00:35:07,713 --> 00:35:11,545
 -♪ It's feeling like the music
 has been heaven-sent ♪
 
-516
-01:02:07,960 --> 01:02:09,730
+515
+00:35:11,545 --> 00:35:16,483
 ♪ And there's no difference ♪
-
-517
-01:02:09,730 --> 01:02:13,300
 ♪ In between the tears
 and the sweat ♪
 
-518
-01:02:13,300 --> 01:02:17,400
+516
+00:35:16,483 --> 00:35:21,021
 ♪ DJs don't dance no more,
 they said ♪
 
-519
-01:02:17,400 --> 01:02:21,000
+517
+00:35:21,021 --> 00:35:24,502
 -♪ DJs don't dance no more ♪
 
-520
-01:02:21,010 --> 01:02:22,980
+518
+00:35:24,502 --> 00:35:26,359
 -♪ Get your feet wet ♪
 
-521
-01:02:22,980 --> 01:02:25,350
+519
+00:35:26,359 --> 00:35:29,862
 ♪ Teach them all
 to respect their mother ♪
 
-522
-01:02:28,650 --> 01:02:31,050
+520
+00:35:32,263 --> 00:35:34,452
 ♪ You gotta get your feet wet ♪
 
-523
-01:02:31,050 --> 01:02:33,820
+521
+00:35:34,452 --> 00:35:38,071
 ♪ Respect, respect your mother ♪
 
-524
-01:02:35,120 --> 01:02:37,720
+522
+00:35:38,071 --> 00:35:41,584
 ♪ Be a good girl and go get it ♪
 
-525
-01:02:42,160 --> 01:02:46,230
+523
+00:35:45,240 --> 00:35:49,724
 ♪ DJs don't dance no more,
 they said ♪
 
-526
-01:02:46,230 --> 01:02:50,230
+524
+00:35:49,820 --> 00:35:53,345
 -♪ DJs don't dance no more ♪
 
-527
-01:02:50,240 --> 01:02:54,440
+525
+00:35:53,345 --> 00:35:57,940
 -♪ We wanna dance
 with all our friends ♪
 
-528
-01:02:54,440 --> 01:02:57,580
+526
+00:35:57,940 --> 00:36:00,934
 -♪ DJs don't dance no more ♪
 
-529
-01:02:57,580 --> 01:03:01,220
+527
+00:36:00,934 --> 00:36:04,900
 -♪ It's feeling like the music
 has been heaven-sent ♪
 
-530
-01:03:01,220 --> 01:03:03,090
+528
+00:36:04,900 --> 00:36:09,846
 ♪ And there's no difference ♪
-
-531
-01:03:03,080 --> 01:03:06,380
 ♪ In between the tears
 and the sweat, uh-huh ♪
 
-532
-01:03:06,390 --> 01:03:10,690
+529
+00:36:09,846 --> 00:36:14,325
 ♪ DJs don't dance no more,
 they said ♪
 
-533
-01:03:10,690 --> 01:03:14,430
+530
+00:36:14,325 --> 00:36:17,694
 -♪ DJs don't dance no more ♪
 
-534
-01:03:14,430 --> 01:03:16,070
+531
+00:36:17,694 --> 00:36:19,601
 -♪ Get your feet wet ♪
 
-535
-01:03:16,060 --> 01:03:19,100
+532
+00:36:19,601 --> 00:36:23,399
 ♪ Respect, respect your mother ♪
 
-536
-02:00:02,270 --> 02:00:06,440
+533
+00:36:50,448 --> 00:36:55,549
 -It's "Weekend Update"
 with Colin Jost and Michael Che.
 
-537
-02:00:11,980 --> 02:00:15,480
--Thank you. Thank you.
+534
+00:37:00,261 --> 00:37:02,156
+-Thank you.
 
-538
-02:00:15,480 --> 02:00:17,310
-Thank you very much.
+535
+00:37:02,853 --> 00:37:05,939
+Thank you. Thank you very much.
 Good evening, everyone.
 
-539
-02:00:17,320 --> 02:00:18,960
+536
+00:37:05,939 --> 00:37:09,386
 -Welcome to "Weekend Update."
 I'm Michael Che.
-
-540
-02:00:18,950 --> 02:00:20,350
 -I'm Colin Jost.
 
-541
-02:00:22,320 --> 02:00:26,160
+537
+00:37:10,583 --> 00:37:14,536
 Today marks the start of the
 third week of the war in Iran,
 
-542
-02:00:26,160 --> 02:00:27,800
+538
+00:37:14,536 --> 00:37:19,040
 which is weird
 because someone told me
-
-543
-02:00:27,790 --> 02:00:30,160
 that we already won it
 on the first day.
 
-544
-02:00:31,030 --> 02:00:33,670
+539
+00:37:19,040 --> 00:37:24,886
 Usually when a team wins,
 they don't then
-
-545
-02:00:33,670 --> 02:00:36,640
 stay on the field
 for three more weeks.
 
-546
-02:00:36,640 --> 02:00:38,970
+540
+00:37:24,886 --> 00:37:27,458
 It kind of seems like
 the main thing we've done so far
 
-547
-02:00:38,970 --> 02:00:42,270
+541
+00:37:27,458 --> 00:37:30,752
 is get rid of an 86-year-old
 Ayatollah Khamenei
 
-548
-02:00:42,280 --> 02:00:45,850
+542
+00:37:30,752 --> 00:37:34,280
 and replace him with a
 56-year-old Ayatollah Khamenei.
 
-549
-02:00:45,850 --> 02:00:50,420
+543
+00:37:34,280 --> 00:37:38,660
 You know, a younger, crazier
 bad guy hell-bent on revenge.
 
-550
-02:00:50,420 --> 02:00:51,520
+544
+00:37:38,660 --> 00:37:40,673
 We did it.
 
-551
-02:00:52,750 --> 02:00:54,550
+545
+00:37:40,673 --> 00:37:43,076
 Also, is it weird
 that I'm kind of jealous
 
-552
-02:00:54,550 --> 02:00:57,650
+546
+00:37:43,076 --> 00:37:46,597
 that Iran now has a leader
 under 80 years old?
 
-553
-02:00:58,690 --> 02:01:00,930
+547
+00:37:46,597 --> 00:37:49,594
 God, remember how much
 better our country was doing
 
-554
-02:01:00,930 --> 02:01:03,570
+548
+00:37:49,594 --> 00:37:53,137
 when we had
 a young Muslim leader?
 
-555
-02:01:08,600 --> 02:01:11,500
+549
+00:37:56,789 --> 00:37:59,384
 I don't know if you caught
 the "Muslim" part.
 
-556
-02:01:11,500 --> 02:01:13,140
+550
+00:37:59,384 --> 00:38:02,264
 President Trump
 said in an interview
+that he believes
 
-557
-02:01:13,140 --> 02:01:14,470
-that he believes Iran's
-
-558
-02:01:14,470 --> 02:01:16,870
+551
+00:38:02,264 --> 00:38:05,220
+Iran's
 Ayatollah Mojtaba Khamenei
 
-559
-02:01:16,880 --> 02:01:21,050
+552
+00:38:05,220 --> 00:38:09,241
 is "damaged" but
 "probably alive in some form,"
 
-560
-02:01:21,050 --> 02:01:23,920
+553
+00:38:09,241 --> 00:38:13,419
 which is also a pretty great
 description of Trump.
 
-561
-02:01:26,350 --> 02:01:30,720
+554
+00:38:14,336 --> 00:38:20,148
 -Khamenei was chosen by Iran's
 88-member Assembly of Experts.
 
-562
-02:01:32,460 --> 02:01:34,130
+555
+00:38:20,148 --> 00:38:23,617
 Make that 62 members.
 
-563
-02:01:37,700 --> 02:01:40,840
+556
+00:38:25,476 --> 00:38:29,322
 President Trump posted a message
 on Truth Social reading,
 
-564
-02:01:40,830 --> 02:01:43,100
+557
+00:38:29,322 --> 00:38:35,086
 "Iran will have a great future.
-
-565
-02:01:43,100 --> 02:01:46,670
 Make Iran Great Again."
 Or M-I-G-A.
 
-566
-02:01:46,670 --> 02:01:48,870
+558
+00:38:35,086 --> 00:38:38,372
 As in...this miga crazy.
 
-567
-02:01:53,680 --> 02:01:55,280
+559
+00:38:41,556 --> 00:38:44,587
 -I wanted to do that one.
 
-568
-02:01:56,480 --> 02:02:00,250
+560
+00:38:44,587 --> 02:02:00,250
 The FBI has reportedly warned
 police departments in California
 
-569
+561
 02:02:00,250 --> 02:02:02,890
 that Iran could retaliate
 by launching drones
 
-570
+562
 02:02:02,890 --> 02:02:05,860
 at high-profile targets
 on the West Coast.
 
-571
+563
 02:02:05,860 --> 02:02:08,200
 The Oscars. Tomorrow on ABC.
 
-572
+564
 02:02:13,200 --> 02:02:15,670
 Health Secretary
 Robert F. Kennedy Jr.,
 
-573
+565
 02:02:15,670 --> 02:02:18,640
 seen here back
 from his mission to the sun...
 
-574
+566
 02:02:22,840 --> 02:02:24,070
 ...said he's recovering
 
-575
+567
 02:02:24,080 --> 02:02:27,280
 from rotator-cuff surgery
 on his shoulder.
 
-576
+568
 02:02:27,280 --> 02:02:29,850
 Well, well, well!
 Look who needs me now.
 
-577
+569
 02:02:29,850 --> 02:02:31,220
 Said Tylenol.
 
-578
+570
 02:02:33,890 --> 02:02:36,830
 -A school board in New Jersey
 is considering a proposal
 
-579
+571
 02:02:36,820 --> 02:02:39,560
 to rename an elementary school
 after President Trump...
 
-580
+572
 02:02:39,560 --> 02:02:41,260
 named Trump Elementary,
 
-581
+573
 02:02:41,260 --> 02:02:43,600
 Home of the
 Fightin' Allegations.
 
-582
+574
 02:02:47,230 --> 02:02:49,330
 -Then you'll like this.
 
-583
+575
 02:02:49,340 --> 02:02:53,040
 A statue-- A statue has appeared
 on the National Mall
 
-584
+576
 02:02:53,040 --> 02:02:55,710
 that depicts President Trump
 and Jeffrey Epstein
 
-585
+577
 02:02:55,710 --> 02:02:58,680
 in the famous pose
 from "Titanic"...
 
-586
+578
 02:02:58,680 --> 02:03:00,750
 because, as they said
 on the "Titanic,"
 
-587
+579
 02:03:00,750 --> 02:03:02,590
 women and children first.
 
-588
+580
 02:03:09,260 --> 02:03:11,130
 North Korean leader Kim Jong Un
 
-589
+581
 02:03:11,120 --> 02:03:13,790
 took his teenage daughter
 to a munitions factory
 
-590
+582
 02:03:13,790 --> 02:03:16,190
 where they test-fired
 pistols together.
 
-591
+583
 02:03:16,200 --> 02:03:17,940
 Uh, girl dad!
 
-592
+584
 02:03:20,230 --> 02:03:22,270
 -A special election
 was held in Georgia
 
-593
+585
 02:03:22,270 --> 02:03:24,670
 to replace
 Marjorie Taylor Greene.
 
-594
+586
 02:03:24,670 --> 02:03:25,840
 The election was won
 
-595
+587
 02:03:25,840 --> 02:03:27,810
 by the candidate
 most similar to Greene:
 
-596
+588
 02:03:27,810 --> 02:03:29,640
 a Confederate He-Man doll.
 
-597
+589
 02:03:33,210 --> 02:03:35,550
 -Industry experts are saying
 that the Best Actor
 
-598
+590
 02:03:35,550 --> 02:03:36,750
 at tomorrow night's Oscars
 
-599
+591
 02:03:36,750 --> 02:03:38,580
 will go to either
 Michael B. Jordan,
 
-600
+592
 02:03:38,590 --> 02:03:40,930
 an actor who embodied
 two separate roles
 
-601
+593
 02:03:40,920 --> 02:03:43,990
 exploring themes
 of race and ancestral trauma...
 
-602
+594
 02:03:43,990 --> 02:03:45,820
 or ping-pong guy.
 
-603
+595
 03:00:01,370 --> 03:00:02,810
 -While many are excited
 for the Oscars tomorrow,
 
-604
+596
 03:00:02,800 --> 03:00:04,540
 some people think
 liberal politics are influencing
 
-605
+597
 03:00:04,540 --> 03:00:06,210
 the awards too much.
 
-606
+598
 03:00:06,210 --> 03:00:07,810
 Here with his take
 
-607
+599
 03:00:07,810 --> 03:00:10,080
 is conservative commentator
 Tucker Carlson.
 
-608
+600
 03:00:13,410 --> 03:00:15,480
 -Thank you, Colin.
 
-609
+601
 03:00:15,480 --> 03:00:18,320
 Let's all go to the movies. Huh!
 
-610
+602
 03:00:18,320 --> 03:00:20,020
 Really? Yes.
 
-611
+603
 03:00:20,020 --> 03:00:21,590
 Why don't we grab some popcorn
 
-612
+604
 03:00:21,590 --> 03:00:24,690
 and watch
 American culture collapse?
 
-613
+605
 03:00:24,690 --> 03:00:26,990
 What are we doing?
 What's going on?
 
-614
+606
 03:00:28,090 --> 03:00:29,960
 -Al-- Alright. Comin' in hot.
 
-615
+607
 03:00:29,960 --> 03:00:32,760
 Well, how do you feel
 about this year's nominees?
 
-616
+608
 03:00:32,770 --> 03:00:36,010
 -Where to even begin?
 Oh! I know!
 
-617
+609
 03:00:36,000 --> 03:00:37,940
 Why don't we
 talk about "Sinners"?
 
-618
+610
 03:00:37,940 --> 03:00:39,540
 That's right. "Sinners."
 
-619
+611
 03:00:39,540 --> 03:00:42,010
 Because, of course,
 leftist woke America's
 
-620
+612
 03:00:42,010 --> 03:00:44,650
 favorite movie this year
 is about sinning.
 
-621
+613
 03:00:44,650 --> 03:00:46,880
 Huh! Really?
 
-622
+614
 03:00:46,880 --> 03:00:48,280
 Why does that not surprise me?
 
-623
+615
 03:00:48,280 --> 03:00:51,650
 No. Sorry, kids.
 We don't go to church anymore.
 
-624
+616
 03:00:51,650 --> 03:00:53,950
 We go to "Sinners."
 That's the rule.
 
-625
+617
 03:00:53,950 --> 03:00:56,150
 That's the goal now.
 
-626
+618
 03:00:56,160 --> 03:00:59,260
 What are we doing?
 What's going on?
 
-627
+619
 03:01:00,990 --> 03:01:03,560
 -O-- Okay. Alright.
 
-628
+620
 03:01:03,560 --> 03:01:07,200
 So you didn't--
 you didn't like "Sinners."
 
-629
+621
 03:01:07,200 --> 03:01:09,400
 You didn't like "Sinners."
 What about "Hamnet"?
 
-630
+622
 03:01:09,400 --> 03:01:10,730
 -Oh! "Hamnet."
 
-631
+623
 03:01:10,740 --> 03:01:13,540
 Because we're not allowed
 to say "Hamlet" anymore.
 
-632
+624
 03:01:13,540 --> 03:01:14,940
 -No.
 -Yes.
 
-633
+625
 03:01:15,010 --> 03:01:16,450
 -No.
 -They took the L
 
-634
+626
 03:01:16,440 --> 03:01:18,040
 and gave it to the GBTQ.
 
-635
+627
 03:01:18,050 --> 03:01:19,650
 So it's "Hamnet" now.
 
-636
+628
 03:01:19,650 --> 03:01:21,690
 What are we doing?
 
-637
+629
 03:01:21,680 --> 03:01:23,510
 What's going on?
 
-638
+630
 03:01:23,520 --> 03:01:24,960
 "Hamnet."
 
-639
+631
 03:01:24,950 --> 03:01:27,590
 A movie about a boy who shows
 interest in theater dies.
 
-640
+632
 03:01:30,220 --> 03:01:32,450
 I actually really liked
 that part.
 
-641
+633
 03:01:32,460 --> 03:01:33,960
 -That's the part you liked?
 
-642
+634
 03:01:33,960 --> 03:01:35,190
 -Excuse me! Hey!
 
-643
+635
 03:01:35,190 --> 03:01:37,330
 Excuse me! Excuse me! Excuse me!
 
-644
+636
 03:01:37,330 --> 03:01:39,200
 Hey! Excuse me!
 
-645
+637
 03:01:39,200 --> 03:01:40,700
 -No one is interrupting you!
 
-646
+638
 03:01:40,700 --> 03:01:42,470
 -Excuse me! Excuse me!
 
-647
+639
 03:01:42,470 --> 03:01:44,440
 -Just--
 -Moving on to "Bugonia."
 
-648
+640
 03:01:45,770 --> 03:01:47,470
 Huh! Really?
 
-649
+641
 03:01:47,470 --> 03:01:48,740
 I guess heterosexual women
 
-650
+642
 03:01:48,740 --> 03:01:51,080
 aren't allowed
 to have hair anymore.
 
-651
+643
 03:01:51,080 --> 03:01:54,450
 They have to shave their heads
 instead of their armpits.
 
-652
+644
 03:01:54,450 --> 03:01:57,490
 And I'm supposed to be
 attracted to that?
 
-653
+645
 03:01:57,480 --> 03:01:58,980
 - No.
 -Oh!
 
-654
+646
 03:01:58,990 --> 03:02:00,760
 Oh, boys!
 Don't look at my breasts!
 
-655
+647
 03:02:00,750 --> 03:02:02,750
 Look at my scalp.
 
-656
+648
 03:02:02,760 --> 03:02:06,300
 That's the rule.
 That's the goal now.
 
-657
+649
 03:02:06,290 --> 03:02:07,660
 What are we doing?
 
-658
+650
 03:02:07,660 --> 03:02:10,160
 -You keep talking about a goal.
 What goal?
 
-659
+651
 03:02:10,160 --> 03:02:14,160
 -Colin, what ever happened
 to the great American films
 
-660
+652
 03:02:14,170 --> 03:02:15,270
 like "Gone with the Wind"
 
-661
+653
 03:02:15,270 --> 03:02:17,940
 or the first 20 minutes
 of "Forrest Gump"?
 
-662
+654
 03:02:17,940 --> 03:02:20,880
 -The first 20 min-- You mean the
 part where they're bullying him?
 
-663
+655
 03:02:20,870 --> 03:02:22,070
 -I love that part.
 
-664
+656
 03:02:28,850 --> 03:02:30,920
 -Man, dude, I gotta--
 I gotta tell you.
 
-665
+657
 03:02:30,920 --> 03:02:32,250
 That laugh is just awful.
 
-666
+658
 03:02:32,250 --> 03:02:33,850
 -That's not my laugh.
 
-667
+659
 03:02:33,850 --> 03:02:36,520
 That's the soul of
 an 18th-century mental patient
 
-668
+660
 03:02:36,520 --> 03:02:39,490
 trying to escape
 from this locket.
 
-669
+661
 03:02:39,490 --> 03:02:41,060
 -Why do you have that?!
 
-670
+662
 03:02:41,060 --> 03:02:44,500
 -And, finally,
 "One Battle After Another."
 
-671
+663
 03:02:44,500 --> 03:02:47,040
 What is this? What's going on?
 
-672
+664
 03:02:47,030 --> 03:02:49,260
 I'm genuinely asking.
 I did not see that movie.
 
-673
+665
 03:02:49,270 --> 03:02:50,510
 -Tucker Carlson, everyone.
 
-674
+666
 03:02:50,500 --> 03:02:52,470
 -What's going on?
 -What's going on?
 
-675
+667
 03:02:52,540 --> 03:02:54,410
 -What's going on?
 
-676
+668
 03:02:54,410 --> 03:02:58,010
 Hey! Excuse me!
 Excuse me! Excuse me!
 
-677
+669
 04:00:01,200 --> 04:00:02,870
 -Bam Adebayo
 of the Miami Heat
 
-678
+670
 04:00:02,870 --> 04:00:06,070
 scored 83 points in a game
 against the Wizards.
 
-679
+671
 04:00:06,070 --> 04:00:08,540
 Unfortunately, it was
 the night the Wizards started
 
-680
+672
 04:00:08,540 --> 04:00:10,340
 five Make-A-Wish kids.
 
-681
+673
 04:00:13,510 --> 04:00:15,480
 These jokes are not real, guys.
 
-682
+674
 04:00:16,950 --> 04:00:18,590
 -Taco Bell has announced...
 -Woman: Whoo!
 
-683
+675
 04:00:18,590 --> 04:00:20,190
 -...new additions to their...
 
-684
+676
 04:00:23,360 --> 04:00:25,590
 Do you, like,
 work for Taco Bell?
 
-685
+677
 04:00:25,590 --> 04:00:27,630
 Are you just a huge fan?
 
-686
+678
 04:00:28,730 --> 04:00:30,400
 Everyone else is like,
 "Harry Styles!"
 
-687
+679
 04:00:30,400 --> 04:00:31,700
 You're like, "Taco Bell!"
 
-688
+680
 04:00:33,270 --> 04:00:35,840
 Taco Bell's announced
 new additions to their menu,
 
-689
+681
 04:00:35,840 --> 04:00:38,980
 including Diablo Dusted
 Chicken Nuggets
 
-690
+682
 04:00:38,970 --> 04:00:42,810
 and Mountain Dew Baja
 Midnight Pie...
 
-691
+683
 04:00:42,810 --> 04:00:45,080
 in keeping
 with their new slogan,
 
-692
+684
 04:00:45,080 --> 04:00:47,520
 Taco Bell: Death to America.
 
-693
+685
 04:00:49,950 --> 04:00:51,550
 -That one might be real.
 
-694
+686
 04:00:51,550 --> 04:00:53,820
 Florida police have arrested
 a woman on charges
 
-695
+687
 04:00:53,820 --> 04:00:57,690
 that she left her 12-year-old
 daughter at Universal CityWalk
 
-696
+688
 04:00:57,690 --> 04:00:59,520
 while she went to a bar.
 
-697
+689
 04:00:59,530 --> 04:01:02,870
 So apparently it's a crime
 to find that kid a father!
 
-698
+690
 04:01:07,570 --> 04:01:09,000
 -YouTube.
 -That's the goal.
 
-699
+691
 04:01:09,000 --> 04:01:10,900
 -That's the goal?
 What's the goal?
 
-700
+692
 04:01:10,900 --> 04:01:12,700
 YouTube has launched a new tool
 
-701
+693
 04:01:12,710 --> 04:01:14,610
 that will allow reporters
 to flag videos
 
-702
+694
 04:01:14,610 --> 04:01:17,510
 that use A.I.
 to recreate their likeness,
 
-703
+695
 04:01:17,510 --> 04:01:21,150
 like these computer-generated
 reporters.
 
-704
+696
 04:01:21,150 --> 04:01:23,690
 Uh, I think I would know
 if they were using A.I.
 
-705
+697
 04:01:33,830 --> 04:01:35,900
 My breasts look incredible!
 
-706
+698
 04:01:35,900 --> 04:01:38,900
 -A new study suggests
 that the difference in size
 
-707
+699
 04:01:38,900 --> 04:01:41,700
 between a person's
 index and ring fingers
 
-708
+700
 04:01:41,700 --> 04:01:44,270
 can reveal
 their sexual orientation.
 
-709
+701
 04:01:44,270 --> 04:01:46,570
 The study says
 if your index finger
 
-710
+702
 04:01:46,570 --> 04:01:49,010
 is over an inch
 inside of a fella...
 
-711
+703
 04:01:49,010 --> 04:01:50,610
 he might be gay.
 
-712
+704
 04:01:54,520 --> 04:01:55,820
 I didn't know that.
 
-713
+705
 04:01:55,820 --> 04:01:56,990
 -It's good to know.
 
-714
+706
 04:01:56,980 --> 04:01:58,980
 -That's a good way to know.
 
-715
+707
 04:01:58,990 --> 04:02:01,290
 -Apple announced that
 it's adding eight new emojis,
 
-716
+708
 04:02:01,290 --> 04:02:04,260
 including a treasure chest,
 a trombone,
 
-717
+709
 04:02:04,260 --> 04:02:07,230
 and me in middle school
 breaking my father's heart.
 
-718
+710
 04:02:11,660 --> 04:02:13,730
 Netflix announced
 plans for a sequel
 
-719
+711
 04:02:13,730 --> 04:02:16,370
 to the hit movie
 "KPop Demon Hunters."
 
-720
+712
 04:02:16,370 --> 04:02:18,110
 And they better have new songs
 
-721
+713
 04:02:18,100 --> 04:02:20,800
 because if I hear a kid
 sing "Golden" one more time
 
-722
+714
 04:02:20,810 --> 04:02:23,680
 I'm gonna blow my brains
 up, up, up.
 
-723
+715
 04:02:28,450 --> 04:02:30,390
 Same Taco Bell person liked it.
 
-724
+716
 04:02:31,650 --> 04:02:35,520
 -The winners of the annual
 wife-carrying contest in England
 
-725
+717
 04:02:35,520 --> 04:02:36,990
 was a couple from Finland,
 
-726
+718
 04:02:36,990 --> 04:02:40,030
 while once again the winner
 of the husband-carrying contest
 
-727
+719
 04:02:40,030 --> 04:02:41,630
 was Scarlett.
 
-728
+720
 04:02:50,600 --> 04:02:52,870
 -We both put food
 on the table.
 
-729
+721
 04:02:54,310 --> 04:02:56,350
 Just different kinds of food.
 
-730
+722
 05:00:01,530 --> 05:00:03,200
 -Apple is releasing
 eight new emojis this spring,
 
-731
+723
 05:00:03,200 --> 05:00:04,500
 as I mentioned.
 
-732
+724
 05:00:04,500 --> 05:00:06,500
 Here to comment are,
 according to the latest data,
 
-733
+725
 05:00:06,510 --> 05:00:08,410
 the number-one most used
 
-734
+726
 05:00:08,410 --> 05:00:11,110
 and number-one
 least used emojis:
 
-735
+727
 05:00:11,110 --> 05:00:13,780
 Red Heart and Aerial Tramway.
 
-736
+728
 05:00:13,780 --> 05:00:17,420
 -Hey! What's up, New York?!
 -Hey! Yo!
 
-737
+729
 05:00:17,420 --> 05:00:19,560
 -Red Heart in the house!
 -Yeah!
 
-738
+730
 05:00:19,550 --> 05:00:21,290
 -Y'all know me. Y'all know me.
 
-739
+731
 05:00:21,290 --> 05:00:24,660
 -Aerial Tramway!
 
-740
+732
 05:00:25,730 --> 05:00:28,400
 Aerial Tramway!
 
-741
+733
 05:00:29,660 --> 05:00:32,800
 -Yeah. Wow.
 Thanks for both being here.
 
-742
+734
 05:00:32,800 --> 05:00:35,070
 Um, so what do you think
 about the new emojis?
 
-743
+735
 05:00:35,070 --> 05:00:36,870
 -Dude, all I know
 is they're all gonna be
 
-744
+736
 05:00:36,870 --> 05:00:39,440
 more popular than this loser,
 you know?
 
-745
+737
 05:00:39,440 --> 05:00:41,540
 I'm number one
 'cause I'm useful.
 
-746
+738
 05:00:41,540 --> 05:00:43,370
 People use me for everything.
 
-747
+739
 05:00:43,380 --> 05:00:44,710
 "I miss you." "Heart."
 
-748
+740
 05:00:44,710 --> 05:00:46,410
 "Here's a pic of my dog."
 "Heart."
 
-749
+741
 05:00:46,410 --> 05:00:47,740
 "Here's a pic of my bare ass."
 
-750
+742
 05:00:47,750 --> 05:00:49,220
 "Heart, heart, heart,
 heart, heart."
 
-751
+743
 05:00:49,220 --> 05:00:51,420
 Aerial Tramway is only used
 
-752
+744
 05:00:51,420 --> 05:00:55,490
 when talking about that specific
 cable-based transportation.
 
-753
+745
 05:00:55,490 --> 05:00:58,760
 -Cap! Cap! Cap! Cap! Cap!
 
-754
+746
 05:00:58,760 --> 05:01:00,060
 -No, it's not cap.
 -Cap!
 
-755
+747
 05:01:00,130 --> 05:01:01,530
 -No, it's not.
 -Cap!
 
-756
+748
 05:01:01,530 --> 05:01:03,030
 -When would someone use you?
 
-757
+749
 05:01:03,030 --> 05:01:08,100
 -Okay. "Hey. I'm gonna take
 the aerial tramway."
 
-758
+750
 05:01:08,100 --> 05:01:12,370
 "Hey. I'm on
 the aerial tramway."
 
-759
+751
 05:01:12,370 --> 05:01:13,940
 -Okay.
 
-760
+752
 05:01:13,940 --> 05:01:16,410
 What other uses that aren't
 about physically riding it?
 
-761
+753
 05:01:16,410 --> 05:01:22,980
 -"Yo, man, girl got me actin'
 like an aerial tramway."
 
-762
+754
 05:01:22,980 --> 05:01:24,110
 -That makes no sense!
 
-763
+755
 05:01:24,120 --> 05:01:26,190
 -It makes all the sense!
 
-764
+756
 05:01:26,190 --> 05:01:27,260
 -It makes no sense.
 -All the sense.
 
-765
+757
 05:01:27,250 --> 05:01:29,220
 -It makes no sense!
 
-766
+758
 05:01:29,220 --> 05:01:31,020
 Colin, you should see
 this guy's crew.
 
-767
+759
 05:01:31,020 --> 05:01:32,550
 They're such dorks.
 -No.
 
-768
+760
 05:01:32,560 --> 05:01:34,960
 -Wait. Hold on. I didn't realize
 that emojis have friends.
 
-769
+761
 05:01:34,960 --> 05:01:37,700
 -Yes, man, and my crew is fire.
 -Nah.
 
-770
+762
 05:01:37,700 --> 05:01:40,070
 -I roll with, like,
 Crying Tears Face.
 
-771
+763
 05:01:40,070 --> 05:01:41,600
 He's cool as hell.
 -Boo!
 
-772
+764
 05:01:41,600 --> 05:01:43,770
 -Thumbs Up. That's my O.G.,
 original gangster.
 
-773
+765
 05:01:43,770 --> 05:01:45,870
 -Boo!
 -The eyes like this.
 
-774
+766
 05:01:45,870 --> 05:01:47,640
 -Boo!
 
-775
+767
 05:01:47,640 --> 05:01:49,540
 -That's my dawg. Okay?
 
-776
+768
 05:01:49,540 --> 05:01:52,540
 And "100" with two lines
 under it. That's my day one.
 
-777
+769
 05:01:52,550 --> 05:01:56,890
 -Nah. My crew? All bangers!
 
-778
+770
 05:01:56,880 --> 05:01:59,080
 I'm rolling with my boy...
 
-779
+771
 05:01:59,090 --> 05:02:01,130
 Orange Square!
 
-780
+772
 05:02:04,190 --> 05:02:06,490
 -Orange Square sucks.
 -Nah, dude.
 
-781
+773
 05:02:06,490 --> 05:02:07,730
 -Yes, it sucks!
 
-782
+774
 05:02:07,730 --> 05:02:11,470
 -Of course, we got
 Division Sign!
 
-783
+775
 05:02:11,470 --> 05:02:12,940
 -He's dog water! He sucks!
 
-784
+776
 05:02:12,930 --> 05:02:16,770
 -Snorkel! Snorkel Equipment!
 
-785
+777
 05:02:17,870 --> 05:02:19,840
 And my boy, the GOAT,
 
-786
+778
 05:02:19,840 --> 05:02:22,540
 building with a horn on it!
 
-787
+779
 05:02:22,610 --> 05:02:25,210
 Building with a horn on it!
 
-788
+780
 05:02:25,280 --> 05:02:27,280
 Building with a horn on it!
 
-789
+781
 05:02:27,280 --> 05:02:29,410
 -What even is that?
 What is-- What even is that?
 
-790
+782
 05:02:29,420 --> 05:02:31,490
 Is that like a horn store.
 
-791
+783
 05:02:31,490 --> 05:02:34,330
 -Or a horn school!
 
-792
+784
 05:02:34,320 --> 05:02:37,090
 -That's just as bad.
 It makes no sense.
 
-793
+785
 05:02:37,090 --> 05:02:39,990
 -You don't make no sense!
 
-794
+786
 05:02:39,990 --> 05:02:41,430
 -Most of-- Most of--
 
-795
+787
 05:02:41,430 --> 05:02:46,140
 -Aerial Tramway! Aerial Tramway!
 
-796
+788
 05:02:46,130 --> 05:02:48,930
 -Most-- Dude, it sucks, dude.
 
-797
+789
 05:02:48,940 --> 05:02:53,880
 Most of his-- Most of his--
 
-798
+790
 05:02:53,870 --> 05:02:56,810
 Most of his crew is RBF.
 
-799
+791
 05:02:56,810 --> 05:02:58,640
 -I'm sorry. What's RBF?
 
-800
+792
 05:02:58,650 --> 05:03:00,590
 -It's Right Before the Flags.
 
-801
+793
 05:03:03,280 --> 05:03:07,420
 You know-- You know how
 the flags are at the end, right?
 
-802
+794
 05:03:07,420 --> 05:03:09,920
 This dude
 and all his loser friends...
 
-803
+795
 05:03:09,920 --> 05:03:12,690
 -What?! What?!
 
-804
+796
 05:03:12,690 --> 05:03:16,330
 Aerial Tramway! Aerial Tramway!
 
-805
+797
 05:03:16,330 --> 05:03:20,200
 -They're right before-- They're
 right before the flags, dude.
 
-806
+798
 05:03:20,200 --> 05:03:22,970
 Him and all his friends.
 And you know how the...
 
-807
+799
 05:03:25,340 --> 05:03:28,080
 Because he's back there
 with all the flags,
 
-808
+800
 05:03:28,070 --> 05:03:30,670
 that's why he can't get
 a fine-ass girl like I can.
 
-809
+801
 05:03:30,680 --> 05:03:31,980
 -Nah.
 -Oh. Wow.
 
-810
+802
 05:03:31,980 --> 05:03:33,280
 Red Heart, you got a girlfriend?
 
-811
+803
 05:03:33,280 --> 05:03:36,380
 -Yeah, dude, it's kind of new.
 I don't want to jinx it.
 
-812
+804
 05:03:36,380 --> 05:03:39,120
 But I've kind of been chilling
 with the lady dancer
 
-813
+805
 05:03:39,120 --> 05:03:42,320
 in the red dress
 with her arms like this.
 
-814
+806
 05:03:42,320 --> 05:03:46,930
 -Fugly! Fugly! Fugly!
 
-815
+807
 05:03:46,930 --> 05:03:49,470
 My girl?
 Yo, shout-out to my girl.
 
-816
+808
 05:03:49,460 --> 05:03:52,760
 The word "ON"
 with two arrows above it!
 
-817
+809
 05:03:52,830 --> 05:03:55,470
 The word "ON"
 with two arrows above it!
 
-818
+810
 05:03:55,470 --> 05:03:58,270
 -That is so sad!
 That is so sad!
 
-819
+811
 05:03:58,270 --> 05:04:00,100
 Under what circumstances
 
-820
+812
 05:04:00,110 --> 05:04:04,480
 would anyone
 ever use that emoji?!
 
-821
+813
 05:04:04,480 --> 05:04:05,980
 -Let me think.
 
-822
+814
 05:04:07,050 --> 05:04:08,920
 If something...
 
-823
+815
 05:04:08,920 --> 05:04:11,320
 to both the left
 and the right...
 
-824
+816
 05:04:11,320 --> 05:04:13,090
 is on!
 
-825
+817
 05:04:14,190 --> 05:04:16,590
 -Alright.
 I can't even be here anymore.
 
-826
+818
 05:04:16,590 --> 05:04:18,660
 I can't be with this guy.
 Thanks for having me.
 
-827
+819
 05:04:18,660 --> 05:04:20,260
 I gotta go home.
 -You're leaving?
 
-828
+820
 05:04:20,260 --> 05:04:22,060
 Wait. How are you getting home?
 
-829
+821
 05:04:22,060 --> 05:04:23,460
 -Um...
 
-830
+822
 05:04:25,260 --> 05:04:27,060
 -Say it!
 
-831
+823
 05:04:27,070 --> 05:04:28,570
 -Um...
 
-832
+824
 05:04:28,570 --> 05:04:31,340
 -Say! It!
 
-833
+825
 05:04:31,340 --> 05:04:32,840
 -I'm taking the aerial tramway.
 
-834
+826
 05:04:32,840 --> 05:04:34,940
 -Hell yeah!
 
-835
+827
 05:04:34,940 --> 05:04:37,510
 -Red Heart and Aerial Tramway!
 
-836
+828
 05:04:37,510 --> 05:04:38,950
 For "Weekend Update,"
 I'm Colin Jost.
 
-837
+829
 05:04:38,950 --> 05:04:42,820
 -I'm Michael Che. Good night.
 -Aerial Tramway!
