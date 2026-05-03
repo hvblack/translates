@@ -48,13 +48,13 @@ of humor
 about that kind of stuff.
 
 10
-00:00:34,593 --> 00:00:39,171
+00:00:34,593 --> 00:00:39,164
 -As your press secretary,
 this puts me
 in a tough position, sir.
 
 11
-00:00:39,264 --> 00:00:41,187
+00:00:39,164 --> 00:00:41,187
 -Oh, don't worry
 about that, Karoline.
 
@@ -69,7 +69,7 @@ before I fired them,
 "You're doing a terrific job!"
 
 14
-00:00:47,447 --> 00:00:51,409
+00:00:47,447 --> 00:00:51,509
 -Thank you, sir.
 I love you, too.
 
@@ -268,11 +268,11 @@ There's gotta be something.
 Oh, right. The war.
 
 53
-00:03:09,624 --> 00:03:10,601
+00:03:09,624 --> 00:03:10,701
 -What?!
 
 54
-00:03:10,601 --> 00:03:14,294
+00:03:10,701 --> 00:03:14,294
 -Pete, it's President Trump.
 Wassup?!
 
@@ -343,17 +343,17 @@ Yeah, except this time we're
 fighting millennial cringe
 
 68
-00:03:51,904 --> 00:03:54,554
+00:03:51,904 --> 00:03:54,648
 by letting 40-year-olds
 join the military.
 
 69
-00:03:54,554 --> 00:03:58,112
+00:03:54,648 --> 00:03:58,261
 Yeah, put that finger mustache
 to work pulling a trigger.
 
 70
-00:03:58,112 --> 00:04:00,396
+00:03:58,261 --> 00:04:00,396
 -Really good. Really good.
 
 71
@@ -393,7 +393,7 @@ After those Iranians spent
 20 hours talking to J.D.,
 
 78
-00:04:22,800 --> 00:04:26,112
+00:04:22,800 --> 00:04:26,312
 they said, "Please, sir,
 just go back to bombing us."
 
@@ -533,7 +533,7 @@ The point is,
 I'm practically in everything,
 
 106
-00:08:17,444 --> 00:08:21,400
+00:08:17,444 --> 00:08:21,500
 like raisins
 at a Caucasian cookout.
 
@@ -643,13 +643,13 @@ Jeremy, get out here.
 -Hi.
 
 129
-00:09:51,575 --> 00:09:55,634
+00:09:51,575 --> 00:09:55,684
 -Now, Jeremy,
 look into that camera.
 -Okay.
 
 130
-00:09:58,281 --> 00:10:02,743
+00:09:58,281 --> 00:10:02,843
 -He looks fine.
 No offense, but boom up.
 
@@ -667,7 +667,7 @@ really good, really good.
 But is it sexy enough?
 
 134
-00:10:18,699 --> 00:10:21,294
+00:10:18,699 --> 00:10:21,494
 Nowadays...
 
 135
@@ -681,7 +681,7 @@ Oh! Hey, ma'am,
 what brings you here tonight?
 
 137
-00:10:33,018 --> 00:10:36,379
+00:10:33,018 --> 00:10:36,479
 -Uh, I got tickets from someone
 who works here.
 
@@ -875,11 +875,11 @@ his clothing?
 -Why? He sure as hell wasn't.
 
 175
-00:13:17,918 --> 00:13:19,908
+00:13:17,918 --> 00:13:19,958
 -Speak on it!
 
 176
-00:13:19,908 --> 00:13:22,158
+00:13:19,958 --> 00:13:22,158
 Listen, listen.
 Give me that mic.
 
@@ -913,7 +913,7 @@ Who else could it have been?
 really want to give our viewers
 
 183
-00:13:42,462 --> 00:13:45,747
+00:13:42,462 --> 00:13:45,847
 as clear
 a description
 of the suspect as possible.
@@ -2183,7 +2183,7 @@ of good, old-fashioned
 American surprise?
 
 432
-00:29:45,991 --> 00:29:49,341
+00:29:45,991 --> 00:29:49,441
 No one could love
 a man like that.
 
@@ -2277,127 +2277,2695 @@ d Cai na toca, cai na toca,
 toca da cabocla d
 
 452
-00:31:39,291 --> 07:00:42,210
+00:31:39,291 --> 00:31:42,852
 d Obsesionao, todos ilusionao d
 
 453
-07:00:42,210 --> 07:00:45,750
+00:31:42,852 --> 00:31:46,500
 d Tu le dices "hola,"
 ella te responde "chao" d
 
 454
-07:00:45,750 --> 07:00:49,150
+00:31:46,500 --> 00:31:49,682
 d Oh, wow, la rompe demasiado d
 
 455
-07:00:49,150 --> 07:00:53,190
+00:31:49,682 --> 00:31:53,984
 d Los hombres que se alisten
 aunque no esten invitados d
 
 456
-07:00:53,190 --> 07:00:56,790
+00:31:53,984 --> 00:31:57,618
 d Acelerada, nao se comporta d
 
 457
-07:00:56,790 --> 07:01:00,530
+00:31:57,618 --> 00:32:01,135
 d E milionaria e ja tu nao
 importa d
 
 458
-07:01:00,530 --> 07:01:04,400
+00:32:01,135 --> 00:32:04,694
 d Se eles sairam pra curtir
 o baile d
 
 459
-07:01:04,400 --> 07:01:07,070
+00:32:04,694 --> 00:32:07,802
 d Ela foi encontrar
 vossa majestade d
 
 460
-07:01:07,070 --> 07:01:10,470
+00:32:07,802 --> 00:32:14,763
 d Choca, choca, cuerpo con
 cuerpo, boca con boca d
 
 461
-07:01:10,470 --> 07:01:13,770
-d Choca, choca, cuerpo
-con cuerpo, boca con boca d
-
-462
-07:01:13,770 --> 07:01:17,510
+00:32:14,763 --> 00:32:18,314
 d Tao pequenininha,
 mas pode te dar uma volta d
 
-463
-07:01:17,510 --> 07:01:21,650
+462
+00:32:18,314 --> 00:32:22,125
 d Cai na toca, cai na toca,
 toca da cabocla d
 
-464
-07:01:21,650 --> 07:01:24,690
+463
+00:32:22,125 --> 00:32:25,598
 d Descontrolado,
 esse lobo ta animado d
 
-465
-07:01:24,690 --> 07:01:28,230
+464
+00:32:25,598 --> 00:32:29,293
 d Vai com a Shaki e fica
 todo empolgado d
 
-466
-07:01:28,220 --> 07:01:31,690
+465
+00:32:29,293 --> 00:32:32,433
 d Oh, wow, e loba e e mulher d
 
-467
-07:01:31,690 --> 07:01:35,490
+466
+00:32:32,433 --> 00:32:35,933
 d E nao fica contente ate ter o
 que ela quer d
 
-468
-07:01:35,500 --> 07:01:39,800
+467
+00:32:35,933 --> 00:32:41,843
 d Viver, deixando
 pra tras o passado d
 
-469
-07:01:42,470 --> 07:01:46,510
+468
+00:32:42,597 --> 00:32:48,622
 d Viver sem lei,
 fazendo sempre o que quiser d
 
-470
-07:01:49,110 --> 07:01:53,010
+469
+00:32:50,054 --> 00:32:57,454
 d Choca, choca, cuerpo con
 cuerpo, boca con boca d
 
-471
-07:01:53,010 --> 07:01:56,480
-d Choca, choca, cuerpo
-con cuerpo, boca con boca d
-
-472
-07:01:56,480 --> 07:02:00,120
+470
+00:32:57,454 --> 00:33:01,016
 d Tao pequenininha,
 mas pode te dar uma volta d
 
-473
-07:02:00,120 --> 07:02:03,760
+471
+00:33:01,016 --> 00:33:04,544
 d Cai na toca, cai na toca,
+toca da cabocla d
+
+472
+00:33:04,544 --> 00:33:12,646
+d Choca, choca, choca, choca,
+choca, choca, choca, choca d
+
+473
+00:33:16,810 --> 00:33:19,830
 toca da cabocla d
 
 474
-07:02:03,760 --> 07:02:07,160
-d Choca, choca, choca, choca,
-choca, choca, choca, choca d
+00:33:48,450 --> 00:33:53,651
+-It's "Weekend Update" with
+Colin Jost and Michael Che.
 
 475
-07:02:07,230 --> 07:02:09,400
-d Choca, choca, choca, choca,
-choca, choca, choca, choca d
+00:33:59,090 --> 00:34:00,907
+-Thank you.
 
 476
-07:02:09,400 --> 07:02:11,940
-d Choca, choca d
+00:34:04,405 --> 00:34:06,521
+-Thank you very much.
+Good evening, everyone.
 
 477
-07:02:14,370 --> 07:02:19,170
-d Cai na toca, cai na toca,
-toca da cabocla d
+00:34:06,521 --> 00:34:09,930
+-Welcome to "Weekend Update."
+I'm Michael Che.
+-I'm Colin Jost.
+
+478
+00:34:13,503 --> 00:34:17,859
+Today the United States held
+peace negotiations with Iran.
+
+479
+00:34:17,859 --> 00:34:20,852
+But then, just an hour ago,
+President Trump posted,
+
+480
+00:34:20,852 --> 00:34:26,530
+"If Iran doesn't agree to peace,
+the greatest military
+of all time, ours,
+
+481
+00:34:26,530 --> 00:34:30,967
+will "f" Iran right up
+their Strait of Hormuz.
+
+482
+00:34:30,967 --> 00:34:35,051
+Asalam alaykum,
+you crazy bastards."
+
+483
+00:34:35,051 --> 00:34:38,750
+Now, I completely made that up.
+
+484
+00:34:39,326 --> 00:34:43,948
+But isn't it kind
+of disturbing
+that you all totally believed
+
+485
+00:34:44,644 --> 00:34:47,726
+that he had posted that?
+
+486
+00:34:48,916 --> 00:34:51,774
+President Trump did
+genuinely issue a post
+
+487
+00:34:51,774 --> 00:34:54,781
+threatening to destroy
+Iran's entire civilization
+
+488
+00:34:54,781 --> 00:34:58,261
+and then ended with the
+phrase "praise be to Allah."
+
+489
+00:34:58,261 --> 00:35:02,632
+And I know that
+almost makes Trump sound
+like he is a radical terrorist.
+
+490
+00:35:02,632 --> 00:35:07,838
+But remember,
+Trump has already been
+to a paradise with 72 virgins.
+
+491
+00:35:10,622 --> 00:35:15,841
+-There is growing confusion
+over whether
+Israel being allowed
+to continue bombing Lebanon
+
+492
+00:35:15,841 --> 00:35:17,864
+was part of the ceasefire
+with Iran.
+
+493
+00:35:17,864 --> 00:35:21,480
+Ultimately, that decision
+comes down to the man
+controlling our military,
+
+494
+00:35:21,480 --> 00:35:23,843
+Benjamin Netanyahu.
+
+495
+00:35:24,091 --> 00:35:27,916
+Earlier tonight, J.D. Vance
+announced that the U.S.
+and Iran
+
+496
+00:35:27,916 --> 00:35:32,650
+have ended
+negotiations without a deal
+after talking
+for 21 hours straight.
+
+497
+00:35:32,650 --> 00:35:37,525
+And, guys, I think
+they're done for real,
+based on how his
+mascara's running.
+
+498
+00:35:39,082 --> 00:35:44,786
+-Before the talks fell apart,
+President Trump warned Iran
+about making any more demands, saying,
+
+499
+00:35:44,786 --> 00:35:48,224
+"The Iranians
+don't seem to
+realize they have no cards."
+
+500
+00:35:48,224 --> 00:35:51,686
+They're literally
+holding a "straight."
+
+501
+00:35:57,518 --> 00:35:59,626
+J.D. Vance was asked...
+
+502
+00:35:59,626 --> 00:36:03,596
+J.D. Vance was asked about
+Iran's right to enrich uranium,
+
+503
+00:36:03,596 --> 00:36:06,224
+and he made kind of
+a weird analogy. Watch.
+
+504
+00:36:06,224 --> 00:36:10,286
+-My wife has
+the right to skydive,
+
+505
+00:36:10,286 --> 00:36:14,930
+but she doesn't jump out
+of an airplane because she
+and I have an agreement
+that she's not going to
+do that
+
+506
+00:36:14,930 --> 00:36:17,824
+because I don't
+want my wife jumping
+out of an airplane.
+
+507
+00:36:20,252 --> 00:36:23,305
+-What the hell are you
+talking about?
+
+508
+00:36:23,305 --> 00:36:27,167
+The only thing
+that makes sense
+in that entire analogy
+
+509
+00:36:27,167 --> 00:36:32,393
+is that
+we can all understand
+J.D. Vance's wife
+having the urge to jump.
+
+510
+00:36:37,347 --> 00:36:40,942
+-First Lady Melania Trump made
+a rare public statement
+
+511
+00:36:40,942 --> 00:36:44,997
+to deny reports that
+Jeffrey Epstein introduced her
+to Donald Trump
+
+512
+00:36:44,997 --> 00:36:49,256
+because they actually
+met when Trump
+cracked open
+her shipping container.
+
+513
+00:36:53,068 --> 00:36:56,913
+On Friday, the Artemis 2
+astronauts returned safely
+
+514
+00:36:56,913 --> 00:37:01,381
+from their 10-day trip around
+a Hollywood soundstage.
+
+515
+00:37:04,793 --> 00:37:08,172
+-During the mission, the crew
+of Artemis 2 sent back pictures
+
+516
+00:37:08,172 --> 00:37:10,585
+of the rarely seen
+dark side of the moon,
+
+517
+00:37:10,585 --> 00:37:13,995
+revealing that the moon
+has a rat tail.
+
+518
+00:37:19,507 --> 00:37:22,462
+He wanted more out of that.
+The Justice...
+
+519
+00:37:22,462 --> 00:37:25,522
+The Justice Department
+has formed a task force
+
+520
+00:37:25,522 --> 00:37:28,732
+intended to eradicate
+anti-Christian bias,
+
+521
+00:37:28,732 --> 00:37:31,719
+which hopefully
+works better than
+the church's strategy
+
+522
+00:37:31,719 --> 00:37:34,138
+of molesting it out of you.
+
+523
+00:37:39,869 --> 00:37:44,327
+-California police have
+arrested a man
+who allegedly threw a Molotov cocktail
+
+524
+00:37:44,327 --> 00:37:49,137
+at the home of
+ChatGPT founder Sam Altman,
+after ChatGPT told him,
+
+525
+00:37:49,137 --> 00:37:51,346
+"That's a great idea!"
+
+526
+00:37:52,841 --> 00:37:57,785
+-Yesterday, Kamala Harris
+said she is thinking
+about running
+for president again,
+
+527
+00:37:57,785 --> 00:38:02,387
+and I like her chances
+as long as she finally
+grows that penis.
+
+528
+00:38:05,269 --> 00:38:07,169
+Health Sec...
+
+529
+00:38:09,146 --> 00:38:11,660
+I tried to keep a straight face
+as long as I could.
+
+530
+00:38:11,660 --> 00:38:14,576
+Health Secretary
+Robert F. Kennedy Jr.
+
+531
+00:38:14,576 --> 00:38:17,547
+announced that he is
+launching a new podcast.
+
+532
+00:38:17,547 --> 00:38:19,614
+The podcast is called...
+
+533
+00:38:27,197 --> 00:38:29,105
+-It's catchy.
+
+534
+00:38:29,105 --> 00:38:31,738
+-Yesterday, a report
+showed inflation spiked
+
+535
+00:38:31,738 --> 00:38:34,445
+to its highest point in four
+years due to the war in Iran.
+
+536
+00:38:34,445 --> 00:38:38,655
+Here to comment are two kids
+from the back of the school bus.
+
+537
+00:38:40,257 --> 00:38:43,010
+-What's up, Mr. Jost?
+
+538
+00:38:44,772 --> 00:38:49,743
+Guys?
+Calm down. Calm down.
+Okay?
+
+539
+00:38:49,743 --> 00:38:53,563
+You're here to talk
+about inflation, okay?
+-Right, right.
+
+540
+00:38:53,563 --> 00:38:56,737
+But first, can I just use
+your phone real quick, Mr. Jost?
+
+541
+00:38:56,737 --> 00:38:59,258
+I'm sorry.
+Mine got "confiscated."
+
+542
+00:38:59,258 --> 00:39:01,153
+-Well, why did your phone
+get confiscated?
+
+543
+00:39:01,153 --> 00:39:05,632
+-I don't know.
+I didn't do nothing.
+I didn't even do nothing.
+-He didn't do nothing.
+-I didn't even do nothing.
+
+544
+00:39:05,632 --> 00:39:08,794
+I don't know why they would take
+it if I didn't even do nothing!
+
+545
+00:39:08,794 --> 00:39:11,412
+-I don't know.
+I find that hard to believe.
+
+546
+00:39:11,412 --> 00:39:15,255
+-Okay, fine.
+I posted a video of me
+swiping a debit card
+
+547
+00:39:15,255 --> 00:39:17,837
+between
+the bus driver's neck folds.
+
+548
+00:39:17,837 --> 00:39:21,078
+-It was funny. Back of neck
+like a pack of hot dogs.
+
+549
+00:39:21,078 --> 00:39:22,796
+-It was like "rimp."
+You know what I mean?
+
+550
+00:39:22,796 --> 00:39:25,724
+-Rimp!
+Rimp, rimp!
+
+551
+00:39:25,724 --> 00:39:29,879
+-Declined! Rimp-rimp!
+-This is serious, okay?
+
+552
+00:39:29,879 --> 00:39:32,332
+I want you guys --
+You got to focus up, okay?
+Focus up.
+
+553
+00:39:32,332 --> 00:39:36,116
+-Okay. Seriously?
+Seriously? Okay.
+
+554
+00:39:36,116 --> 00:39:38,942
+Inflation was up 3.3%.
+
+555
+00:39:38,942 --> 00:39:42,903
+Prices are out of control.
+Everyone has been affected.
+
+556
+00:39:42,903 --> 00:39:45,252
+Even my boy Grabon
+can't afford these groceries.
+
+557
+00:39:45,252 --> 00:39:48,722
+-Nah, for real. I feel bad
+for Grabon. Life is tough.
+
+558
+00:39:48,722 --> 00:39:52,289
+-Oh, my God, who's Grabon?
+-Oh, Grabon
+is a friend of ours.
+
+559
+00:39:52,289 --> 00:39:54,728
+It's Grabon Deez Nuts!
+
+560
+00:39:55,472 --> 00:39:57,429
+-Got him!
+
+561
+00:40:01,789 --> 00:40:03,780
+-Got ya!
+
+562
+00:40:04,837 --> 00:40:08,862
+-Yeah, I really
+don't appreciate being
+shot in the face
+a bunch of times.
+
+563
+00:40:08,862 --> 00:40:11,393
+Also, you're supposed
+to come out here
+and talk
+about the inflation report.
+
+564
+00:40:11,393 --> 00:40:12,728
+You've had this
+assignment for weeks.
+
+565
+00:40:12,728 --> 00:40:17,089
+-Nah. Chill, chill, chill,
+chill, chill.
+Chill, chill, chill,
+chill right now.
+
+566
+00:40:17,089 --> 00:40:19,455
+Chill.
+Let me lock in.
+-Lock in.
+
+567
+00:40:19,455 --> 00:40:22,439
+Let him cook. Let him cook.
+-Okay. Inflation report.
+
+568
+00:40:22,439 --> 00:40:26,949
+Right? Let me ask you a
+"basing" question of economics.
+-Basing?
+
+569
+00:40:26,949 --> 00:40:30,375
+-Basing.
+-You got it, you got it,
+you got it.
+
+570
+00:40:30,375 --> 00:40:32,581
+-I got it,
+-Lock in, man. Lock in.
+-All right.
+-You got it.
+
+571
+00:40:32,581 --> 00:40:36,174
+-Let me ask you a basic
+question of economics, okay?
+-Okay, great. Yeah.
+
+572
+00:40:36,174 --> 00:40:39,551
+-Would you rather eat 100 glizzies
+
+573
+00:40:39,551 --> 00:40:43,645
+or pass away
+from big-booty disease?
+
+574
+00:40:43,645 --> 00:40:45,253
+-Good question.
+Good question.
+
+575
+00:40:45,253 --> 00:40:48,076
+I guess I would obviously
+choose the glizzies.
+
+576
+00:40:48,076 --> 00:40:50,328
+-Oh, hell, no!
+-Oh, hell, no!
+
+577
+00:40:50,328 --> 00:40:53,000
+-Mr. Jost a glizzy goblin!
+
+578
+00:40:55,564 --> 00:40:58,084
+-You nasty, bro.
+-Sick boy.
+
+579
+00:40:58,084 --> 00:41:01,996
+-All right, you guys,
+you're too rowdy, okay?
+You guys need to calm down.
+
+580
+00:41:01,996 --> 00:41:05,446
+-Okay, fine. Jokes aside,
+
+581
+00:41:05,446 --> 00:41:10,607
+I don't think this
+inflation will
+predicate a noticeable shift
+in the Federal Reserve.
+
+582
+00:41:10,607 --> 00:41:13,500
+-Yeah, but it does
+put the Fed between
+a rock and a hard place
+
+583
+00:41:13,500 --> 00:41:18,660
+because they have
+to promote low inflation
+while still encouraging
+economic growth.
+
+584
+00:41:18,660 --> 00:41:20,593
+-The hell?
+
+585
+00:41:20,593 --> 00:41:23,638
+Is that...
+Are you guys,
+like, secretly smart?
+
+586
+00:41:23,638 --> 00:41:27,141
+-Yes, dude. We get tutoring
+from Amanda Cahold.
+
+587
+00:41:27,141 --> 00:41:31,019
+She's a genius.
+You know Amanda Cahold.
+-Who is Amanda Cahold?
+
+588
+00:41:31,019 --> 00:41:33,480
+-Amanda Cahold deez nuts.
+
+589
+00:41:33,480 --> 00:41:38,150
+-Got him! Got him!
+-Got him!
+-Got him!
+-Got him!
+-Got him!
+
+590
+00:41:38,463 --> 00:41:40,263
+-Bitch!
+-Bitch!
+
+591
+00:41:41,713 --> 00:41:44,725
+-That is-- You know what?
+I'm calling your mom.
+
+592
+00:41:44,725 --> 00:41:45,906
+-No, no, no!
+-We didn't do nothing!
+
+593
+00:41:45,906 --> 00:41:47,769
+-We didn't do anything.
+-We didn't even do nothing!
+
+594
+00:41:47,769 --> 00:41:49,466
+-I didn't even do nothing.
+-He ain't even do nothing.
+
+595
+00:41:49,466 --> 00:41:52,544
+-Why would you call my mom
+if I didn't even do nothing?
+
+596
+00:41:55,453 --> 00:41:57,853
+-Please don't call her.
+She's gonna hit me.
+Please, please, please, please.
+
+597
+00:41:57,853 --> 00:41:59,393
+Don't call.
+She's gonna hit him.
+
+598
+00:41:59,393 --> 00:42:03,246
+Okay. We're sorry, Mr. Jost.
+Okay? We didn't mean it.
+
+599
+00:42:03,246 --> 00:42:07,108
+-Have you even considered
+how our home lives
+affect our behavior?
+
+600
+00:42:07,108 --> 00:42:10,616
+-Yeah.
+Did you ever stop to think
+
+601
+00:42:10,616 --> 00:42:13,832
+why we are the way that we are?
+
+602
+00:42:14,306 --> 00:42:18,440
+-Wow. You know,
+I guess I haven't.
+I apologize.
+
+603
+00:42:18,440 --> 00:42:20,740
+I guess I can be
+insensitive sometimes,
+
+604
+00:42:20,740 --> 00:42:23,845
+because when I was younger,
+I was diagnosed with ligma.
+
+605
+00:42:23,845 --> 00:42:25,980
+-Ligma?
+-Ligma?
+-Yeah,
+
+606
+00:42:25,980 --> 00:42:29,125
+it's ligma fat nuts!
+
+607
+00:42:35,623 --> 00:42:38,280
+-My God.
+
+608
+00:42:40,708 --> 00:42:43,222
+-We're children.
+-Bo!
+
+609
+00:42:43,579 --> 00:42:47,028
+Two kids in the back of
+the school bus, everyone.
+-You're an animal!
+
+610
+00:42:47,326 --> 00:42:50,734
+-Come at the king,
+you best no miss!
+-No, no!
+
+611
+00:42:53,463 --> 00:42:57,194
+-Why do you have
+fat nuts, man?
+
+612
+00:42:58,906 --> 00:43:02,158
+A new study...
+-Ask God.
+
+613
+00:43:03,803 --> 00:43:07,572
+-A new study reveals
+that sharks
+in the Bahamas
+
+614
+00:43:07,572 --> 00:43:09,842
+have tested
+positive for painkillers.
+
+615
+00:43:09,842 --> 00:43:12,940
+In fact, the only animals
+that consume more
+painkillers
+
+616
+00:43:12,940 --> 00:43:15,212
+are tigers.
+
+617
+00:43:19,290 --> 00:43:23,233
+-A new report finds
+that the state with
+the most adult children
+
+618
+00:43:23,233 --> 00:43:26,754
+still living with their parents
+is New Jersey.
+
+619
+00:43:26,985 --> 00:43:30,416
+Adult children in New Jersey
+are calling the report
+
+620
+00:43:30,416 --> 00:43:33,410
+"Ma! Why You Gotta
+Tell Them That For?"
+
+621
+00:43:37,110 --> 00:43:42,438
+British officials
+have blocked Ye from
+entering the country to
+perform at a music festival
+
+622
+00:43:42,438 --> 00:43:46,036
+despite his offer to meet
+with members of England's
+Jewish community,
+
+623
+00:43:46,036 --> 00:43:50,294
+which he thinks are the bank
+goblins from Harry Potter.
+
+624
+00:43:52,098 --> 00:43:56,044
+-It was announced that when
+King Charles visits
+the U.S. this month,
+
+625
+00:43:56,044 --> 00:43:58,233
+he will deliver a joint address
+to Congress,
+
+626
+00:43:58,233 --> 00:44:01,975
+where, God willing,
+he offers to take us back.
+
+627
+00:44:02,581 --> 00:44:07,749
+The Gilgo Beach killer
+has pleaded guilty
+to eight murders
+on Long Island.
+
+628
+00:44:07,749 --> 00:44:11,150
+And, honey, I hope one of them
+was your barber.
+
+629
+00:44:13,958 --> 00:44:17,400
+You like how sassy I am?
+-Yes, I do.
+
+630
+00:44:17,400 --> 00:44:22,508
+A number of bars
+around the country have
+implemented a policy
+banning cellphones,
+
+631
+00:44:22,508 --> 00:44:27,168
+this according to a recent
+lie a man told his wife.
+
+632
+00:44:28,954 --> 00:44:34,518
+-A video has surfaced in which
+a quadruple amputee
+cornhole champion
+
+633
+00:44:34,518 --> 00:44:39,294
+accused of a road-rage shooting
+is seen firing a semi-automatic
+rifle
+
+634
+00:44:39,294 --> 00:44:43,935
+and standing on his head
+snorting drugs
+off a dollar bill.
+
+635
+00:44:43,935 --> 00:44:47,775
+So, what's stopping you
+from living your best life?
+
+636
+00:44:52,405 --> 00:44:58,051
+-A pig named Merlin
+that can talk using
+pre-programmed buttons
+
+637
+00:44:58,051 --> 00:45:02,338
+has
+set a new world record
+for largest Instagram
+following for a pig.
+
+638
+00:45:02,338 --> 00:45:06,128
+And then it set the record
+for smartest pork chop.
+
+639
+00:45:09,017 --> 00:45:13,196
+-You still got that
+mustache on your finger.
+
+640
+00:45:13,196 --> 00:45:17,438
+Doctors are warning
+against a TikTok trend...
+
+641
+00:45:18,430 --> 00:45:20,982
+Doctors are warning
+against a TikTok trend
+
+642
+00:45:20,982 --> 00:45:25,646
+which claims people can cure
+their hemorrhoids by putting
+sugar on their anus.
+
+643
+00:45:25,646 --> 00:45:30,906
+Putting sugar on an anus is also
+the recipe for Hostess donettes.
+
+644
+00:45:34,437 --> 00:45:38,221
+You can't unsee it.
+You can't unsee it.
+
+645
+00:45:39,666 --> 00:45:44,444
+-Speaking of, a new book
+on healthy bowel movements
+has been published
+
+646
+00:45:44,444 --> 00:45:46,858
+called "You've Been Pooping
+All Wrong."
+
+647
+00:45:46,858 --> 00:45:49,972
+And they're right. I have been.
+
+648
+00:45:53,941 --> 00:45:55,352
+Cowboy
+
+649
+00:45:55,352 --> 00:45:58,330
+-A new study has shown
+that young people today
+
+650
+00:45:58,330 --> 00:46:01,830
+are having less sex than at any
+other point in history.
+
+651
+00:46:01,830 --> 00:46:05,680
+Here to comment is Gen Z
+Sexpert Lindt Greer.
+
+652
+00:46:06,282 --> 00:46:08,311
+-Hi, Michael.
+
+653
+00:46:08,311 --> 00:46:10,321
+Hi, Michael.
+-How you doing, Lindt?
+
+654
+00:46:10,321 --> 00:46:13,515
+-So, sex, let's talk about it.
+
+655
+00:46:13,515 --> 00:46:16,564
+Sex is an incredible piece
+of the human experience,
+
+656
+00:46:16,564 --> 00:46:18,342
+and there's nothing
+to be ashamed of,
+
+657
+00:46:18,342 --> 00:46:21,916
+whether you're vanilla
+or disgusting.
+
+658
+00:46:21,916 --> 00:46:25,952
+-So you're here to teach Gen Z
+about healthy sex practices?
+
+659
+00:46:25,952 --> 00:46:30,570
+-Yes. And sex can look
+like anything. What is it?
+
+660
+00:46:31,695 --> 00:46:33,193
+-Are you going to tell us?
+
+661
+00:46:33,193 --> 00:46:37,435
+-Of course, Michael.
+Let's get granular.
+Sex can be any shape.
+
+662
+00:46:37,435 --> 00:46:42,555
+It doesn't have to be
+with someone you love.
+It just has to be at night.
+
+663
+00:46:42,828 --> 00:46:45,933
+-And you say you're
+a sex educator, right?
+
+664
+00:46:45,933 --> 00:46:49,857
+-I am. Sex is complicated.
+It's impossible to understand,
+
+665
+00:46:49,857 --> 00:46:54,518
+which is why my sexpert
+advice is just do whatever.
+
+666
+00:46:54,518 --> 00:46:57,457
+-I guess I would hope
+that as an educator,
+
+667
+00:46:57,457 --> 00:47:00,468
+you'd have some guidance
+beyond "just do whatever."
+
+668
+00:47:00,468 --> 00:47:02,921
+-Well, there are
+only two rules in sex.
+
+669
+00:47:02,921 --> 00:47:07,360
+One, have fun
+and two, no raping.
+
+670
+00:47:08,980 --> 00:47:13,056
+-You disagree, Che?
+-No! I'm not...
+
+671
+00:47:14,086 --> 00:47:16,834
+I just mean
+that came out of nowhere.
+
+672
+00:47:16,834 --> 00:47:21,026
+-Well, raping can
+come out of nowhere.
+-Okay.
+
+673
+00:47:21,026 --> 00:47:26,536
+-Now, sex. Let's get into it.
+What is it?
+-You keep asking that.
+
+674
+00:47:26,536 --> 00:47:30,495
+-To echo the famous quote,
+"I can't define sex,
+
+675
+00:47:30,495 --> 00:47:33,473
+but I know it
+when I'm having it."
+
+676
+00:47:33,473 --> 00:47:36,607
+-I have a question, and
+don't take this the wrong way.
+
+677
+00:47:36,607 --> 00:47:39,970
+But have you had sex before?
+
+678
+00:47:42,382 --> 00:47:45,157
+-I must have.
+
+679
+00:47:45,701 --> 00:47:49,425
+If I hadn't, how would
+I know all of this?
+
+680
+00:47:49,425 --> 00:47:53,368
+-All of what?
+Look. It's okay if you haven't.
+
+681
+00:47:53,368 --> 00:47:54,687
+-Put it this way, Che.
+
+682
+00:47:54,687 --> 00:47:58,642
+I've had something
+that might be sex,
+and I've had it a lot.
+
+683
+00:47:58,642 --> 00:48:02,045
+If I haven't had sex,
+then what do you think I had?
+
+684
+00:48:02,045 --> 00:48:05,409
+-Is that like a riddle
+or something?
+I don't know.
+
+685
+00:48:05,409 --> 00:48:08,669
+-Here's how it went. It's night.
+
+686
+00:48:08,669 --> 00:48:11,829
+My friend is there,
+but I don't love him.
+-Okay.
+
+687
+00:48:11,829 --> 00:48:15,747
+-I get on my hands and knees,
+curl my head down
+towards the bed,
+
+688
+00:48:15,747 --> 00:48:18,698
+kick my legs up
+and go all the way over.
+
+689
+00:48:18,698 --> 00:48:21,338
+Then I fall back, breathless.
+
+690
+00:48:21,338 --> 00:48:24,550
+-That sounds like
+you did a somersault.
+
+691
+00:48:24,550 --> 00:48:27,837
+-Yes. Sex can look
+like anything.
+
+692
+00:48:27,837 --> 00:48:30,077
+-Yeah, but not anything.
+
+693
+00:48:30,077 --> 00:48:32,284
+-Well, here's something else
+I had,
+
+694
+00:48:32,284 --> 00:48:35,166
+and I wonder if it was sex.
+-Go for it.
+
+695
+00:48:35,166 --> 00:48:39,314
+-I sat on a catcher's mitt.
+-That's not sex.
+
+696
+00:48:39,314 --> 00:48:41,385
+-But it left me breathless.
+
+697
+00:48:41,385 --> 00:48:44,874
+-Lindt Greer, everybody.
+-Just do whatever.
+
+698
+00:48:44,874 --> 00:48:49,817
+-For "Weekend Update,"
+I'm Michael Che.
+-I'm Colin Jost.
+Just do whatever.
+
+699
+00:49:13,221 --> 00:49:15,491
+-I was just looking
+through the photo books.
+
+700
+00:49:15,491 --> 00:49:18,357
+Seems like Grandpa was
+a really amazing guy.
+
+701
+00:49:18,357 --> 00:49:21,024
+-Oh. He was, honey.
+I'll miss him.
+
+702
+00:49:21,024 --> 00:49:24,976
+-Yeah, I feel bad.
+I feel like growing up
+in Florida,
+
+703
+00:49:24,976 --> 00:49:26,980
+I never really got
+to know Grandpa.
+
+704
+00:49:26,980 --> 00:49:29,809
+-Oh, well, he was
+a difficult man to know.
+
+705
+00:49:29,809 --> 00:49:33,516
+He had his group of friends,
+and that's really it.
+
+706
+00:49:33,516 --> 00:49:35,589
+I just hope some of them
+show up today.
+
+707
+00:49:35,589 --> 00:49:36,848
+-Hello, Katie.
+-Oh.
+
+708
+00:49:36,848 --> 00:49:39,728
+-He's in a better place now.
+-Oh, thank you, Father.
+
+709
+00:49:39,728 --> 00:49:41,665
+-Yeah. Thank you, Father.
+-Thank you, Father.
+
+710
+00:49:41,665 --> 00:49:45,763
+-Oh, that was Father Murphy
+from my parish.
+That's sweet of him to come.
+
+711
+00:49:45,763 --> 00:49:49,119
+Oh, look who it is!
+
+712
+00:49:52,583 --> 00:49:55,498
+I'm so sorry for your loss.
+
+713
+00:49:55,793 --> 00:49:58,552
+Thank you.
+Thank you for coming.
+
+714
+00:49:58,552 --> 00:50:00,162
+-Yeah. Your father
+will be missed.
+
+715
+00:50:00,162 --> 00:50:04,606
+Heaven has gained a freaky,
+little angel today.
+-Yes.
+
+716
+00:50:05,452 --> 00:50:09,046
+-Oh, genes came out a little
+different with these two.
+
+717
+00:50:09,046 --> 00:50:13,907
+-Okay, well, Mom,
+who-- who was that?
+-Oh, that was Suede.
+
+718
+00:50:13,907 --> 00:50:16,555
+-How did Grandpa know Suede?
+
+719
+00:50:16,555 --> 00:50:20,487
+-Suede was one of his friends
+from the life.
+
+720
+00:50:21,047 --> 00:50:22,531
+-What?
+
+721
+00:50:22,531 --> 00:50:24,370
+-Why?
+
+722
+00:50:24,370 --> 00:50:27,978
+-Oh, Crystalline, Tribeca,
+you came.
+
+723
+00:50:27,978 --> 00:50:30,812
+- Hey, sorry
+for your loss.
+
+724
+00:50:31,180 --> 00:50:36,104
+-Yeah, we brought a few items
+we thought
+he'd like to bring
+to the beyond.
+
+725
+00:50:36,104 --> 00:50:39,125
+You mind if we casket 'em?
+-Oh, go right ahead, girls.
+
+726
+00:50:39,125 --> 00:50:41,854
+-Thanks.
+-Okay.
+
+727
+00:50:47,679 --> 00:50:50,569
+-Can't forget my purse.
+
+728
+00:50:57,370 --> 00:51:01,910
+-Oh, I'm sure wherever he is,
+he's looking up
+at those girls, smiling.
+
+729
+00:51:01,910 --> 00:51:04,092
+-Looking up?
+
+730
+00:51:04,092 --> 00:51:09,201
+-Mom, was Grandpa some
+kind of like...pimp?
+
+731
+00:51:12,123 --> 00:51:16,086
+-Your grandfather
+was incredible, man.
+
+732
+00:51:16,086 --> 00:51:21,196
+And when he put on that wig,
+he was one of my best hos.
+
+733
+00:51:21,196 --> 00:51:23,854
+-Thanks for coming, Delicious.
+
+734
+00:51:23,854 --> 00:51:28,172
+-I'm sorry. Did he say "hos"?
+-Yeah, that's what I said,
+little man.
+
+735
+00:51:28,172 --> 00:51:30,085
+So, who's gonna flip him over?
+
+736
+00:51:30,085 --> 00:51:32,790
+He would have wanted
+to be buried how he lived --
+
+737
+00:51:32,790 --> 00:51:35,852
+face down, booty up.
+
+738
+00:51:35,852 --> 00:51:39,863
+-What is he talking about, Mom?
+-Honey, just a moment.
+Just a moment.
+
+739
+00:51:39,863 --> 00:51:42,069
+So, how have you been,
+Delicious?
+
+740
+00:51:42,069 --> 00:51:44,547
+You keeping the girls in line?
+You keeping it 100?
+
+741
+00:51:44,547 --> 00:51:46,737
+-As always. As always.
+
+742
+00:51:46,737 --> 00:51:49,865
+Gosh, you know what I miss
+about your daddy?
+
+743
+00:51:49,865 --> 00:51:54,146
+You could have your way with him
+no matter what you looked like,
+
+744
+00:51:54,146 --> 00:51:58,202
+as long as you paid him
+his dollar.
+-That's right.
+
+745
+00:51:58,202 --> 00:52:00,854
+-One dollar?!
+
+746
+00:52:00,854 --> 00:52:03,024
+-Oh, where are my manners?
+
+747
+00:52:03,024 --> 00:52:06,579
+Delicious, these are my sons,
+Mike and Jake.
+
+748
+00:52:08,683 --> 00:52:10,840
+Nice to meet you both.
+
+749
+00:52:10,840 --> 00:52:14,550
+You could earn.
+
+750
+00:52:15,720 --> 00:52:20,056
+You...go to college.
+
+751
+00:52:20,056 --> 00:52:21,860
+-What?
+
+752
+00:52:21,860 --> 00:52:26,697
+-Mom, was Grandpa
+like a sex worker?
+
+753
+00:52:26,697 --> 00:52:28,811
+-Oh, no, honey!
+
+754
+00:52:28,811 --> 00:52:32,153
+He preferred the term
+"boy whore."
+
+755
+00:52:32,153 --> 00:52:34,999
+Hey, I'm so sorry for your loss.
+
+756
+00:52:34,999 --> 00:52:39,273
+I'm gonna miss Jim,
+but I'll always have
+a piece of him right here.
+
+757
+00:52:39,273 --> 05:03:30,480
+-Oh, my gosh,
+Grandpa is the father?
+
+758
+05:03:30,480 --> 05:03:31,980
+-No, Muffin is the father.
+
+759
+05:03:31,980 --> 05:03:33,920
+I was talking about my ink.
+-Oh.
+
+760
+05:03:36,580 --> 05:03:38,410
+-Speaking of,
+have you seen Muffin?
+
+761
+05:03:38,420 --> 05:03:39,990
+-Oh, I think he's saying
+his final goodbyes.
+
+762
+05:03:45,360 --> 05:03:53,070
+Yo, I am pleased to report that
+rigor mortis has set in.
+
+763
+05:03:54,600 --> 05:03:58,240
+-Dude, this is insane.
+Why is he in there?
+
+764
+05:03:58,240 --> 05:04:01,040
+Why is he going back in there?
+
+765
+05:04:07,710 --> 05:04:09,780
+-Sorry. Are you
+laughing or crying?
+
+766
+05:04:11,120 --> 05:04:13,160
+-Laughing because
+the good times happened.
+
+767
+05:04:13,150 --> 05:04:15,190
+Crying because they're over.
+
+768
+05:04:15,190 --> 05:04:18,830
+-Oh. You're a poet, White Cocoa.
+
+769
+05:04:18,820 --> 05:04:21,020
+These are my sons,
+Mike and Jake.
+
+770
+05:04:21,030 --> 05:04:22,930
+-Mm, pleasure.
+
+771
+05:04:22,930 --> 05:04:25,600
+"Pleasure" would be your street
+name if you worked for me.
+
+772
+05:04:25,600 --> 05:04:26,600
+Think about it.
+
+773
+05:04:28,200 --> 05:04:30,330
+Nice to meet you, Jake.
+
+774
+05:04:34,770 --> 05:04:38,510
+-I'm sorry. How many
+pimps did Grandpa have?
+
+775
+05:04:39,250 --> 05:04:42,050
+-How many pimps?
+
+776
+05:04:42,050 --> 05:04:44,590
+You might as well...
+
+777
+05:04:44,580 --> 05:04:46,010
+You're asking how many pimps?
+
+778
+05:04:46,020 --> 05:04:49,920
+You might as well ask how many
+stars there are in the sky.
+
+779
+05:04:49,920 --> 05:04:51,690
+That'd be four.
+
+780
+05:04:52,160 --> 05:04:54,730
+I am very sorry for your loss,
+Katie.
+
+781
+05:04:54,730 --> 05:04:56,830
+-Oh. Thank you,
+Mac Daddy Vanilla.
+
+782
+05:05:01,540 --> 05:05:04,380
+-And you must be
+the famous Mike
+
+783
+05:05:04,370 --> 05:05:05,670
+I've heard so much about.
+
+784
+05:05:05,670 --> 05:05:08,540
+You give me a call if you
+want to live that life.
+
+785
+05:05:12,480 --> 05:05:13,580
+And you?
+
+786
+05:05:13,580 --> 05:05:16,080
+What were you, uh,
+adopted from the shire?
+
+787
+05:05:18,120 --> 05:05:20,360
+Fugly-ass ho!
+
+788
+05:05:25,390 --> 05:05:29,560
+-Okay. Um, Mom,
+what is "the life"?
+
+789
+05:05:29,560 --> 05:05:31,690
+-Yeah, and why can't I live it?
+
+790
+05:05:31,700 --> 05:05:34,000
+-Oh. Oh, honey,
+
+791
+05:05:34,000 --> 05:05:36,900
+you can do anything
+you set your mind to.
+
+792
+05:05:36,900 --> 05:05:41,340
+-Really? All right, then.
+I'm really gonna do it!
+
+793
+06:00:03,430 --> 06:00:06,030
+-Once again, Anitta.
+
+794
+06:00:17,570 --> 06:00:20,600
+-[ Singing in Spanish ]
+
+795
+06:00:25,630 --> 06:00:28,660
+[ Singing in Spanish ]
+
+796
+06:00:33,530 --> 06:00:36,560
+[ Singing in Spanish ]
+
+797
+06:00:41,500 --> 06:00:44,530
+[ Singing in Spanish ]
+
+798
+06:00:49,300 --> 06:00:52,330
+[ Singing in Spanish ]
+
+799
+06:00:57,100 --> 06:01:00,200
+[ Singing in Spanish ]
+
+800
+06:01:07,330 --> 06:01:10,360
+[ Singing in Spanish ]
+
+801
+06:01:11,330 --> 06:01:14,360
+[ Singing in Spanish ]
+
+802
+06:01:18,200 --> 06:01:21,230
+[ Singing in Spanish ]
+
+803
+06:01:24,900 --> 06:01:27,930
+[ Singing in Spanish ]
+
+804
+06:01:32,970 --> 06:01:36,000
+[ Singing in Spanish ]
+
+805
+06:01:38,870 --> 06:01:41,900
+[ Singing in Spanish ]
+
+806
+06:01:46,230 --> 06:01:49,260
+[ Singing in Spanish ]
+
+807
+06:01:53,630 --> 06:01:56,660
+[ Singing in Spanish ]
+
+808
+06:02:01,930 --> 06:02:04,960
+[ Singing in Spanish ]
+
+809
+06:02:10,570 --> 06:02:13,600
+[ Singing in Spanish ]
+
+810
+06:02:17,970 --> 06:02:21,000
+[ Singing in Spanish ]
+
+811
+06:02:24,370 --> 06:02:27,400
+[ Singing in Spanish ]
+
+812
+06:02:32,230 --> 06:02:35,260
+[ Singing in Spanish ]
+
+813
+06:02:38,700 --> 06:02:41,730
+[ Singing in Spanish ]
+
+814
+06:02:44,470 --> 06:02:47,470
+[ Singing in Spanish ]
+
+815
+06:02:47,470 --> 06:02:50,540
+d Yeah, yeah d
+
+816
+06:02:50,530 --> 06:02:53,030
+d Yeah, yeah-yeah-yeah-yeah d
+
+817
+06:02:53,030 --> 06:02:55,330
+d Yeah, yeah-yeah-yeah d
+
+818
+06:02:55,330 --> 06:02:57,960
+d Yeah, yeah-yeah-yeah-yeah d
+
+819
+06:02:57,970 --> 06:03:00,940
+d Yeah, yeah, yeah d
+
+820
+06:03:00,930 --> 06:03:03,730
+d Yeah, yeah, yeah d
+
+821
+06:03:03,730 --> 06:03:06,800
+d Yeah, yeah-yeah-yeah d
+
+822
+06:03:06,800 --> 06:03:09,030
+d Yeah-yeah-yeah-yeah d
+
+823
+07:00:03,140 --> 07:00:05,380
+-I wonder what the
+new teacher is gonna be like.
+
+824
+07:00:05,370 --> 07:00:07,710
+-Probably just like all
+the other instructors here
+
+825
+07:00:07,710 --> 07:00:11,980
+at Sherwood Academy --
+another boring, humdrum stiff.
+
+826
+07:00:16,620 --> 07:00:21,960
+-Discipline.
+Memorization. Conformity.
+
+827
+07:00:21,950 --> 07:00:25,120
+All these things have
+one thing in common.
+
+828
+07:00:25,130 --> 07:00:27,100
+They're not welcome
+in my classroom.
+
+829
+07:00:29,260 --> 07:00:31,860
+-But, sir,
+the Academy creed is
+
+830
+07:00:31,860 --> 07:00:34,400
+"the learned boy shall conform."
+
+831
+07:00:35,700 --> 07:00:37,300
+-Phooey, boys!
+
+832
+07:00:37,300 --> 07:00:39,670
+Throw your pencils on the floor.
+
+833
+07:00:39,670 --> 07:00:42,140
+-But the floor is
+where the dirt is.
+
+834
+07:00:42,140 --> 07:00:44,410
+-Oh, do it anyway.
+
+835
+07:00:45,240 --> 07:00:46,410
+-Okay.
+
+836
+07:00:46,950 --> 07:00:49,190
+-This is crazy.
+
+837
+07:00:49,180 --> 07:00:51,250
+What we're doing is crazy.
+
+838
+07:00:54,190 --> 07:00:56,160
+-Let me tell you something.
+
+839
+07:00:56,160 --> 07:00:58,730
+You won't find anything
+in a textbook
+
+840
+07:00:58,730 --> 07:01:01,270
+you can't find in your heart.
+
+841
+07:01:06,370 --> 07:01:08,570
+-Hey, man, I see what you're
+doing with the whole
+
+842
+07:01:08,570 --> 07:01:10,510
+free-spirited teaching thing.
+
+843
+07:01:10,500 --> 07:01:12,670
+And that might work in
+like a poetry class.
+
+844
+07:01:12,670 --> 07:01:14,970
+-Yes. Now you're getting it.
+
+845
+07:01:14,970 --> 07:01:16,870
+-Yeah, but this is math.
+
+846
+07:01:18,380 --> 07:01:20,220
+-Right. "Math."
+
+847
+07:01:21,550 --> 07:01:25,890
+You've probably all been taught
+that 5 times 5 is 25.
+
+848
+07:01:25,890 --> 07:01:29,060
+But what if it wasn't?
+
+849
+07:01:29,060 --> 07:01:31,960
+-It is though. It's 25.
+
+850
+07:01:31,960 --> 07:01:34,600
+-But it doesn't have to be.
+
+851
+07:01:34,590 --> 07:01:35,860
+Boy Red...
+
+852
+07:01:38,670 --> 07:01:39,970
+Make up a number,
+
+853
+07:01:39,970 --> 07:01:42,570
+a number
+no one's even heard of before.
+
+854
+07:01:42,570 --> 07:01:45,370
+-Um, beleventy?
+
+855
+07:01:47,440 --> 07:01:50,110
+Excellent. How did that feel?
+
+856
+07:01:50,110 --> 07:01:52,510
+-I mean,
+it felt weird coming out.
+
+857
+07:01:54,110 --> 07:01:56,210
+-And it should. Oh!
+
+858
+07:01:56,220 --> 07:01:57,860
+You, a number.
+
+859
+07:01:57,850 --> 07:02:01,290
+-Um, um, christophthree?
+
+860
+07:02:01,290 --> 07:02:03,330
+-Wonderful!
+
+861
+07:02:03,320 --> 07:02:07,460
+Now, what do we get when we add
+christophthree plus beleventy?
+
+862
+07:02:07,460 --> 07:02:09,160
+What should it be?
+
+863
+07:02:09,160 --> 07:02:14,430
+-Um, maybe, uh,
+maybe flu-- uh, fludeetwo?
+
+864
+07:02:14,430 --> 07:02:16,500
+Yes. Maybe it's fludeetwo.
+
+865
+07:02:16,500 --> 07:02:19,570
+-Chills! I have chills.
+Fludeetwo.
+
+866
+07:02:19,570 --> 07:02:23,070
+Yes. Now, that's math
+without conformity.
+
+867
+07:02:23,080 --> 07:02:26,520
+-Okay. Yeah, but math needs to
+conform in order
+
+868
+07:02:26,510 --> 07:02:28,340
+to solve, like, real-world
+problems.
+
+869
+07:02:28,350 --> 07:02:31,790
+-Oh! We can solve problems.
+
+870
+07:02:31,780 --> 07:02:33,550
+Like 30.
+
+871
+07:02:33,550 --> 07:02:35,950
+Why do you think
+we haven't solved 30 yet?
+
+872
+07:02:38,260 --> 07:02:39,730
+-Because 30 is not a problem.
+
+873
+07:02:39,730 --> 07:02:41,470
+It's a number.
+
+874
+07:02:41,460 --> 07:02:44,460
+-And what
+if all the numbers had a color?
+
+875
+07:02:44,460 --> 07:02:50,370
+Like, what if I hold up this
+many and say it was orange
+
+876
+07:02:50,370 --> 07:02:54,110
+and this many was one
+of the other colors.
+
+877
+07:02:54,110 --> 07:02:56,880
+-Lilac.
+That many could be lilac.
+
+878
+07:02:56,880 --> 07:02:59,480
+-Yes.
+Now you've made up a color too.
+
+879
+07:02:59,480 --> 07:03:01,180
+Ha! Oh!
+
+880
+07:03:01,180 --> 07:03:03,050
+Let's try calculus.
+
+881
+07:03:03,050 --> 07:03:04,880
+-Hey, man, I don't
+want to see you do calculus.
+
+882
+07:03:04,880 --> 07:03:07,150
+You were just counting on
+your fingers.
+
+883
+07:03:07,150 --> 07:03:08,890
+I mean, we're trying
+to get into college.
+
+884
+07:03:08,890 --> 07:03:11,090
+-Why?
+So you can go off into the world
+
+885
+07:03:11,090 --> 07:03:14,260
+and get some kind of "job"?
+
+886
+07:03:14,260 --> 07:03:16,300
+-Yes.
+
+887
+07:03:16,300 --> 07:03:18,570
+-Or so you can invent
+a machine.
+
+888
+07:03:18,560 --> 07:03:20,660
+-It was the first thing.
+
+889
+07:03:20,670 --> 07:03:22,200
+It was the first thing
+that you said.
+
+890
+07:03:23,540 --> 07:03:25,670
+-There you go.
+
+891
+07:03:25,670 --> 07:03:27,940
+Student teaching the teacher.
+
+892
+07:03:27,940 --> 07:03:30,810
+I love it. Let's all go around.
+
+893
+07:03:30,810 --> 07:03:32,340
+Everyone do a lesson.
+
+894
+07:03:32,350 --> 07:03:37,020
+-Um, uh, why does Spanish math
+have cuatro but not English?
+
+895
+07:03:37,020 --> 07:03:40,590
+-I don't know.
+Let's put that in.
+
+896
+07:03:40,590 --> 07:03:44,130
+-Um, what if a one
+and two were married
+
+897
+07:03:44,120 --> 07:03:48,990
+and three was their baby, and
+then four was their neighbor?
+
+898
+07:03:49,000 --> 07:03:52,900
+-And what would five be?
+Could five be like their friend?
+
+899
+07:03:52,900 --> 07:03:56,670
+-Uh, uh, I don't know,
+I don't know, I don't know.
+
+900
+07:03:56,670 --> 07:03:59,570
+That was everything I had.
+I'm sorry.
+
+901
+07:03:59,570 --> 07:04:01,440
+-Well, five would be the dog.
+
+902
+07:04:05,250 --> 07:04:08,920
+Genius. You're a genius!
+
+903
+07:04:08,920 --> 07:04:11,790
+Custodian, join us.
+Put that down.
+
+904
+07:04:11,780 --> 07:04:14,080
+-Oh, okay.
+
+905
+07:04:14,090 --> 07:04:17,260
+Somebody buy that man
+a beer after class.
+
+906
+07:04:17,260 --> 07:04:19,630
+-We're 14!
+
+907
+07:04:19,630 --> 07:04:22,100
+-Wait, I got one.
+Um, when counting,
+
+908
+07:04:22,100 --> 07:04:25,840
+what if you could count
+every number in one breath?
+
+909
+07:04:25,830 --> 07:04:28,230
+One-two-three-four-five!
+
+910
+07:04:28,240 --> 07:04:29,640
+One-two-three! Oh!
+
+911
+07:04:29,640 --> 07:04:31,980
+Never mind. You can't.
+
+912
+07:04:31,970 --> 07:04:35,310
+-Oh, why can you divide
+two numbers
+
+913
+07:04:35,310 --> 07:04:37,580
+but not unite two numbers?
+-Oh!
+
+914
+07:04:37,580 --> 07:04:39,680
+-You can! It's addition!
+
+915
+07:04:42,520 --> 07:04:44,190
+-This might get me in trouble,
+
+916
+07:04:44,180 --> 07:04:46,880
+but I think I'm attracted
+to eight.
+
+917
+07:04:46,890 --> 07:04:51,430
+It's got that itty bitty waist
+but that thang down below.
+
+918
+07:04:51,430 --> 07:04:53,330
+-Yes!
+
+919
+07:04:53,330 --> 07:04:55,930
+Academically speaking, eight...
+
+920
+07:04:57,430 --> 07:04:59,530
+...is slim thick.
+
+921
+07:04:59,530 --> 07:05:03,330
+-No, no, no, no!
+This is all nonsense!
+
+922
+07:05:03,340 --> 07:05:05,610
+I mean,
+we're just making crap up.
+
+923
+07:05:05,610 --> 07:05:07,680
+Why don't we call this my mom?
+
+924
+07:05:07,670 --> 07:05:09,640
+Oh, hello, Mommy.
+
+925
+07:05:09,640 --> 07:05:11,340
+What?
+
+926
+07:05:11,350 --> 07:05:13,650
+And look, Mother, oh,
+this is a door,
+
+927
+07:05:13,650 --> 07:05:16,720
+and I'm a butterfly,
+and I can fly!
+
+928
+07:05:24,660 --> 07:05:26,600
+-This did not happen.
+I was not here.
+
+929
+07:05:28,300 --> 07:05:30,240
+He's the teacher. Good day.
+
+930
+07:05:31,800 --> 07:05:33,670
+-Okey-dokey, students.
+
+931
+07:05:33,670 --> 07:05:38,010
+Why don't we open
+our textbooks to page fludeetwo?
+
+932
+07:05:38,000 --> 07:05:41,140
+And today we talkin' eight.
+
+933
+08:00:01,640 --> 08:00:04,610
+-We're just four normal
+teens living in the suburbs.
+
+934
+08:00:04,610 --> 08:00:06,910
+-But we do have a secret.
+
+935
+08:00:06,910 --> 08:00:10,580
+-We transform into animals
+to battle evil aliens,
+
+936
+08:00:10,580 --> 08:00:13,580
+but we always transform back
+in time for dinner.
+
+937
+08:00:13,580 --> 08:00:16,580
+-Saving humanity?
+That's easy.
+
+938
+08:00:16,580 --> 08:00:19,220
+The hard part is our homework.
+
+939
+08:00:19,220 --> 08:00:21,260
+-We're the Beastomorphs.
+
+940
+08:00:25,130 --> 08:00:27,970
+You crazy Earth kids may think
+you've seen the last of me,
+
+941
+08:00:27,960 --> 08:00:29,900
+but I'll be back. Mwahahaha!
+
+942
+08:00:31,660 --> 08:00:32,690
+-Good job, gang.
+
+943
+08:00:32,700 --> 08:00:35,040
+We said that evil alien
+Chumongous
+
+944
+08:00:35,030 --> 08:00:37,700
+back to the lousy planet
+he came from.
+
+945
+08:00:37,700 --> 08:00:39,670
+-Uh-oh. It's 6:00 p.m.
+
+946
+08:00:39,670 --> 08:00:41,800
+My mom's meatloaf
+is waiting for us.
+
+947
+08:00:41,810 --> 08:00:43,510
+-Let's Beastomorph.
+
+948
+08:00:48,250 --> 08:00:51,750
+-Nice. And my hair didn't
+even get messed up.
+
+949
+08:00:54,520 --> 08:00:56,020
+-Who's chicken now?
+
+950
+08:00:59,130 --> 08:01:01,770
+-This little piggy
+kicked some alien butt.
+
+951
+08:01:01,760 --> 08:01:03,290
+-Good one! Now my turn.
+
+952
+08:01:09,970 --> 08:01:13,710
+-What? What? Why are you
+all looking at me like that?
+
+953
+08:01:13,710 --> 08:01:16,810
+Let me guess.
+My hair got messed up.
+
+954
+08:01:16,810 --> 08:01:18,450
+-Lizzie, don't freak out,
+
+955
+08:01:18,440 --> 08:01:19,910
+but when you combination
+sneeze-farted,
+
+956
+08:01:19,910 --> 08:01:21,350
+you got stuck mid-morph.
+
+957
+08:01:21,350 --> 08:01:23,720
+-You can't show up for Mom's
+meatloaf looking like that.
+
+958
+08:01:23,720 --> 08:01:25,590
+-Brittany, stop!
+
+959
+08:01:25,590 --> 08:01:27,120
+We all know your mom's gone,
+and you just eat chips.
+
+960
+08:01:27,120 --> 08:01:28,760
+-I don't just eat chips.
+
+961
+08:01:28,750 --> 08:01:31,020
+I eat chips...and soda.
+
+962
+08:01:31,020 --> 08:01:32,790
+-Okay. Hey, we can
+figure this out, guys.
+
+963
+08:01:32,790 --> 08:01:34,060
+Let's put our heads together.
+
+964
+08:01:34,060 --> 08:01:35,830
+Oh, Lizzie, can you
+
+965
+08:01:35,830 --> 08:01:37,200
+just look at the wall
+while we talk?
+
+966
+08:01:37,200 --> 08:01:38,230
+-Sure.
+
+967
+08:01:40,730 --> 08:01:41,970
+-A little hard to see.
+I'm kind of looking
+
+968
+08:01:41,970 --> 08:01:43,710
+in two directions at once.
+
+969
+08:01:43,700 --> 08:01:45,670
+-Think, guys.
+How can we fix this?
+
+970
+08:01:45,670 --> 08:01:47,200
+-Okay, maybe if I sneeze
+
+971
+08:01:47,210 --> 08:01:49,650
+and then fart again,
+I can change back.
+
+972
+08:01:49,880 --> 08:01:51,410
+Ah-choo!
+
+973
+08:01:52,650 --> 08:01:54,350
+-Lizzie, stop.
+You're gonna hurt yourself.
+
+974
+08:01:54,350 --> 08:01:58,250
+-Maybe if I fart twice,
+then sneeze once, then burp?
+
+975
+08:02:01,360 --> 08:02:02,430
+-Yuck!
+
+976
+08:02:02,420 --> 08:02:04,090
+-That didn't work.
+
+977
+08:02:04,090 --> 08:02:06,990
+Okay, what about,
+um, sneeze, fart, pause,
+
+978
+08:02:06,990 --> 08:02:08,730
+spin around,
+fart three times quickly,
+
+979
+08:02:08,730 --> 08:02:10,730
+burp once, then fart again?
+
+980
+08:02:10,730 --> 08:02:12,630
+-Definitely not.
+Maybe if I do it?
+
+981
+08:02:12,630 --> 08:02:13,630
+-Yeah.
+
+982
+08:02:20,770 --> 08:02:21,870
+-I have to go home.
+
+983
+08:02:29,620 --> 08:02:32,960
+-Oh, no! Chumongous is coming!
+It's time to morph back.
+
+984
+08:02:32,950 --> 08:02:35,750
+-That's right! The great
+Chumongous has returned.
+
+985
+08:02:35,760 --> 08:02:37,830
+You Earth kids may have
+thought you've defeated me,
+
+986
+08:02:37,820 --> 08:02:39,390
+but I'm more powerful than ever!
+
+987
+08:02:39,390 --> 08:02:42,030
+Oh, my God, it smells
+like [bleep] in here.
+
+988
+08:02:42,030 --> 08:02:43,800
+-Sorry. We've all been spinning,
+
+989
+08:02:43,800 --> 08:02:45,600
+farting, and burping
+for the past few minutes.
+
+990
+08:02:45,600 --> 08:02:48,070
+-Why? Actually. Never mind.
+I don't care.
+
+991
+08:02:48,070 --> 08:02:51,070
+Prepare to die!
+
+992
+08:02:51,070 --> 08:02:52,240
+You...
+
+993
+08:02:54,310 --> 08:02:56,510
+...beautiful creature.
+
+994
+08:02:56,510 --> 08:02:59,980
+You're just about the most
+perfect thing I've ever seen.
+
+995
+08:02:59,980 --> 08:03:01,920
+- You really think so?
+
+996
+08:03:01,910 --> 08:03:05,610
+-Yes. There's just one problem.
+
+997
+08:03:05,620 --> 08:03:06,620
+-What is it?
+
+998
+08:03:07,750 --> 08:03:11,020
+-That frog hand
+ain't got my thing in it.
+
+999
+08:03:11,020 --> 08:03:12,760
+-Ew, dude!
+
+1000
+08:03:12,760 --> 08:03:14,530
+-Sorry. Is that, like,
+a big deal for you guys?
+
+1001
+08:03:14,530 --> 08:03:16,330
+That's, like, less
+than first base where I'm from.
+
+1002
+08:03:16,330 --> 08:03:17,600
+Where I'm from,
+
+1003
+08:03:17,600 --> 08:03:18,900
+if you go visit your grandmother
+in the hospital,
+
+1004
+08:03:18,900 --> 08:03:20,670
+you lean over
+and your grandma just
+
+1005
+08:03:20,670 --> 08:03:23,440
+grabs your thing out of respect!
+
+1006
+08:03:23,440 --> 08:03:26,040
+-What?
+-So, what do you say?
+
+1007
+08:03:26,040 --> 08:03:28,510
+You want to be
+my queen of Chumonga?
+
+1008
+08:03:28,510 --> 08:03:32,150
+-Well...it sure beats homework.
 
