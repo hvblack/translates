@@ -1585,7 +1585,7 @@ recorded a series of video logs.
 This one was filmed on day nine.
 
 315
-00:20:57,809 --> 00:21:00,004
+00:20:57,809 --> 00:21:00,104
 -Hi, there.
 
 316
@@ -1796,7 +1796,7 @@ Watch this. Watch this.
 -All right, all right.
 
 355
-00:23:41,139 --> 00:23:47,958
+00:23:41,169 --> 00:23:47,958
 I'd like to read another quote
 from another great astronaut,
 Sally Ride.
@@ -1905,7 +1905,7 @@ on Earth is this.
 I'm pulling him by his dong!
 
 376
-00:25:06,944 --> 00:25:10,486
+00:25:06,984 --> 00:25:10,486
 -Okay, screw it.
 Video over.
 
@@ -1995,7 +1995,7 @@ What if I told you a cloud
 can weigh over 1 million pounds?
 
 394
-00:26:49,191 --> 00:26:54,388
+00:26:49,191 --> 00:26:54,488
 What if I told you
 this clock is a man?
 
@@ -2050,11 +2050,11 @@ City Councilman
 Keith Hawkins?
 
 405
-00:27:52,849 --> 00:27:54,647
+00:27:52,849 --> 00:27:54,747
 Wait a minute.
 
 406
-00:27:54,647 --> 00:27:58,341
+00:27:54,747 --> 00:27:58,341
 Hello? Hello?
 
 407
@@ -3850,1122 +3850,990 @@ but I'll always have
 a piece of him right here.
 
 757
-00:52:39,273 --> 05:03:30,480
+00:52:39,273 --> 00:52:41,706
 -Oh, my gosh,
 Grandpa is the father?
 
 758
-05:03:30,480 --> 05:03:31,980
+00:52:41,706 --> 00:52:45,499
 -No, Muffin is the father.
+I was talking about my ink.
 
 759
-05:03:31,980 --> 05:03:33,920
-I was talking about my ink.
--Oh.
-
-760
-05:03:36,580 --> 05:03:38,410
+00:52:47,414 --> 00:52:49,478
 -Speaking of,
 have you seen Muffin?
 
-761
-05:03:38,420 --> 05:03:39,990
+760
+00:52:49,478 --> 00:52:52,313
 -Oh, I think he's saying
 his final goodbyes.
 
+761
+00:52:56,205 --> 00:52:59,880
+Yo, I am pleased to report
+
 762
-05:03:45,360 --> 05:03:53,070
-Yo, I am pleased to report that
+00:52:59,880 --> 00:53:04,258
+that
 rigor mortis has set in.
 
 763
-05:03:54,600 --> 05:03:58,240
+00:53:05,615 --> 00:53:09,393
 -Dude, this is insane.
 Why is he in there?
 
 764
-05:03:58,240 --> 05:04:01,040
+00:53:09,393 --> 00:53:12,422
 Why is he going back in there?
 
 765
-05:04:07,710 --> 05:04:09,780
+00:53:19,000 --> 00:53:22,066
 -Sorry. Are you
 laughing or crying?
 
 766
-05:04:11,120 --> 05:04:13,160
+00:53:22,066 --> 00:53:24,557
 -Laughing because
 the good times happened.
 
 767
-05:04:13,150 --> 05:04:15,190
+00:53:24,557 --> 00:53:26,941
 Crying because they're over.
 
 768
-05:04:15,190 --> 05:04:18,830
+00:53:26,941 --> 00:53:30,176
 -Oh. You're a poet, White Cocoa.
 
 769
-05:04:18,820 --> 05:04:21,020
+00:53:30,176 --> 00:53:32,532
 These are my sons,
 Mike and Jake.
 
 770
-05:04:21,030 --> 05:04:22,930
+00:53:32,532 --> 00:53:34,052
 -Mm, pleasure.
 
 771
-05:04:22,930 --> 05:04:25,600
+00:53:34,052 --> 00:53:36,920
 "Pleasure" would be your street
 name if you worked for me.
 
 772
-05:04:25,600 --> 05:04:26,600
+00:53:36,920 --> 00:53:38,649
 Think about it.
 
 773
-05:04:28,200 --> 05:04:30,330
+00:53:39,073 --> 00:53:42,199
 Nice to meet you, Jake.
 
 774
-05:04:34,770 --> 05:04:38,510
+00:53:45,813 --> 00:53:50,381
 -I'm sorry. How many
 pimps did Grandpa have?
 
 775
-05:04:39,250 --> 05:04:42,050
+00:53:50,381 --> 00:53:52,765
 -How many pimps?
 
 776
-05:04:42,050 --> 05:04:44,590
+00:53:52,765 --> 00:53:55,347
 You might as well...
 
 777
-05:04:44,580 --> 05:04:46,010
+00:53:55,347 --> 00:53:57,093
 You're asking how many pimps?
 
 778
-05:04:46,020 --> 05:04:49,920
+00:53:57,093 --> 00:54:00,929
 You might as well ask how many
 stars there are in the sky.
 
 779
-05:04:49,920 --> 05:04:51,690
+00:54:00,929 --> 00:54:03,321
 That'd be four.
 
 780
-05:04:52,160 --> 05:04:54,730
+00:54:03,321 --> 00:54:06,146
 I am very sorry for your loss,
 Katie.
 
 781
-05:04:54,730 --> 05:04:56,830
+00:54:06,146 --> 00:54:09,219
 -Oh. Thank you,
 Mac Daddy Vanilla.
 
 782
-05:05:01,540 --> 05:05:04,380
+00:54:12,210 --> 00:54:17,200
 -And you must be
 the famous Mike
-
-783
-05:05:04,370 --> 05:05:05,670
 I've heard so much about.
 
-784
-05:05:05,670 --> 05:05:08,540
+783
+00:54:17,200 --> 00:54:20,882
 You give me a call if you
 want to live that life.
 
-785
-05:05:12,480 --> 05:05:13,580
+784
+00:54:23,360 --> 00:54:28,588
 And you?
-
-786
-05:05:13,580 --> 05:05:16,080
 What were you, uh,
 adopted from the shire?
 
-787
-05:05:18,120 --> 05:05:20,360
+785
+00:54:29,913 --> 00:54:32,996
 Fugly-ass ho!
 
-788
-05:05:25,390 --> 05:05:29,560
+786
+00:54:36,196 --> 00:54:40,804
 -Okay. Um, Mom,
 what is "the life"?
 
-789
-05:05:29,560 --> 05:05:31,690
+787
+00:54:40,804 --> 00:54:43,750
 -Yeah, and why can't I live it?
 
-790
-05:05:31,700 --> 05:05:34,000
+788
+00:54:43,750 --> 00:54:48,151
 -Oh. Oh, honey,
-
-791
-05:05:34,000 --> 05:05:36,900
 you can do anything
 you set your mind to.
 
-792
-05:05:36,900 --> 05:05:41,340
+789
+00:54:48,151 --> 00:54:53,448
 -Really? All right, then.
 I'm really gonna do it!
 
-793
-06:00:03,430 --> 06:00:06,030
+790
+00:54:55,181 --> 00:55:00,226
+Bus
+
+791
+00:55:23,934 --> 00:55:27,324
 -Once again, Anitta.
 
-794
-06:00:17,570 --> 06:00:20,600
--[ Singing in Spanish ]
+792
+00:55:27,324 --> 00:55:32,645
+Varias queixas
 
-795
-06:00:25,630 --> 06:00:28,660
-[ Singing in Spanish ]
-
-796
-06:00:33,530 --> 06:00:36,560
-[ Singing in Spanish ]
-
-797
-06:00:41,500 --> 06:00:44,530
-[ Singing in Spanish ]
-
-798
-06:00:49,300 --> 06:00:52,330
-[ Singing in Spanish ]
-
-799
-06:00:57,100 --> 06:01:00,200
-[ Singing in Spanish ]
-
-800
-06:01:07,330 --> 06:01:10,360
-[ Singing in Spanish ]
-
-801
-06:01:11,330 --> 06:01:14,360
-[ Singing in Spanish ]
-
-802
-06:01:18,200 --> 06:01:21,230
-[ Singing in Spanish ]
-
-803
-06:01:24,900 --> 06:01:27,930
-[ Singing in Spanish ]
-
-804
-06:01:32,970 --> 06:01:36,000
-[ Singing in Spanish ]
-
-805
-06:01:38,870 --> 06:01:41,900
-[ Singing in Spanish ]
-
-806
-06:01:46,230 --> 06:01:49,260
-[ Singing in Spanish ]
-
-807
-06:01:53,630 --> 06:01:56,660
-[ Singing in Spanish ]
-
-808
-06:02:01,930 --> 06:02:04,960
-[ Singing in Spanish ]
-
-809
-06:02:10,570 --> 06:02:13,600
-[ Singing in Spanish ]
-
-810
-06:02:17,970 --> 06:02:21,000
-[ Singing in Spanish ]
-
-811
-06:02:24,370 --> 06:02:27,400
-[ Singing in Spanish ]
-
-812
-06:02:32,230 --> 06:02:35,260
-[ Singing in Spanish ]
-
-813
-06:02:38,700 --> 06:02:41,730
-[ Singing in Spanish ]
-
-814
-06:02:44,470 --> 06:02:47,470
-[ Singing in Spanish ]
-
-815
-06:02:47,470 --> 06:02:50,540
-d Yeah, yeah d
-
-816
-06:02:50,530 --> 06:02:53,030
-d Yeah, yeah-yeah-yeah-yeah d
-
-817
-06:02:53,030 --> 06:02:55,330
-d Yeah, yeah-yeah-yeah d
-
-818
-06:02:55,330 --> 06:02:57,960
-d Yeah, yeah-yeah-yeah-yeah d
-
-819
-06:02:57,970 --> 06:03:00,940
-d Yeah, yeah, yeah d
-
-820
-06:03:00,930 --> 06:03:03,730
-d Yeah, yeah, yeah d
-
-821
-06:03:03,730 --> 06:03:06,800
-d Yeah, yeah-yeah-yeah d
-
-822
-06:03:06,800 --> 06:03:09,030
-d Yeah-yeah-yeah-yeah d
-
-823
-07:00:03,140 --> 07:00:05,380
+793
+00:58:52,241 --> 00:58:54,834
 -I wonder what the
 new teacher is gonna be like.
 
-824
-07:00:05,370 --> 07:00:07,710
+794
+00:58:54,834 --> 00:58:58,736
 -Probably just like all
 the other instructors here
-
-825
-07:00:07,710 --> 07:00:11,980
 at Sherwood Academy --
+
+795
+00:58:58,736 --> 00:59:02,269
 another boring, humdrum stiff.
 
-826
-07:00:16,620 --> 07:00:21,960
+796
+00:59:05,438 --> 00:59:10,989
 -Discipline.
 Memorization. Conformity.
 
-827
-07:00:21,950 --> 07:00:25,120
+797
+00:59:10,989 --> 00:59:14,287
 All these things have
 one thing in common.
 
-828
-07:00:25,130 --> 07:00:27,100
+798
+00:59:14,287 --> 00:59:17,540
 They're not welcome
 in my classroom.
 
-829
-07:00:29,260 --> 07:00:31,860
+799
+00:59:18,431 --> 00:59:21,378
 -But, sir,
 the Academy creed is
 
-830
-07:00:31,860 --> 07:00:34,400
+800
+00:59:21,378 --> 00:59:24,703
 "the learned boy shall conform."
 
-831
-07:00:35,700 --> 07:00:37,300
+801
+00:59:24,703 --> 00:59:29,216
 -Phooey, boys!
-
-832
-07:00:37,300 --> 07:00:39,670
 Throw your pencils on the floor.
 
-833
-07:00:39,670 --> 07:00:42,140
+802
+00:59:29,216 --> 00:59:32,130
 -But the floor is
 where the dirt is.
 
-834
-07:00:42,140 --> 07:00:44,410
+803
+00:59:32,130 --> 00:59:34,912
 -Oh, do it anyway.
 
-835
-07:00:45,240 --> 07:00:46,410
--Okay.
-
-836
-07:00:46,950 --> 07:00:49,190
+804
+00:59:36,106 --> 00:59:41,312
 -This is crazy.
-
-837
-07:00:49,180 --> 07:00:51,250
 What we're doing is crazy.
 
-838
-07:00:54,190 --> 07:00:56,160
+805
+00:59:43,099 --> 00:59:45,520
 -Let me tell you something.
 
-839
-07:00:56,160 --> 07:00:58,730
+806
+00:59:45,520 --> 00:59:48,197
 You won't find anything
 in a textbook
 
-840
-07:00:58,730 --> 07:01:01,270
+807
+00:59:48,197 --> 00:59:51,427
 you can't find in your heart.
 
-841
-07:01:06,370 --> 07:01:08,570
+808
+00:59:55,387 --> 00:59:59,932
 -Hey, man, I see what you're
 doing with the whole
-
-842
-07:01:08,570 --> 07:01:10,510
 free-spirited teaching thing.
 
-843
-07:01:10,500 --> 07:01:12,670
+809
+00:59:59,932 --> 01:00:02,235
 And that might work in
 like a poetry class.
 
-844
-07:01:12,670 --> 07:01:14,970
+810
+01:00:02,235 --> 01:00:04,239
 -Yes. Now you're getting it.
 
-845
-07:01:14,970 --> 07:01:16,870
+811
+01:00:04,239 --> 01:00:07,433
 -Yeah, but this is math.
 
-846
-07:01:18,380 --> 07:01:20,220
+812
+01:00:07,433 --> 01:00:10,532
 -Right. "Math."
 
-847
-07:01:21,550 --> 07:01:25,890
+813
+01:00:10,532 --> 01:00:15,435
 You've probably all been taught
 that 5 times 5 is 25.
 
-848
-07:01:25,890 --> 07:01:29,060
+814
+01:00:15,435 --> 01:00:18,203
 But what if it wasn't?
 
-849
-07:01:29,060 --> 07:01:31,960
+815
+01:00:18,203 --> 01:00:21,520
 -It is though. It's 25.
 
-850
-07:01:31,960 --> 07:01:34,600
+816
+01:00:21,520 --> 01:00:23,986
 -But it doesn't have to be.
 
-851
-07:01:34,590 --> 07:01:35,860
+817
+01:00:23,986 --> 01:00:26,230
 Boy Red...
 
-852
-07:01:38,670 --> 07:01:39,970
+818
+01:00:27,842 --> 01:00:32,468
 Make up a number,
-
-853
-07:01:39,970 --> 07:01:42,570
 a number
 no one's even heard of before.
 
-854
-07:01:42,570 --> 07:01:45,370
+819
+01:00:33,437 --> 01:00:35,878
 -Um, beleventy?
 
-855
-07:01:47,440 --> 07:01:50,110
+820
+01:00:36,333 --> 01:00:39,240
 Excellent. How did that feel?
 
-856
-07:01:50,110 --> 07:01:52,510
+821
+01:00:39,240 --> 01:00:42,847
 -I mean,
 it felt weird coming out.
 
-857
-07:01:54,110 --> 07:01:56,210
+822
+01:00:42,847 --> 01:00:45,301
 -And it should. Oh!
 
-858
-07:01:56,220 --> 07:01:57,860
+823
+01:00:45,301 --> 01:00:48,134
 You, a number.
 
-859
-07:01:57,850 --> 07:02:01,290
+824
+01:00:48,134 --> 01:00:50,518
 -Um, um, christophthree?
 
-860
-07:02:01,290 --> 07:02:03,330
+825
+01:00:50,518 --> 01:00:53,708
 -Wonderful!
+Now, what do we get 
 
-861
-07:02:03,320 --> 07:02:07,460
-Now, what do we get when we add
+826
+01:00:53,708 --> 07:02:07,460
+when we add
 christophthree plus beleventy?
 
-862
+827
 07:02:07,460 --> 07:02:09,160
 What should it be?
 
-863
+828
 07:02:09,160 --> 07:02:14,430
 -Um, maybe, uh,
 maybe flu-- uh, fludeetwo?
 
-864
+829
 07:02:14,430 --> 07:02:16,500
 Yes. Maybe it's fludeetwo.
 
-865
+830
 07:02:16,500 --> 07:02:19,570
 -Chills! I have chills.
 Fludeetwo.
 
-866
+831
 07:02:19,570 --> 07:02:23,070
 Yes. Now, that's math
 without conformity.
 
-867
+832
 07:02:23,080 --> 07:02:26,520
 -Okay. Yeah, but math needs to
 conform in order
 
-868
+833
 07:02:26,510 --> 07:02:28,340
 to solve, like, real-world
 problems.
 
-869
+834
 07:02:28,350 --> 07:02:31,790
 -Oh! We can solve problems.
 
-870
+835
 07:02:31,780 --> 07:02:33,550
 Like 30.
 
-871
+836
 07:02:33,550 --> 07:02:35,950
 Why do you think
 we haven't solved 30 yet?
 
-872
+837
 07:02:38,260 --> 07:02:39,730
 -Because 30 is not a problem.
 
-873
+838
 07:02:39,730 --> 07:02:41,470
 It's a number.
 
-874
+839
 07:02:41,460 --> 07:02:44,460
 -And what
 if all the numbers had a color?
 
-875
+840
 07:02:44,460 --> 07:02:50,370
 Like, what if I hold up this
 many and say it was orange
 
-876
+841
 07:02:50,370 --> 07:02:54,110
 and this many was one
 of the other colors.
 
-877
+842
 07:02:54,110 --> 07:02:56,880
 -Lilac.
 That many could be lilac.
 
-878
+843
 07:02:56,880 --> 07:02:59,480
 -Yes.
 Now you've made up a color too.
 
-879
+844
 07:02:59,480 --> 07:03:01,180
 Ha! Oh!
 
-880
+845
 07:03:01,180 --> 07:03:03,050
 Let's try calculus.
 
-881
+846
 07:03:03,050 --> 07:03:04,880
 -Hey, man, I don't
 want to see you do calculus.
 
-882
+847
 07:03:04,880 --> 07:03:07,150
 You were just counting on
 your fingers.
 
-883
+848
 07:03:07,150 --> 07:03:08,890
 I mean, we're trying
 to get into college.
 
-884
+849
 07:03:08,890 --> 07:03:11,090
 -Why?
 So you can go off into the world
 
-885
+850
 07:03:11,090 --> 07:03:14,260
 and get some kind of "job"?
 
-886
+851
 07:03:14,260 --> 07:03:16,300
 -Yes.
 
-887
+852
 07:03:16,300 --> 07:03:18,570
 -Or so you can invent
 a machine.
 
-888
+853
 07:03:18,560 --> 07:03:20,660
 -It was the first thing.
 
-889
+854
 07:03:20,670 --> 07:03:22,200
 It was the first thing
 that you said.
 
-890
+855
 07:03:23,540 --> 07:03:25,670
 -There you go.
 
-891
+856
 07:03:25,670 --> 07:03:27,940
 Student teaching the teacher.
 
-892
+857
 07:03:27,940 --> 07:03:30,810
 I love it. Let's all go around.
 
-893
+858
 07:03:30,810 --> 07:03:32,340
 Everyone do a lesson.
 
-894
+859
 07:03:32,350 --> 07:03:37,020
 -Um, uh, why does Spanish math
 have cuatro but not English?
 
-895
+860
 07:03:37,020 --> 07:03:40,590
 -I don't know.
 Let's put that in.
 
-896
+861
 07:03:40,590 --> 07:03:44,130
 -Um, what if a one
 and two were married
 
-897
+862
 07:03:44,120 --> 07:03:48,990
 and three was their baby, and
 then four was their neighbor?
 
-898
+863
 07:03:49,000 --> 07:03:52,900
 -And what would five be?
 Could five be like their friend?
 
-899
+864
 07:03:52,900 --> 07:03:56,670
 -Uh, uh, I don't know,
 I don't know, I don't know.
 
-900
+865
 07:03:56,670 --> 07:03:59,570
 That was everything I had.
 I'm sorry.
 
-901
+866
 07:03:59,570 --> 07:04:01,440
 -Well, five would be the dog.
 
-902
+867
 07:04:05,250 --> 07:04:08,920
 Genius. You're a genius!
 
-903
+868
 07:04:08,920 --> 07:04:11,790
 Custodian, join us.
 Put that down.
 
-904
+869
 07:04:11,780 --> 07:04:14,080
 -Oh, okay.
 
-905
+870
 07:04:14,090 --> 07:04:17,260
 Somebody buy that man
 a beer after class.
 
-906
+871
 07:04:17,260 --> 07:04:19,630
 -We're 14!
 
-907
+872
 07:04:19,630 --> 07:04:22,100
 -Wait, I got one.
 Um, when counting,
 
-908
+873
 07:04:22,100 --> 07:04:25,840
 what if you could count
 every number in one breath?
 
-909
+874
 07:04:25,830 --> 07:04:28,230
 One-two-three-four-five!
 
-910
+875
 07:04:28,240 --> 07:04:29,640
 One-two-three! Oh!
 
-911
+876
 07:04:29,640 --> 07:04:31,980
 Never mind. You can't.
 
-912
+877
 07:04:31,970 --> 07:04:35,310
 -Oh, why can you divide
 two numbers
 
-913
+878
 07:04:35,310 --> 07:04:37,580
 but not unite two numbers?
 -Oh!
 
-914
+879
 07:04:37,580 --> 07:04:39,680
 -You can! It's addition!
 
-915
+880
 07:04:42,520 --> 07:04:44,190
 -This might get me in trouble,
 
-916
+881
 07:04:44,180 --> 07:04:46,880
 but I think I'm attracted
 to eight.
 
-917
+882
 07:04:46,890 --> 07:04:51,430
 It's got that itty bitty waist
 but that thang down below.
 
-918
+883
 07:04:51,430 --> 07:04:53,330
 -Yes!
 
-919
+884
 07:04:53,330 --> 07:04:55,930
 Academically speaking, eight...
 
-920
+885
 07:04:57,430 --> 07:04:59,530
 ...is slim thick.
 
-921
+886
 07:04:59,530 --> 07:05:03,330
 -No, no, no, no!
 This is all nonsense!
 
-922
+887
 07:05:03,340 --> 07:05:05,610
 I mean,
 we're just making crap up.
 
-923
+888
 07:05:05,610 --> 07:05:07,680
 Why don't we call this my mom?
 
-924
+889
 07:05:07,670 --> 07:05:09,640
 Oh, hello, Mommy.
 
-925
+890
 07:05:09,640 --> 07:05:11,340
 What?
 
-926
+891
 07:05:11,350 --> 07:05:13,650
 And look, Mother, oh,
 this is a door,
 
-927
+892
 07:05:13,650 --> 07:05:16,720
 and I'm a butterfly,
 and I can fly!
 
-928
+893
 07:05:24,660 --> 07:05:26,600
 -This did not happen.
 I was not here.
 
-929
+894
 07:05:28,300 --> 07:05:30,240
 He's the teacher. Good day.
 
-930
+895
 07:05:31,800 --> 07:05:33,670
 -Okey-dokey, students.
 
-931
+896
 07:05:33,670 --> 07:05:38,010
 Why don't we open
 our textbooks to page fludeetwo?
 
-932
+897
 07:05:38,000 --> 07:05:41,140
 And today we talkin' eight.
 
-933
+898
 08:00:01,640 --> 08:00:04,610
 -We're just four normal
 teens living in the suburbs.
 
-934
+899
 08:00:04,610 --> 08:00:06,910
 -But we do have a secret.
 
-935
+900
 08:00:06,910 --> 08:00:10,580
 -We transform into animals
 to battle evil aliens,
 
-936
+901
 08:00:10,580 --> 08:00:13,580
 but we always transform back
 in time for dinner.
 
-937
+902
 08:00:13,580 --> 08:00:16,580
 -Saving humanity?
 That's easy.
 
-938
+903
 08:00:16,580 --> 08:00:19,220
 The hard part is our homework.
 
-939
+904
 08:00:19,220 --> 08:00:21,260
 -We're the Beastomorphs.
 
-940
+905
 08:00:25,130 --> 08:00:27,970
 You crazy Earth kids may think
 you've seen the last of me,
 
-941
+906
 08:00:27,960 --> 08:00:29,900
 but I'll be back. Mwahahaha!
 
-942
+907
 08:00:31,660 --> 08:00:32,690
 -Good job, gang.
 
-943
+908
 08:00:32,700 --> 08:00:35,040
 We said that evil alien
 Chumongous
 
-944
+909
 08:00:35,030 --> 08:00:37,700
 back to the lousy planet
 he came from.
 
-945
+910
 08:00:37,700 --> 08:00:39,670
 -Uh-oh. It's 6:00 p.m.
 
-946
+911
 08:00:39,670 --> 08:00:41,800
 My mom's meatloaf
 is waiting for us.
 
-947
+912
 08:00:41,810 --> 08:00:43,510
 -Let's Beastomorph.
 
-948
+913
 08:00:48,250 --> 08:00:51,750
 -Nice. And my hair didn't
 even get messed up.
 
-949
+914
 08:00:54,520 --> 08:00:56,020
 -Who's chicken now?
 
-950
+915
 08:00:59,130 --> 08:01:01,770
 -This little piggy
 kicked some alien butt.
 
-951
+916
 08:01:01,760 --> 08:01:03,290
 -Good one! Now my turn.
 
-952
+917
 08:01:09,970 --> 08:01:13,710
 -What? What? Why are you
 all looking at me like that?
 
-953
+918
 08:01:13,710 --> 08:01:16,810
 Let me guess.
 My hair got messed up.
 
-954
+919
 08:01:16,810 --> 08:01:18,450
 -Lizzie, don't freak out,
 
-955
+920
 08:01:18,440 --> 08:01:19,910
 but when you combination
 sneeze-farted,
 
-956
+921
 08:01:19,910 --> 08:01:21,350
 you got stuck mid-morph.
 
-957
+922
 08:01:21,350 --> 08:01:23,720
 -You can't show up for Mom's
 meatloaf looking like that.
 
-958
+923
 08:01:23,720 --> 08:01:25,590
 -Brittany, stop!
 
-959
+924
 08:01:25,590 --> 08:01:27,120
 We all know your mom's gone,
 and you just eat chips.
 
-960
+925
 08:01:27,120 --> 08:01:28,760
 -I don't just eat chips.
 
-961
+926
 08:01:28,750 --> 08:01:31,020
 I eat chips...and soda.
 
-962
+927
 08:01:31,020 --> 08:01:32,790
 -Okay. Hey, we can
 figure this out, guys.
 
-963
+928
 08:01:32,790 --> 08:01:34,060
 Let's put our heads together.
 
-964
+929
 08:01:34,060 --> 08:01:35,830
 Oh, Lizzie, can you
 
-965
+930
 08:01:35,830 --> 08:01:37,200
 just look at the wall
 while we talk?
 
-966
+931
 08:01:37,200 --> 08:01:38,230
 -Sure.
 
-967
+932
 08:01:40,730 --> 08:01:41,970
 -A little hard to see.
 I'm kind of looking
 
-968
+933
 08:01:41,970 --> 08:01:43,710
 in two directions at once.
 
-969
+934
 08:01:43,700 --> 08:01:45,670
 -Think, guys.
 How can we fix this?
 
-970
+935
 08:01:45,670 --> 08:01:47,200
 -Okay, maybe if I sneeze
 
-971
+936
 08:01:47,210 --> 08:01:49,650
 and then fart again,
 I can change back.
 
-972
+937
 08:01:49,880 --> 08:01:51,410
 Ah-choo!
 
-973
+938
 08:01:52,650 --> 08:01:54,350
 -Lizzie, stop.
 You're gonna hurt yourself.
 
-974
+939
 08:01:54,350 --> 08:01:58,250
 -Maybe if I fart twice,
 then sneeze once, then burp?
 
-975
+940
 08:02:01,360 --> 08:02:02,430
 -Yuck!
 
-976
+941
 08:02:02,420 --> 08:02:04,090
 -That didn't work.
 
-977
+942
 08:02:04,090 --> 08:02:06,990
 Okay, what about,
 um, sneeze, fart, pause,
 
-978
+943
 08:02:06,990 --> 08:02:08,730
 spin around,
 fart three times quickly,
 
-979
+944
 08:02:08,730 --> 08:02:10,730
 burp once, then fart again?
 
-980
+945
 08:02:10,730 --> 08:02:12,630
 -Definitely not.
 Maybe if I do it?
 
-981
+946
 08:02:12,630 --> 08:02:13,630
 -Yeah.
 
-982
+947
 08:02:20,770 --> 08:02:21,870
 -I have to go home.
 
-983
+948
 08:02:29,620 --> 08:02:32,960
 -Oh, no! Chumongous is coming!
 It's time to morph back.
 
-984
+949
 08:02:32,950 --> 08:02:35,750
 -That's right! The great
 Chumongous has returned.
 
-985
+950
 08:02:35,760 --> 08:02:37,830
 You Earth kids may have
 thought you've defeated me,
 
-986
+951
 08:02:37,820 --> 08:02:39,390
 but I'm more powerful than ever!
 
-987
+952
 08:02:39,390 --> 08:02:42,030
 Oh, my God, it smells
 like [bleep] in here.
 
-988
+953
 08:02:42,030 --> 08:02:43,800
 -Sorry. We've all been spinning,
 
-989
+954
 08:02:43,800 --> 08:02:45,600
 farting, and burping
 for the past few minutes.
 
-990
+955
 08:02:45,600 --> 08:02:48,070
 -Why? Actually. Never mind.
 I don't care.
 
-991
+956
 08:02:48,070 --> 08:02:51,070
 Prepare to die!
 
-992
+957
 08:02:51,070 --> 08:02:52,240
 You...
 
-993
+958
 08:02:54,310 --> 08:02:56,510
 ...beautiful creature.
 
-994
+959
 08:02:56,510 --> 08:02:59,980
 You're just about the most
 perfect thing I've ever seen.
 
-995
+960
 08:02:59,980 --> 08:03:01,920
 - You really think so?
 
-996
+961
 08:03:01,910 --> 08:03:05,610
 -Yes. There's just one problem.
 
-997
+962
 08:03:05,620 --> 08:03:06,620
 -What is it?
 
-998
+963
 08:03:07,750 --> 08:03:11,020
 -That frog hand
 ain't got my thing in it.
 
-999
+964
 08:03:11,020 --> 08:03:12,760
 -Ew, dude!
 
-1000
+965
 08:03:12,760 --> 08:03:14,530
 -Sorry. Is that, like,
 a big deal for you guys?
 
-1001
+966
 08:03:14,530 --> 08:03:16,330
 That's, like, less
 than first base where I'm from.
 
-1002
+967
 08:03:16,330 --> 08:03:17,600
 Where I'm from,
 
-1003
+968
 08:03:17,600 --> 08:03:18,900
 if you go visit your grandmother
 in the hospital,
 
-1004
+969
 08:03:18,900 --> 08:03:20,670
 you lean over
 and your grandma just
 
-1005
+970
 08:03:20,670 --> 08:03:23,440
 grabs your thing out of respect!
 
-1006
+971
 08:03:23,440 --> 08:03:26,040
 -What?
 -So, what do you say?
 
-1007
+972
 08:03:26,040 --> 08:03:28,510
 You want to be
 my queen of Chumonga?
 
-1008
+973
 08:03:28,510 --> 08:03:32,150
 -Well...it sure beats homework.
 
