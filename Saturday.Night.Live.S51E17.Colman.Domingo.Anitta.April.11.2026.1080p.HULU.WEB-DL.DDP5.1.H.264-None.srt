@@ -2421,12 +2421,12 @@ will "f" Iran right up
 their Strait of Hormuz.
 
 481
-00:34:30,967 --> 00:34:35,051
+00:34:30,967 --> 00:34:35,151
 Asalam alaykum,
 you crazy bastards."
 
 482
-00:34:35,051 --> 00:34:38,750
+00:34:35,151 --> 00:34:38,750
 Now, I completely made that up.
 
 483
@@ -2651,13 +2651,13 @@ arrested a man
 who allegedly threw a Molotov cocktail
 
 523
-00:37:44,327 --> 00:37:49,137
+00:37:44,327 --> 00:37:47,349
 at the home of
 ChatGPT founder Sam Altman,
-after ChatGPT told him,
 
 524
-00:37:49,137 --> 00:37:51,346
+00:37:47,349 --> 00:37:51,346
+after ChatGPT told him,
 "That's a great idea!"
 
 525
@@ -2720,7 +2720,7 @@ from the back of the school bus.
 -What's up, Mr. Jost?
 
 537
-00:38:44,772 --> 00:38:49,743
+00:38:44,972 --> 00:38:49,743
 Guys?
 Calm down. Calm down.
 Okay?
@@ -3085,7 +3085,7 @@ I was diagnosed with ligma.
 -Yeah,
 
 605
-00:42:25,980 --> 00:42:29,125
+00:42:25,980 --> 00:42:29,225
 it's ligma fat nuts!
 
 606
@@ -3115,7 +3115,7 @@ you best no miss!
 fat nuts, man?
 
 611
-00:42:58,906 --> 00:43:02,158
+00:42:58,906 --> 00:43:02,198
 A new study...
 -Ask God.
 
@@ -3957,7 +3957,7 @@ I am very sorry for your loss,
 Katie.
 
 780
-00:54:06,146 --> 00:54:09,219
+00:54:06,146 --> 00:54:09,419
 -Oh. Thank you,
 Mac Daddy Vanilla.
 
@@ -4385,7 +4385,7 @@ but not unite two numbers?
 -Oh!
 
 870
-01:03:27,093 --> 01:03:30,169
+01:03:27,093 --> 01:03:30,269
 -You can! It's addition!
 
 871
@@ -4652,120 +4652,117 @@ Maybe if I do it?
 -I have to go home.
 
 925
-01:07:15,545 --> 08:02:32,960
+01:07:15,545 --> 01:07:19,338
 -Oh, no! Chumongous is coming!
 It's time to morph back.
 
 926
-08:02:32,950 --> 08:02:35,750
+01:07:19,338 --> 01:07:22,044
 -That's right! The great
 Chumongous has returned.
 
 927
-08:02:35,760 --> 08:02:37,830
+01:07:22,044 --> 01:07:25,679
 You Earth kids may have
 thought you've defeated me,
-
-928
-08:02:37,820 --> 08:02:39,390
 but I'm more powerful than ever!
 
-929
-08:02:39,390 --> 08:02:42,030
+928
+01:07:25,739 --> 01:07:28,333
 Oh, my God, it smells
 like [bleep] in here.
 
-930
-08:02:42,030 --> 08:02:43,800
+929
+01:07:28,333 --> 01:07:31,793
 -Sorry. We've all been spinning,
-
-931
-08:02:43,800 --> 08:02:45,600
 farting, and burping
 for the past few minutes.
 
-932
-08:02:45,600 --> 08:02:48,070
+930
+01:07:31,793 --> 01:07:34,413
 -Why? Actually. Never mind.
 I don't care.
 
-933
-08:02:48,070 --> 08:02:51,070
+931
+01:07:34,413 --> 01:07:36,954
 Prepare to die!
 
-934
-08:02:51,070 --> 08:02:52,240
+932
+01:07:36,954 --> 01:07:38,940
 You...
 
-935
-08:02:54,310 --> 08:02:56,510
+933
+01:07:40,241 --> 01:07:42,480
 ...beautiful creature.
 
-936
-08:02:56,510 --> 08:02:59,980
+934
+01:07:42,480 --> 01:07:46,160
 You're just about the most
 perfect thing I've ever seen.
 
-937
-08:02:59,980 --> 08:03:01,920
+935
+01:07:46,160 --> 01:07:48,080
 - You really think so?
 
-938
-08:03:01,910 --> 08:03:05,610
+936
+01:07:48,080 --> 01:07:53,316
 -Yes. There's just one problem.
-
-939
-08:03:05,620 --> 08:03:06,620
 -What is it?
 
-940
-08:03:07,750 --> 08:03:11,020
+937
+01:07:53,316 --> 01:07:57,298
 -That frog hand
 ain't got my thing in it.
 
-941
-08:03:11,020 --> 08:03:12,760
+938
+01:07:57,298 --> 01:07:58,622
 -Ew, dude!
 
-942
-08:03:12,760 --> 08:03:14,530
+939
+01:07:58,622 --> 01:08:00,927
 -Sorry. Is that, like,
 a big deal for you guys?
 
-943
-08:03:14,530 --> 08:03:16,330
+940
+01:08:00,927 --> 01:08:02,833
 That's, like, less
 than first base where I'm from.
 
-944
-08:03:16,330 --> 08:03:17,600
+941
+01:08:02,833 --> 01:08:05,079
 Where I'm from,
-
-945
-08:03:17,600 --> 08:03:18,900
 if you go visit your grandmother
 in the hospital,
 
-946
-08:03:18,900 --> 08:03:20,670
+942
+01:08:05,079 --> 01:08:09,655
 you lean over
 and your grandma just
-
-947
-08:03:20,670 --> 08:03:23,440
 grabs your thing out of respect!
 
-948
-08:03:23,440 --> 08:03:26,040
+943
+01:08:09,655 --> 01:08:10,605
 -What?
--So, what do you say?
 
-949
-08:03:26,040 --> 08:03:28,510
+944
+01:08:10,605 --> 01:08:14,816
+-So, what do you say?
 You want to be
 my queen of Chumonga?
 
-950
-08:03:28,510 --> 08:03:32,150
+945
+01:08:14,816 --> 01:08:19,169
 -Well...it sure beats homework.
+
+946
+01:08:44,877 --> 01:08:49,253
+Thank
+
+947
+01:08:51,560 --> 01:08:53,292
+Tonight
+
+948
+01:08:53,292 --> 01:08:58,536
+Inner cities
 
