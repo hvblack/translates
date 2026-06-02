@@ -735,12 +735,12 @@ No, this is your gift --
 a personal message from me.
 
 148
-00:10:19,641 --> 00:10:22,489
+00:10:19,641 --> 00:10:22,519
 But wait.
 I'm confused.
 
 149
-00:10:22,489 --> 00:10:25,853
+00:10:22,519 --> 00:10:25,853
 Your kid asked me
 to make a video for their mom.
 
@@ -967,11 +967,11 @@ green juice that I like?
 -What have we got, Officer?
 
 196
-00:13:27,286 --> 00:13:28,340
+00:13:27,286 --> 00:13:28,370
 Do you want to --
 
 197
-00:13:28,340 --> 00:13:32,489
+00:13:28,370 --> 00:13:32,789
 Do you want to finish the sip
 that's in your mouth, sir?
 
@@ -1031,7 +1031,7 @@ lumpy yogurt that I like?
 -I-I accessed the video, sir.
 
 209
-00:14:15,821 --> 00:14:17,782
+00:14:15,821 --> 00:14:17,882
 -Let me see it.
 
 210
@@ -1134,7 +1134,7 @@ Now go translate that message.
 Excuse me.
 
 230
-00:15:30,594 --> 00:15:32,404
+00:15:30,594 --> 00:15:32,444
 Okay. Um.
 
 231
@@ -1222,7 +1222,7 @@ please.
 I didn't get to do it yet.
 
 247
-00:16:37,136 --> 00:16:41,328
+00:16:37,136 --> 00:16:41,428
 -Oh, God! He's here!
 
 248
@@ -2040,7 +2040,7 @@ Uh, it's right here, boss.
 It's still in there.
 
 406
-00:25:29,250 --> 00:25:31,185
+00:25:29,250 --> 00:25:31,299
 -Good.
 
 407
@@ -2143,12 +2143,12 @@ Well, is the guy still here?
 -Oh, I don't --
 
 427
-00:26:28,971 --> 00:26:30,396
+00:26:28,971 --> 00:26:30,636
 -I'm here.
+-Oh, hi.
 
 428
-00:26:30,396 --> 00:26:33,759
--Oh, hi.
+00:26:30,636 --> 00:26:33,759
 -Uh, what does blue mean?
 -You don't want to know.
 
@@ -4092,12 +4092,12 @@ been so well-behaved,
 I just have a little treat.
 
 811
-00:52:51,466 --> 06:00:42,000
+00:52:51,466 --> 00:52:55,144
 Um...I thought maybe
 for the last few minutes,
 
 812
-06:00:42,010 --> 06:00:44,880
+00:52:55,144 --> 06:00:44,880
 uh, I'd give everyone a chance
 just to kind of let loose,
 
