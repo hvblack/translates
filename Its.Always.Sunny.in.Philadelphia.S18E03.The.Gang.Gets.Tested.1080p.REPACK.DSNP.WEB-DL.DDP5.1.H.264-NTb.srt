@@ -2340,12 +2340,12 @@ I'm still coming off the crack.
 Just give me a break.
 
 514
-00:22:42,787 --> 00:22:45,580
+00:22:42,787 --> 00:22:45,416
 Hey, Dennis, you didn't put
 anything into my ear, did you?
 
 515
-00:22:46,916 --> 00:22:48,708
+00:22:45,416 --> 00:22:48,708
 <i>♪ It's your life
 and I'm not gonna live it ♪</i>
 
