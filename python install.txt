@@ -11,3 +11,5 @@ c:/Users/Khramenkov_VV/AppData/Local/Microsoft/WindowsApps/python3.11.exe -m pip
 c:/Users/Khramenkov_VV/AppData/Local/Microsoft/WindowsApps/python3.11.exe -m pip download --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host files.pythonhosted.org pandas -d "./pandas"
 
 "C:\Program Files\Python311\python" -m pip install matplotlib/contourpy-1.2.1-cp311-cp311-win_amd64.whl -f ./ --no-index
+
+Скидываемся по 500 на мою карту до конца дня (8-964-750-01-50 Сбер, Т-Банк)
